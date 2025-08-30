@@ -1,0 +1,156 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detected": 3,
+    "captcha_detection_rate": 100.0,
+    "captcha_solved": 0,
+    "captcha_solve_rate": 0.0,
+    "data_extracted": 0,
+    "data_extraction_rate": 0.0,
+    "successful_bypasses": 0,
+    "overall_success_rate": 0.0,
+    "average_execution_time": 13.92,
+    "iframe_accesses": 3,
+    "datadome_tokens_extracted": 3,
+    "enhanced_parsing_successes": 0
+  },
+  "scraping_stats": {
+    "total_attempts": 3,
+    "successful_captures": 0,
+    "captcha_challenges": 3,
+    "captcha_solved": 0,
+    "iframe_accesses": 3,
+    "datadome_tokens_extracted": 3,
+    "enhanced_parsing_successes": 0
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "timestamp": "2025-08-30T04:43:05.777922",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 14.766840696334839,
+      "errors": [
+        "CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 0,
+        "successful_captures": 0,
+        "captcha_challenges": 1,
+        "captcha_solved": 0,
+        "iframe_accesses": 1,
+        "datadome_tokens_extracted": 1,
+        "enhanced_parsing_successes": 0
+      },
+      "datadome_tokens": {
+        "host": "geo.captcha-delivery.com",
+        "cid": "AHrlqAAAAAMA4miuJczU0zwAiBjonQ==",
+        "hsh": "229542D5C186C7F5A5BB092FBDD92B",
+        "t": null,
+        "s": 48727,
+        "e": "f105f127e34034ab9750d536921667cc6fba5b2f2996aaaac2d0d181c2baf87f",
+        "cp": null,
+        "rr": null,
+        "p": null,
+        "qp": "",
+        "cookies": "datadome=faK2~_z2iwW45THC7SeXbTUMzkQLw0oy_ugcy091aHDx7D63l_EBMNncVt~D6T7aDrEx8VuCJvUT4mYfnNVXLQyg2zCouzroOW2SqYFjk~pa519D2ZXrU1zcu5aCoKKW",
+        "iframe_sources": [
+          "https://geo.captcha-delivery.com/interstitial/?initialCid=AHrlqAAAAAMA4miuJczU0zwAiBjonQ%3D%3D&hash=229542D5C186C7F5A5BB092FBDD92B&cid=faK2~_z2iwW45THC7SeXbTUMzkQLw0oy_ugcy091aHDx7D63l_EBMNncVt~D6T7aDrEx8VuCJvUT4mYfnNVXLQyg2zCouzroOW2SqYFjk~pa519D2ZXrU1zcu5aCoKKW&referer=https%3A%2F%2Fwww.g2.com%2Fcompare%2Fnotion-vs-obsidian&s=48727&b=1639491&dm=cd"
+        ],
+        "headers": {}
+      },
+      "extracted_data": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "timestamp": "2025-08-30T04:43:38.115603",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 13.358762979507446,
+      "errors": [
+        "CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 1,
+        "successful_captures": 0,
+        "captcha_challenges": 2,
+        "captcha_solved": 0,
+        "iframe_accesses": 2,
+        "datadome_tokens_extracted": 2,
+        "enhanced_parsing_successes": 0
+      },
+      "datadome_tokens": {
+        "host": "geo.captcha-delivery.com",
+        "cid": "AHrlqAAAAAMA4mKTtMyOTkwAiBjonQ==",
+        "hsh": "229542D5C186C7F5A5BB092FBDD92B",
+        "t": null,
+        "s": 48727,
+        "e": "f105f127e34034ab9750d536921667ccf89b67d08d81c2664bb81ea7ab007b02",
+        "cp": null,
+        "rr": null,
+        "p": null,
+        "qp": "",
+        "cookies": "datadome=TCgMdblfNlTRXnPWshe0j1ngNMMyDFfwzqPxMkAGnqLpc5LAQoPUqm8pasozUc3kOOtyWfk97Qgr43pvZpjcScdC3hmyqf47KJCXvtNhO7xnJwzUNtu4~1CM7kdaTUVn",
+        "iframe_sources": [
+          "https://geo.captcha-delivery.com/interstitial/?initialCid=AHrlqAAAAAMA4mKTtMyOTkwAiBjonQ%3D%3D&hash=229542D5C186C7F5A5BB092FBDD92B&cid=TCgMdblfNlTRXnPWshe0j1ngNMMyDFfwzqPxMkAGnqLpc5LAQoPUqm8pasozUc3kOOtyWfk97Qgr43pvZpjcScdC3hmyqf47KJCXvtNhO7xnJwzUNtu4~1CM7kdaTUVn&referer=https%3A%2F%2Fwww.g2.com%2Fcompare%2Fnotion-vs-obsidian%3Fp%3D1&s=48727&b=1639491&dm=cd"
+        ],
+        "headers": {}
+      },
+      "extracted_data": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "timestamp": "2025-08-30T04:44:08.661468",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 13.631984233856201,
+      "errors": [
+        "CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 2,
+        "successful_captures": 0,
+        "captcha_challenges": 3,
+        "captcha_solved": 0,
+        "iframe_accesses": 3,
+        "datadome_tokens_extracted": 3,
+        "enhanced_parsing_successes": 0
+      },
+      "datadome_tokens": {
+        "host": "geo.captcha-delivery.com",
+        "cid": "AHrlqAAAAAMAohIguLYxT2YAiBjonQ==",
+        "hsh": "229542D5C186C7F5A5BB092FBDD92B",
+        "t": null,
+        "s": 48727,
+        "e": "f105f127e34034ab9750d536921667cc6e5e303641bb14c693b526dcae507970",
+        "cp": null,
+        "rr": null,
+        "p": null,
+        "qp": "",
+        "cookies": "datadome=XkDSAYm_ddoCmpIe6XWzI3ufrhsgFK6hzHse2JVnaNTxOVbh87uIj6BL9vNFqHZ7WCRDJ3qWZ8VckS7ITnPtUY8RJ_Y65bIBKS2At3UfUsGzL_SFsh0DznwimNFeZwaQ",
+        "iframe_sources": [
+          "https://geo.captcha-delivery.com/interstitial/?initialCid=AHrlqAAAAAMAohIguLYxT2YAiBjonQ%3D%3D&hash=229542D5C186C7F5A5BB092FBDD92B&cid=XkDSAYm_ddoCmpIe6XWzI3ufrhsgFK6hzHse2JVnaNTxOVbh87uIj6BL9vNFqHZ7WCRDJ3qWZ8VckS7ITnPtUY8RJ_Y65bIBKS2At3UfUsGzL_SFsh0DznwimNFeZwaQ&referer=https%3A%2F%2Fwww.g2.com%2Fcompare%2Fnotion-vs-obsidian%3Fp%3D2&s=48727&b=1639491&dm=cd"
+        ],
+        "headers": {}
+      },
+      "extracted_data": null
+    }
+  ],
+  "implementation_details": {
+    "enhanced_head_to_head": "Incorporated from ENHANCED_HEAD_TO_HEAD_IMPLEMENTATION.md",
+    "four_way_comparison": "Incorporated from FOUR_WAY_COMPARISON_GUIDE.md",
+    "breakthrough_iframe_bypass": "Incorporated from breakthrough_iframe_bypass.py",
+    "captcha2_js_analysis": "Incorporated from captcha2.js and STRATEGIC_CODE_ANALYSIS.md",
+    "strategic_anti_detection": "Complete anti-detection strategy implementation",
+    "enhanced_parsing": "Comprehensive G2.com data extraction"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "challenge_detected": 0,
+    "challenge_detection_rate": 0.0,
+    "challenge_bypassed": 0,
+    "challenge_bypass_rate": 0,
+    "data_extracted": 0,
+    "data_extraction_rate": 0.0,
+    "successful_bypasses": 0,
+    "overall_success_rate": 0.0,
+    "average_execution_time": 0.0,
+    "cloudflare_bypasses": 0,
+    "session_rotations": 0,
+    "header_rotations": 0
+  },
+  "bypass_stats": {
+    "total_attempts": 3,
+    "successful_bypasses": 0,
+    "cloudflare_bypasses": 0,
+    "session_rotations": 0,
+    "header_rotations": 0
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "timestamp": "2025-08-30T04:36:32.432322",
+      "challenge_detected": false,
+      "challenge_bypassed": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 0.00021505355834960938,
+      "errors": [
+        "Error during bypass: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`."
+      ],
+      "bypass_stats": {
+        "total_attempts": 0,
+        "successful_bypasses": 0,
+        "cloudflare_bypasses": 0,
+        "session_rotations": 0,
+        "header_rotations": 0
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "timestamp": "2025-08-30T04:36:42.785325",
+      "challenge_detected": false,
+      "challenge_bypassed": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 0.0016477108001708984,
+      "errors": [
+        "Error during bypass: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`."
+      ],
+      "bypass_stats": {
+        "total_attempts": 1,
+        "successful_bypasses": 0,
+        "cloudflare_bypasses": 0,
+        "session_rotations": 0,
+        "header_rotations": 0
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "timestamp": "2025-08-30T04:36:51.939165",
+      "challenge_detected": false,
+      "challenge_bypassed": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 0.0007700920104980469,
+      "errors": [
+        "Error during bypass: Using http2=True, but the 'h2' package is not installed. Make sure to install httpx using `pip install httpx[http2]`."
+      ],
+      "bypass_stats": {
+        "total_attempts": 2,
+        "successful_bypasses": 0,
+        "cloudflare_bypasses": 0,
+        "session_rotations": 0,
+        "header_rotations": 0
+      }
+    }
+  ],
+  "implementation_details": {
+    "anti_playwright_strategy": "Uses HTTP sessions instead of Playwright",
+    "cloudflare_bypass": "HTTP header and method rotation",
+    "datadome_bypass": "Cookie and session management",
+    "stealth_techniques": "Header rotation, user agent rotation, session persistence"
+  }
+}

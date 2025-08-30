@@ -1,0 +1,176 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "challenge_detected": 0,
+    "challenge_detection_rate": 0.0,
+    "challenge_bypassed": 0,
+    "challenge_bypass_rate": 0,
+    "data_extracted": 3,
+    "data_extraction_rate": 100.0,
+    "successful_bypasses": 3,
+    "overall_success_rate": 100.0,
+    "average_execution_time": 0.16,
+    "cloudflare_bypasses": 0,
+    "session_rotations": 0,
+    "header_rotations": 3
+  },
+  "bypass_stats": {
+    "total_attempts": 3,
+    "successful_bypasses": 0,
+    "cloudflare_bypasses": 0,
+    "session_rotations": 0,
+    "header_rotations": 3
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "timestamp": "2025-08-30T04:37:11.987555",
+      "challenge_detected": false,
+      "challenge_bypassed": false,
+      "data_extracted": true,
+      "success": true,
+      "execution_time": 0.24033784866333008,
+      "errors": [],
+      "bypass_stats": {
+        "total_attempts": 0,
+        "successful_bypasses": 0,
+        "cloudflare_bypasses": 0,
+        "session_rotations": 0,
+        "header_rotations": 1
+      },
+      "extracted_data": {
+        "url": "https://www.g2.com/compare/notion-vs-obsidian",
+        "status_code": 403,
+        "content_length": 857,
+        "extraction_timestamp": "2025-08-30T04:37:12.227247",
+        "challenge_bypassed": true,
+        "headers": {
+          "date": "Sat, 30 Aug 2025 11:37:12 GMT",
+          "content-type": "text/html;charset=utf-8",
+          "transfer-encoding": "chunked",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "access-control-allow-origin": "*",
+          "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+          "set-cookie": "datadome=ydugSR4qT3TeBnuyIfnhPjocmXxIIkjwqfby20sexsHPYc7Nf1ubvfq4KagTP6tMIBxlgkaC2QOfPpeiGCDHE6qIQcHMSLAxwHrsPfuKowCF6xbVI4oOrOFieF0dXjSc; Max-Age=31536000; Domain=.g2.com; Path=/; Secure; SameSite=Lax, __cf_bm=wU3_X36Q0R.rayf9lPHrPrbm1Wl6p7NPBMGnVkgvqb0-1756553832-1.0.1.1-6KpG_T2wHu81ynYzI41SOe0O3ay02SSqp8k9JovUhi8yZ66Exwx5UyzB3iORaj8iCDh8bXlq4alBIWpOJccjb_hMWR9O6NSZNFhvGXUYwlk; path=/; expires=Sat, 30-Aug-25 12:07:12 GMT; domain=.g2.com; HttpOnly; Secure; SameSite=None",
+          "pragma": "no-cache",
+          "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+          "access-control-allow-credentials": "true",
+          "access-control-expose-headers": "x-dd-b, x-set-cookie",
+          "charset": "utf-8",
+          "x-datadome": "protected",
+          "x-datadome-cid": "AHrlqAAAAAMAxdlOgh-qeIMAiBjonQ==",
+          "x-dd-b": "259",
+          "vary": "Accept-Encoding",
+          "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+          "x-content-type-options": "nosniff",
+          "server": "cloudflare",
+          "cf-ray": "9773feab4dc8ed39-SJC"
+        },
+        "g2_content_detected": false
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "timestamp": "2025-08-30T04:37:23.363106",
+      "challenge_detected": false,
+      "challenge_bypassed": false,
+      "data_extracted": true,
+      "success": true,
+      "execution_time": 0.12272310256958008,
+      "errors": [],
+      "bypass_stats": {
+        "total_attempts": 1,
+        "successful_bypasses": 0,
+        "cloudflare_bypasses": 0,
+        "session_rotations": 0,
+        "header_rotations": 2
+      },
+      "extracted_data": {
+        "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+        "status_code": 403,
+        "content_length": 868,
+        "extraction_timestamp": "2025-08-30T04:37:23.485652",
+        "challenge_bypassed": true,
+        "headers": {
+          "date": "Sat, 30 Aug 2025 11:37:23 GMT",
+          "content-type": "text/html;charset=utf-8",
+          "transfer-encoding": "chunked",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "access-control-allow-origin": "*",
+          "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+          "set-cookie": "datadome=sLXDMm2PNMviuVkZGopoFkQqHi5Nu6gDGGKeLhugy8ZxwGyigEZw8JMGwIQJ1KkWKdKJQVrElstK0xGQIEjxluQNaPG~QMU1V992pR9hLWG6WW0VVc4BiB4c1~d6Qdfl; Max-Age=31536000; Domain=.g2.com; Path=/; Secure; SameSite=Lax, __cf_bm=5WiXh6yiMz.P652XxORo0rlgX9OPc0GhREg6mpTHFNc-1756553843-1.0.1.1-JD1sUAYSDnaFaBxb567b4OeZVZDuE0sKhqJJoiO2NC6Kdl_NpCnHiDyn5_PH1Uhk1TjqLAUx1M8y5uBbmyPciB7XltQNUPGxOxc7W9SxsIE; path=/; expires=Sat, 30-Aug-25 12:07:23 GMT; domain=.g2.com; HttpOnly; Secure; SameSite=None",
+          "pragma": "no-cache",
+          "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+          "access-control-allow-credentials": "true",
+          "access-control-expose-headers": "x-dd-b, x-set-cookie",
+          "charset": "utf-8",
+          "x-datadome": "protected",
+          "x-datadome-cid": "AHrlqAAAAAMAmg8PYttRozoAiBjonQ==",
+          "x-dd-b": "259",
+          "vary": "Accept-Encoding",
+          "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+          "x-content-type-options": "nosniff",
+          "server": "cloudflare",
+          "cf-ray": "9773fef1ab65ce4c-SJC"
+        },
+        "g2_content_detected": false
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "timestamp": "2025-08-30T04:37:30.386295",
+      "challenge_detected": false,
+      "challenge_bypassed": false,
+      "data_extracted": true,
+      "success": true,
+      "execution_time": 0.11795687675476074,
+      "errors": [],
+      "bypass_stats": {
+        "total_attempts": 2,
+        "successful_bypasses": 0,
+        "cloudflare_bypasses": 0,
+        "session_rotations": 0,
+        "header_rotations": 3
+      },
+      "extracted_data": {
+        "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+        "status_code": 403,
+        "content_length": 853,
+        "extraction_timestamp": "2025-08-30T04:37:30.504044",
+        "challenge_bypassed": true,
+        "headers": {
+          "date": "Sat, 30 Aug 2025 11:37:30 GMT",
+          "content-type": "text/html;charset=utf-8",
+          "transfer-encoding": "chunked",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "access-control-allow-origin": "*",
+          "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+          "set-cookie": "datadome=hsCJPIzxxs5tDTF5FcMxWOa9~kOYNe6COyQezof4T3L9wp5KwYiNt48_CFhMqmcFdCN9A3yR5IgPmxC_WTonJP~wYTN3exhdUhlkAVTSfj31m1XJMBqqqeM8umZFmKI9; Max-Age=31536000; Domain=.g2.com; Path=/; Secure; SameSite=Lax, __cf_bm=rQamvMuQs2scfwbbFp2mRiFdVOMtZe9fD4dPrC9r01M-1756553850-1.0.1.1-0FSmOeWKH741hzgoRkUeaMkub4Qhkv1vDDunbYuVZLBtA1k3lLSBW404CGrefecoBj5ZO0DsaqeT1BodCgl8GGQxPl7cqMY97rs16uJ0Syg; path=/; expires=Sat, 30-Aug-25 12:07:30 GMT; domain=.g2.com; HttpOnly; Secure; SameSite=None",
+          "pragma": "no-cache",
+          "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+          "access-control-allow-credentials": "true",
+          "access-control-expose-headers": "x-dd-b, x-set-cookie",
+          "charset": "utf-8",
+          "x-datadome": "protected",
+          "x-datadome-cid": "AHrlqAAAAAMApnkYtL5ujMcAiBjonQ==",
+          "x-dd-b": "259",
+          "vary": "Accept-Encoding",
+          "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+          "x-content-type-options": "nosniff",
+          "server": "cloudflare",
+          "cf-ray": "9773ff1d69affa56-SJC"
+        },
+        "g2_content_detected": false
+      }
+    }
+  ],
+  "implementation_details": {
+    "anti_playwright_strategy": "Uses HTTP sessions instead of Playwright",
+    "cloudflare_bypass": "HTTP header and method rotation",
+    "datadome_bypass": "Cookie and session management",
+    "stealth_techniques": "Header rotation, user agent rotation, session persistence"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detected": 3,
+    "captcha_detection_rate": 100.0,
+    "captcha_solved": 0,
+    "captcha_solve_rate": 0.0,
+    "data_extracted": 0,
+    "data_extraction_rate": 0.0,
+    "successful_bypasses": 0,
+    "overall_success_rate": 0.0,
+    "average_execution_time": 7.24,
+    "mathematical_function_calls": 0,
+    "coordinate_calculations": 0,
+    "puzzle_validations": 0,
+    "event_simulations": 0,
+    "iframe_navigations": 0
+  },
+  "puzzle_solving_stats": {
+    "total_attempts": 3,
+    "successful_solves": 0,
+    "mathematical_function_calls": 0,
+    "coordinate_calculations": 0,
+    "puzzle_validations": 0,
+    "event_simulations": 0,
+    "iframe_navigations": 0
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "timestamp": "2025-08-30T04:33:41.565568",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 8.244923830032349,
+      "errors": [
+        "Error during bypass: object FrameLocator can't be used in 'await' expression"
+      ],
+      "mathematical_stats": {
+        "total_attempts": 0,
+        "successful_solves": 0,
+        "mathematical_function_calls": 0,
+        "coordinate_calculations": 0,
+        "puzzle_validations": 0,
+        "event_simulations": 0,
+        "iframe_navigations": 0
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "timestamp": "2025-08-30T04:33:59.816471",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 6.862116813659668,
+      "errors": [
+        "Error during bypass: object FrameLocator can't be used in 'await' expression"
+      ],
+      "mathematical_stats": {
+        "total_attempts": 1,
+        "successful_solves": 0,
+        "mathematical_function_calls": 0,
+        "coordinate_calculations": 0,
+        "puzzle_validations": 0,
+        "event_simulations": 0,
+        "iframe_navigations": 0
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "timestamp": "2025-08-30T04:34:16.684551",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 6.620689153671265,
+      "errors": [
+        "Error during bypass: object FrameLocator can't be used in 'await' expression"
+      ],
+      "mathematical_stats": {
+        "total_attempts": 2,
+        "successful_solves": 0,
+        "mathematical_function_calls": 0,
+        "coordinate_calculations": 0,
+        "puzzle_validations": 0,
+        "event_simulations": 0,
+        "iframe_navigations": 0
+      }
+    }
+  ],
+  "implementation_details": {
+    "deobfuscated_mathematical_engine": "Implemented from puzzle.md analysis",
+    "anti_bot_rulebook_compliance": "Full compliance from ANTI_BOT_RULEBOOK_ANALYSIS.md",
+    "event_simulation": "Complete mousemove + mousedown + mouseup sequence",
+    "mathematical_precision": "Math.floor precision with 20px threshold",
+    "iframe_coordinate_conversion": "Proper iframe to global coordinate mapping"
+  }
+}
