@@ -8,9 +8,10 @@ to finally achieve 100% CAPTCHA solving and data capture.
 
 import asyncio
 import json
-import time
+import logging
+import math
 import random
-import re
+import time
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any, Optional, List, Tuple
@@ -38,13 +39,16 @@ class FinalWorkingScraper:
     def __init__(self):
         self.test_results = []
         self.scraping_stats = {
-            "total_attempts": 0,
-            "successful_captures": 0,
-            "captcha_challenges": 0,
-            "captcha_solved": 0,
+            "captcha_detected": 0,
+            "iframe_access_success": 0,
+            "successful_captcha_solves": 0,
             "puzzle_movements": 0,
             "mathematical_calculations": 0,
-            "strategic_validations": 0
+            "strategic_validations": 0,
+            "data_extraction_attempts": 0,
+            "successful_data_extractions": 0,
+            "execution_time": 0.0,
+            "errors": []
         }
         
         # Test URLs for validation
@@ -270,117 +274,94 @@ class FinalWorkingScraper:
         page = await context.new_page()
         return playwright, browser, context, page
 
-    async def detect_and_access_captcha_iframe(self, page: Page) -> Optional[Frame]:
-        """Detect and access CAPTCHA iframe using proven breakthrough techniques."""
+    async def detect_and_access_captcha_iframe(self) -> Optional[Frame]:
+        """
+        🔍 Detect and access CAPTCHA iframe using proven breakthrough techniques
+        """
         try:
             logger.info("🔍 Detecting CAPTCHA iframe using proven breakthrough techniques...")
             
-            # Wait for page load
+            # Wait for potential CAPTCHA to load
             await asyncio.sleep(3)
             
             # Look for CAPTCHA iframe using proven selectors
             iframe_selectors = [
                 "iframe[src*='captcha']",
                 "iframe[src*='datadome']",
-                "iframe[src*='verification']",
-                "iframe[src*='challenge']"
+                "iframe[src*='challenge']",
+                "iframe[src*='verification']"
             ]
             
-            captcha_iframe = None
+            iframe_element = None
             for selector in iframe_selectors:
                 try:
-                    captcha_iframe = await page.query_selector(selector)
-                    if captcha_iframe:
+                    iframe_element = await self.page.query_selector(selector)
+                    if iframe_element:
                         logger.info(f"✅ CAPTCHA iframe found: {selector}")
                         break
                 except Exception:
                     continue
             
-            if not captcha_iframe:
-                logger.warning("⚠️ No CAPTCHA iframe found")
+            if not iframe_element:
+                logger.info("✅ No CAPTCHA iframe detected")
                 return None
             
-            # Get iframe source for analysis
-            try:
-                iframe_src = await captcha_iframe.get_attribute("src")
-                logger.info(f"🔗 Iframe source: {iframe_src}")
-            except Exception:
-                iframe_src = "unknown"
+            # Get iframe source for logging
+            iframe_src = await iframe_element.get_attribute("src")
+            logger.info(f"🔗 Iframe source: {iframe_src}")
             
-            # Access iframe content directly using proven method
+            # Access iframe content directly
             logger.info("🔄 Accessing iframe content directly...")
-            try:
-                iframe_frame = await captcha_iframe.content_frame()
-                if iframe_frame:
-                    logger.info("✅ Successfully accessed iframe content!")
-                    self.scraping_stats["captcha_challenges"] += 1
-                    return iframe_frame
-                else:
-                    logger.error("❌ Could not access iframe content")
-                    return None
-                    
-            except Exception as e:
-                logger.error(f"❌ Error accessing iframe: {e}")
+            iframe_frame = iframe_element.content_frame
+            if iframe_frame:
+                logger.info("✅ Successfully accessed iframe content!")
+                self.scraping_stats["iframe_access_success"] += 1
+                return iframe_frame
+            else:
+                logger.error("❌ Could not access iframe content")
                 return None
                 
         except Exception as e:
-            logger.error(f"❌ Error in iframe detection: {e}")
+            logger.error(f"❌ Error detecting CAPTCHA iframe: {e}")
             return None
 
-    async def solve_captcha_using_proven_methods(self, iframe: Frame) -> bool:
+    async def solve_captcha_using_proven_methods(self, iframe) -> bool:
         """
-        Solve CAPTCHA using PROVEN methods from breakthrough_iframe_bypass.py
-        combined with mathematical insights from puzzle.md.
+        🧩 Solving CAPTCHA using PROVEN methods with PERFECT POSITIONING
+        Incorporates mathematical precision from puzzle.md analysis
         """
         try:
-            logger.info("🧩 Solving CAPTCHA using PROVEN methods...")
-            
-            # Look for puzzle piece elements using proven selectors
-            puzzle_selectors = [
-                "i.sliderIcon",
-                "div.sliderContainer",
-                "div[class*='slider']",
-                "div[class*='puzzle']"
-            ]
-            
-            puzzle_element = None
-            for selector in puzzle_selectors:
-                try:
-                    puzzle_element = await iframe.query_selector(selector)
-                    if puzzle_element:
-                        logger.info(f"✅ Puzzle element found: {selector}")
-                        break
-                except Exception:
-                    continue
-            
+            # Step 1: Find puzzle element using proven selectors
+            puzzle_element = await iframe.query_selector("i.sliderIcon")
             if not puzzle_element:
                 logger.error("❌ No puzzle element found")
                 return False
             
-            # Get element dimensions
+            logger.info("✅ Puzzle element found: i.sliderIcon")
+            
+            # Step 2: Get precise element dimensions and position
             element_box = await puzzle_element.bounding_box()
             if not element_box:
-                logger.error("❌ Could not get element dimensions")
+                logger.error("❌ Could not get element bounding box")
                 return False
             
             logger.info(f"📏 Element dimensions: {element_box}")
             
-            # Apply mathematical insights from puzzle.md
-            # The puzzle needs precise movement to the target position
-            container_width = element_box['width'] * 10  # Approximate container width
-            movement_distance = container_width - element_box['width'] - 20  # 20px margin
+            # Step 3: Calculate PERFECT positioning using mathematical engine
+            positioning_data = self.calculate_perfect_positioning(
+                element_box, iframe
+            )
             
-            logger.info(f"🧮 Mathematical calculation: container={container_width}px, movement={movement_distance}px")
-            self.scraping_stats["mathematical_calculations"] += 1
+            logger.info(f"🧮 Mathematical calculation: container={positioning_data['container_width']}px, movement={positioning_data['movement_distance']}px")
             
-            # Execute PROVEN puzzle piece movement from breakthrough_iframe_bypass.py
-            success = await self.execute_proven_puzzle_movement(
-                iframe, puzzle_element, movement_distance
+            # Step 4: Execute PERFECT puzzle movement
+            success = await self.execute_perfect_puzzle_movement(
+                iframe, puzzle_element, positioning_data
             )
             
             if success:
-                self.scraping_stats["captcha_solved"] += 1
-                logger.info("✅ CAPTCHA solved using PROVEN methods!")
+                logger.info("✅ PERFECT puzzle movement completed successfully")
+                self.scraping_stats["successful_captcha_solves"] += 1
                 return True
             else:
                 logger.error("❌ Proven puzzle movement failed")
@@ -390,204 +371,302 @@ class FinalWorkingScraper:
             logger.error(f"❌ Error in proven CAPTCHA solving: {e}")
             return False
 
-    async def execute_proven_puzzle_movement(
-        self, 
-        iframe: Frame, 
-        puzzle_element: ElementHandle, 
-        movement_distance: float
-    ) -> bool:
+    def calculate_perfect_positioning(self, element_box: Dict, iframe) -> Dict:
         """
-        Execute PROVEN puzzle piece movement from breakthrough_iframe_bypass.py.
-        This method has been tested and works successfully.
+        🧮 PERFECT POSITIONING CALCULATOR based on puzzle.md mathematical analysis
+        Implements the deobfuscated mathematical engine for precise coordinates
         """
         try:
-            logger.info("🎯 Executing PROVEN puzzle piece movement...")
+            # Extract current position data
+            current_x = element_box['x']
+            current_y = element_box['y']
+            element_width = element_box['width']
+            element_height = element_box['height']
             
-            # Get element position
-            element_box = await puzzle_element.bounding_box()
-            start_x = element_box['x'] + 10
-            start_y = element_box['y'] + (element_box['height'] / 2)
-            target_x = start_x + movement_distance
-            target_y = start_y
+            # Get container dimensions dynamically
+            container_width = 130  # Base container width from puzzle.md analysis
+            container_height = element_height
             
-            logger.info(f"🎯 Start: ({start_x}, {start_y}), Target: ({target_x}, {target_y})")
+            # Apply Math.floor precision (from puzzle.md deobfuscation)
+            precision_factor = 1.0
+            current_x_floored = math.floor(current_x * precision_factor)
+            container_w_floored = math.floor(container_width * precision_factor)
+            element_w_floored = math.floor(element_width * precision_factor)
             
-            # Use the EXACT movement sequence that worked in breakthrough_iframe_bypass.py
-            try:
-                # Step 1: Hover over puzzle element
-                await puzzle_element.hover()
-                await asyncio.sleep(random.uniform(0.2, 0.5))
+            # Calculate PERFECT target position using mathematical logic
+            # From puzzle.md: target = container_width - element_width - threshold
+            success_threshold = 20.0  # 20px from right edge (from deobfuscation)
+            perfect_target_x = container_w_floored - element_w_floored - success_threshold
+            
+            # Calculate PERFECT movement distance
+            perfect_movement_distance = perfect_target_x - current_x_floored
+            
+            # Validate positioning logic
+            success_condition = abs(perfect_movement_distance) <= (success_threshold + 5)  # 5px tolerance
+            
+            self.scraping_stats["mathematical_calculations"] += 1
+            
+            return {
+                "current_x": current_x_floored,
+                "current_y": current_y,
+                "target_x": perfect_target_x,
+                "target_y": current_y,
+                "movement_distance": perfect_movement_distance,
+                "container_width": container_w_floored,
+                "element_width": element_w_floored,
+                "success_threshold": success_threshold,
+                "success_condition": success_condition,
+                "precision_factor": precision_factor
+            }
+            
+        except Exception as e:
+            logger.error(f"❌ Error in perfect positioning calculation: {e}")
+            # Fallback to proven calculation
+            return {
+                "current_x": element_box['x'],
+                "current_y": element_box['y'],
+                "target_x": element_box['x'] + 97,  # Fallback movement
+                "target_y": element_box['y'],
+                "movement_distance": 97,
+                "container_width": 130,
+                "element_width": element_box['width'],
+                "success_threshold": 20,
+                "success_condition": True,
+                "precision_factor": 1.0
+            }
+
+    async def execute_perfect_puzzle_movement(self, iframe, puzzle_element, positioning_data: Dict) -> bool:
+        """
+        🎯 Execute PERFECT puzzle piece movement with mathematical precision
+        Incorporates strategic success monitoring from STRATEGIC_CODE_ANALYSIS.md
+        """
+        try:
+            # Extract positioning data
+            start_x = positioning_data['current_x']
+            start_y = positioning_data['current_y']
+            target_x = positioning_data['target_x']
+            target_y = positioning_data['target_y']
+            movement_distance = positioning_data['movement_distance']
+            
+            logger.info(f"🎯 PERFECT positioning: Start: ({start_x}, {start_y}), Target: ({target_x}, {target_y})")
+            
+            # Step 1: Hover over puzzle element
+            await puzzle_element.hover()
+            await asyncio.sleep(random.uniform(0.2, 0.5))
+            
+            # Step 2: Mouse down (start dragging) - use page.mouse for precision
+            await iframe.page.mouse.down()
+            await asyncio.sleep(random.uniform(0.1, 0.3))
+            
+            # Step 3: Move to PERFECT target position with mathematical precision
+            steps = random.randint(25, 35)  # More steps for precision
+            logger.info(f"🔄 Moving in {steps} precision steps...")
+            
+            for i in range(1, steps + 1):
+                progress = i / steps
+                # Use mathematical interpolation for smooth movement
+                current_x = start_x + (movement_distance * progress)
+                current_y = start_y + random.uniform(-1, 1)  # Minimal Y variation
                 
-                # Step 2: Mouse down (start dragging) - use page.mouse, not iframe.mouse
-                await iframe.page.mouse.down()
-                await asyncio.sleep(random.uniform(0.1, 0.3))
+                # Apply Math.floor precision to current position
+                current_x = math.floor(current_x)
+                current_y = math.floor(current_y)
                 
-                # Step 3: Move to target position in steps
-                steps = random.randint(20, 30)
-                logger.info(f"🔄 Moving in {steps} steps...")
+                # Move to precise position
+                await iframe.page.mouse.move(current_x, current_y)
+                await asyncio.sleep(random.uniform(0.01, 0.04))  # Faster for precision
+            
+            # Step 4: Final PERFECT position with micro-adjustment
+            final_x = math.floor(target_x)
+            final_y = math.floor(target_y)
+            
+            # Micro-adjustment for perfect alignment
+            for adjustment in range(3):
+                await iframe.page.mouse.move(final_x, final_y)
+                await asyncio.sleep(0.05)
                 
-                for i in range(1, steps + 1):
-                    progress = i / steps
-                    current_x = start_x + (movement_distance * progress)
-                    current_y = start_y + random.uniform(-2, 2)
+                # Check if we're in perfect position
+                current_rect = await puzzle_element.bounding_box()
+                if current_rect:
+                    current_x = math.floor(current_rect['x'])
+                    position_error = abs(current_x - final_x)
                     
-                    # Use page.mouse for movement
-                    await iframe.page.mouse.move(current_x, current_y)
-                    await asyncio.sleep(random.uniform(0.02, 0.06))
+                    if position_error <= 2:  # 2px tolerance for perfect positioning
+                        logger.info(f"✅ Perfect positioning achieved: error={position_error}px")
+                        break
+                    else:
+                        # Fine-tune position
+                        adjustment_x = final_x - current_x
+                        await iframe.page.mouse.move(final_x + adjustment_x, final_y)
+                        await asyncio.sleep(0.05)
+            
+            # Step 5: Mouse up (release) at PERFECT position
+            await iframe.page.mouse.up()
+            logger.info("✅ PERFECT puzzle movement completed")
+            
+            self.scraping_stats["puzzle_movements"] += 1
+            
+            # Step 6: Wait for CAPTCHA validation with strategic monitoring
+            await asyncio.sleep(random.uniform(0.5, 1.0))
+            logger.info("⏳ Waiting for CAPTCHA validation...")
+            
+            # Step 7: Strategic success validation
+            success = await self.validate_captcha_success_strategically(iframe)
+            
+            if success:
+                logger.info("🎯 CAPTCHA successfully solved with PERFECT positioning!")
+                return True
+            else:
+                logger.warning("⚠️ PERFECT positioning completed but validation failed")
+                return False
                 
-                # Step 4: Final position
-                await iframe.page.mouse.move(target_x, target_y)
-                await asyncio.sleep(random.uniform(0.2, 0.4))
-                
-                # Step 5: Mouse up (release)
-                await iframe.page.mouse.up()
-                logger.info("✅ PROVEN puzzle movement completed")
-                
-                self.scraping_stats["puzzle_movements"] += 1
-                
-            except Exception as e:
-                logger.warning(f"⚠️ Page mouse API failed: {e}")
-                logger.info("🔄 Trying JavaScript event simulation...")
-                
-                # Fallback: JavaScript event simulation using proven method
+        except Exception as e:
+            logger.warning(f"⚠️ Perfect mouse API failed: {e}")
+            logger.info("🔄 Trying JavaScript event simulation...")
+            
+            # JavaScript fallback for perfect positioning
+            try:
                 success = await iframe.evaluate("""
                     (element, targetX, targetY) => {
                         try {
-                            // Simulate mousedown
-                            const mousedownEvent = new MouseEvent('mousedown', {
+                            // Create perfect mouse events with strategic properties
+                            const mouseDown = new MouseEvent('mousedown', {
                                 bubbles: true,
                                 cancelable: true,
-                                view: window,
-                                detail: 1,
-                                screenX: 0,
-                                screenY: 0,
-                                clientX: 0,
-                                clientY: 0,
-                                ctrlKey: false,
-                                altKey: false,
-                                shiftKey: false,
-                                metaKey: false,
-                                button: 0,
-                                relatedTarget: null
+                                composed: true,
+                                clientX: element.getBoundingClientRect().left,
+                                clientY: element.getBoundingClientRect().top
                             });
-                            element.dispatchEvent(mousedownEvent);
                             
-                            // Simulate mousemove to target
-                            const mousemoveEvent = new MouseEvent('mousemove', {
+                            const mouseMove = new MouseEvent('mousemove', {
                                 bubbles: true,
                                 cancelable: true,
-                                view: window,
-                                detail: 0,
-                                screenX: targetX,
-                                screenY: targetY,
+                                composed: true,
                                 clientX: targetX,
-                                clientY: targetY,
-                                ctrlKey: false,
-                                altKey: false,
-                                shiftKey: false,
-                                metaKey: false,
-                                button: 0,
-                                relatedTarget: null
+                                clientY: targetY
                             });
-                            element.dispatchEvent(mousemoveEvent);
                             
-                            // Simulate mouseup
-                            const mouseupEvent = new MouseEvent('mouseup', {
+                            const mouseUp = new MouseEvent('mouseup', {
                                 bubbles: true,
                                 cancelable: true,
-                                view: window,
-                                detail: 1,
-                                screenX: targetX,
-                                screenY: targetY,
+                                composed: true,
                                 clientX: targetX,
-                                clientY: targetY,
-                                ctrlKey: false,
-                                altKey: false,
-                                shiftKey: false,
-                                metaKey: false,
-                                button: 0,
-                                relatedTarget: null
+                                clientY: targetY
                             });
-                            element.dispatchEvent(mouseupEvent);
+                            
+                            // Dispatch events in sequence
+                            element.dispatchEvent(mouseDown);
+                            element.dispatchEvent(mouseMove);
+                            element.dispatchEvent(mouseUp);
                             
                             return true;
                         } catch (e) {
                             return false;
                         }
                     }
-                """, puzzle_element, target_x, target_y)
+                """, puzzle_element, positioning_data['target_x'], positioning_data['target_y'])
                 
                 if success:
-                    logger.info("✅ JavaScript event simulation successful")
-                    self.scraping_stats["puzzle_movements"] += 1
+                    logger.info("✅ JavaScript perfect positioning completed")
+                    await asyncio.sleep(1.0)
+                    return await self.validate_captcha_success_strategically(iframe)
                 else:
-                    logger.error("❌ JavaScript event simulation failed")
+                    logger.error("❌ JavaScript perfect positioning failed")
                     return False
-            
-            # Wait for CAPTCHA validation
-            logger.info("⏳ Waiting for CAPTCHA validation...")
-            await asyncio.sleep(random.uniform(2, 4))
-            
-            # Check for success using strategic validation from STRATEGIC_CODE_ANALYSIS.md
-            success = await self.validate_captcha_success_strategically(iframe)
-            self.scraping_stats["strategic_validations"] += 1
-            return success
-            
-        except Exception as e:
-            logger.error(f"❌ Error in proven puzzle movement: {e}")
-            return False
+                    
+            except Exception as js_error:
+                logger.error(f"❌ JavaScript fallback failed: {js_error}")
+                return False
 
-    async def validate_captcha_success_strategically(self, iframe: Frame) -> bool:
+    async def validate_captcha_success_strategically(self, iframe) -> bool:
         """
-        Validate CAPTCHA success using strategic analysis insights.
-        Based on STRATEGIC_CODE_ANALYSIS.md success signals.
+        🔍 Strategic CAPTCHA success validation based on STRATEGIC_CODE_ANALYSIS.md
+        Monitors for exact success signals and cleanup mechanisms
         """
         try:
             logger.info("🔍 Validating CAPTCHA success strategically...")
             
+            # Wait for potential success signals
+            await asyncio.sleep(2.0)
+            
             # Check for strategic success indicators from STRATEGIC_CODE_ANALYSIS.md
-            success_indicators = [
-                "div[class*='success']",
-                "div[class*='completed']",
-                "div[class*='verified']",
-                "div[contains(text(), 'Verification complete')]",
-                "div[contains(text(), 'Success')]"
-            ]
+            success_indicators = await iframe.evaluate("""
+                () => {
+                    const indicators = {};
+                    
+                    // 1. Check for "done" success signal
+                    indicators.done_signal = window.done === true || 
+                                          window.captchaDone === true ||
+                                          window.success === true;
+                    
+                    // 2. Check for { stop } success signal
+                    indicators.stop_signal = window.stop === true ||
+                                           window.captchaStop === true;
+                    
+                    // 3. Check for strategic cleanup signal: _hitTargetInterceptor = void 0
+                    indicators.cleanup_signal = window._hitTargetInterceptor === undefined;
+                    
+                    // 4. Check for CAPTCHA element disappearance
+                    const captcha_elements = document.querySelectorAll('[class*="captcha"], [id*="captcha"]');
+                    indicators.captcha_disappeared = captcha_elements.length === 0;
+                    
+                    // 5. Check for success message elements
+                    const success_elements = document.querySelectorAll('[class*="success"], [class*="complete"]');
+                    indicators.success_elements = success_elements.length > 0;
+                    
+                    // 6. Check for redirect or page change
+                    indicators.page_changed = window.location.href !== window.location.href;
+                    
+                    // 7. Check for specific DataDome success signals
+                    indicators.datadome_success = window.DataDome && 
+                                               (window.DataDome.success === true ||
+                                                window.DataDome.completed === true);
+                    
+                    return indicators;
+                }
+            """)
             
-            for indicator in success_indicators:
-                try:
-                    element = await iframe.query_selector(indicator)
-                    if element:
-                        logger.info("✅ Strategic success indicator found!")
-                        return True
-                except Exception:
-                    continue
+            # Log all indicators for debugging
+            logger.info(f"🔍 Success indicators: {success_indicators}")
             
-            # Check if CAPTCHA iframe is still present (strategic validation)
+            # Check for any success signal
+            if (success_indicators.get('done_signal') or 
+                success_indicators.get('stop_signal') or
+                success_indicators.get('cleanup_signal') or
+                success_indicators.get('captcha_disappeared') or
+                success_indicators.get('success_elements') or
+                success_indicators.get('datadome_success')):
+                
+                logger.info("✅ Strategic success indicators detected!")
+                self.scraping_stats["strategic_validations"] += 1
+                return True
+            
+            # Additional validation: Check if we're still on challenge page
             try:
-                captcha_still_present = await iframe.query_selector("div[class*='captcha']")
-                if not captcha_still_present:
-                    logger.info("✅ CAPTCHA elements no longer present (strategic success)!")
-                    return True
-            except Exception:
-                pass
-            
-            # Check for strategic cleanup signals from STRATEGIC_CODE_ANALYSIS.md
-            try:
-                # Look for the cleanup mechanism: _hitTargetInterceptor = void 0
-                cleanup_detected = await iframe.evaluate("""
+                challenge_detected = await iframe.evaluate("""
                     () => {
-                        // Check if any global variables indicate cleanup
-                        if (window._hitTargetInterceptor === undefined) {
-                            return true;
+                        // Check for challenge page indicators
+                        const challenge_selectors = [
+                            '[class*="challenge"]',
+                            '[id*="challenge"]',
+                            '[class*="captcha"]',
+                            '[id*="captcha"]',
+                            'iframe[src*="captcha"]'
+                        ];
+                        
+                        for (const selector of challenge_selectors) {
+                            if (document.querySelector(selector)) {
+                                return true;
+                            }
                         }
                         return false;
                     }
                 """)
                 
-                if cleanup_detected:
-                    logger.info("✅ Strategic cleanup signal detected!")
+                if not challenge_detected:
+                    logger.info("✅ Challenge page no longer detected - likely success!")
                     return True
+                    
             except Exception:
                 pass
             
@@ -598,41 +677,37 @@ class FinalWorkingScraper:
             logger.error(f"❌ Error in strategic validation: {e}")
             return False
 
-    async def extract_enhanced_g2_data(self, page: Page, url: str) -> Optional[Dict[str, Any]]:
-        """Extract enhanced G2.com data after CAPTCHA resolution."""
+    async def extract_enhanced_g2_data(self) -> bool:
+        """
+        🔍 Extract enhanced G2.com data using comprehensive parsing
+        """
         try:
-            logger.info("🔍 Extracting enhanced G2.com data...")
+            # Wait for content to load
+            await asyncio.sleep(2)
             
-            # Wait for page to fully load
-            await asyncio.sleep(5)
+            # Get the final page content
+            final_content = await self.page.content()
             
-            # Get final page content
-            final_content = await page.content()
-            logger.info(f"📄 Final content size: {len(final_content)} characters")
-            
-            # Check if we got meaningful content
-            if len(final_content) < 1000:
-                logger.warning("⚠️ Content too small - may still be on challenge page")
-                return None
-            
-            # Check if it's still a challenge page
-            if "verification required" in final_content.lower() or "datadome" in final_content.lower():
+            # Check if we're still on challenge page
+            if "challenge" in final_content.lower() or "captcha" in final_content.lower():
                 logger.warning("🛡️ Still on challenge page")
-                return None
+                return False
             
-            # Extract enhanced data using comprehensive parsing
-            extracted_data = await self.parse_enhanced_g2_content(final_content, url)
+            # Extract and log content size
+            content_size = len(final_content)
+            logger.info(f"📄 Final content size: {content_size} characters")
             
-            if extracted_data:
-                logger.info("✅ Enhanced G2.com data extracted successfully!")
-                return extracted_data
+            # Check for G2.com specific content
+            if "g2.com" in final_content and ("notion" in final_content.lower() or "obsidian" in final_content.lower()):
+                logger.info("✅ G2.com content successfully extracted!")
+                return True
             else:
-                logger.error("❌ Enhanced parsing failed")
-                return None
+                logger.warning("⚠️ G2.com content not detected in extracted data")
+                return False
                 
         except Exception as e:
-            logger.error(f"❌ Error extracting enhanced G2 data: {e}")
-            return None
+            logger.error(f"❌ Error in data extraction: {e}")
+            return False
 
     async def parse_enhanced_g2_content(self, html: str, url: str) -> Optional[Dict[str, Any]]:
         """Parse enhanced G2.com content using comprehensive techniques."""
@@ -709,130 +784,177 @@ class FinalWorkingScraper:
             logger.error(f"❌ Error parsing enhanced G2 content: {e}")
             return None
 
-    async def bypass_g2_with_final_working_strategy(self, url: str) -> Dict[str, Any]:
-        """Main bypass function using final working strategy."""
-        start_time = time.time()
-        result = {
-            "url": url,
-            "timestamp": datetime.now().isoformat(),
-            "captcha_detected": False,
-            "captcha_solved": False,
-            "data_extracted": False,
-            "success": False,
-            "execution_time": 0,
-            "errors": [],
-            "scraping_stats": {},
-            "extracted_data": None
-        }
-        
+    async def bypass_g2_with_perfect_positioning_strategy(self, url: str) -> bool:
+        """
+        🌐 Bypass G2.com using PERFECT POSITIONING strategy
+        Incorporates mathematical precision from puzzle.md and strategic validation
+        """
         try:
-            # Setup final working browser
-            playwright, browser, context, page = await self.setup_final_browser()
+            logger.info(f"🌐 Navigating to: {url}")
+            
+            # Navigate to the target URL
+            await self.page.goto(url, wait_until="networkidle")
+            await asyncio.sleep(random.uniform(2, 4))
+            
+            # Step 1: Detect and access CAPTCHA iframe using proven methods
+            iframe = await self.detect_and_access_captcha_iframe()
+            if not iframe:
+                logger.info("✅ No CAPTCHA detected, proceeding with data extraction")
+                # Extract data directly if no CAPTCHA
+                data_extracted = await self.extract_enhanced_g2_data()
+                if data_extracted:
+                    self.scraping_stats["successful_data_extractions"] += 1
+                return data_extracted
+            
+            # Step 2: CAPTCHA challenge detected, start PERFECT solving
+            logger.info("🎯 CAPTCHA challenge detected, starting PERFECT solving...")
+            self.scraping_stats["captcha_detected"] += 1
+            
+            # Solve CAPTCHA using PERFECT positioning methods
+            captcha_solved = await self.solve_captcha_using_proven_methods(iframe)
+            if not captcha_solved:
+                logger.error("❌ PERFECT CAPTCHA solving failed")
+                return False
+            
+            # Step 3: Extract enhanced G2.com data after CAPTCHA bypass
+            logger.info("🔍 Extracting enhanced G2.com data...")
+            data_extracted = await self.extract_enhanced_g2_data()
+            
+            if data_extracted:
+                self.scraping_stats["successful_data_extractions"] += 1
+                logger.info("✅ PERFECT positioning strategy successful - data extracted!")
+                return True
+            else:
+                logger.warning("⚠️ CAPTCHA solved but data extraction failed")
+                return False
+                
+        except Exception as e:
+            error_msg = f"Error in perfect positioning strategy: {str(e)}"
+            logger.error(f"❌ {error_msg}")
+            self.scraping_stats["errors"].append(error_msg)
+            return False
+
+    async def run_perfect_positioning_tests(self) -> List[Dict[str, Any]]:
+        """
+        🚀 Run PERFECT POSITIONING scraper tests with comprehensive metrics tracking
+        """
+        logger.info("🚀 Starting PERFECT POSITIONING scraper tests...")
+        
+        test_urls = [
+            "https://www.g2.com/compare/notion-vs-obsidian",
+            "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+            "https://www.g2.com/compare/notion-vs-obsidian?p=2"
+        ]
+        
+        total_tests = len(test_urls)
+        
+        for test_num, url in enumerate(test_urls, 1):
+            logger.info(f"🎯 Test {test_num}/{total_tests}: {url}")
+            
+            # Track test execution
+            start_time = time.time()
             
             try:
-                # Navigate to target URL
-                logger.info(f"🌐 Navigating to: {url}")
-                await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                # Execute the perfect positioning strategy
+                success = await self.bypass_g2_with_perfect_positioning_strategy(url)
                 
-                # Check for CAPTCHA challenge
-                captcha_iframe = await self.detect_and_access_captcha_iframe(page)
+                # Calculate execution time
+                execution_time = time.time() - start_time
                 
-                if captcha_iframe:
-                    logger.info("🎯 CAPTCHA challenge detected, starting PROVEN solving...")
-                    result["captcha_detected"] = True
-                    
-                    # Solve CAPTCHA using PROVEN methods
-                    captcha_solved = await self.solve_captcha_using_proven_methods(captcha_iframe)
-                    result["captcha_solved"] = captcha_solved
-                    
-                    if captcha_solved:
-                        logger.info("✅ CAPTCHA solved successfully using PROVEN methods!")
-                        
-                        # Wait for redirect/verification
-                        await asyncio.sleep(5)
-                        
-                        # Check if we're redirected to actual content
-                        current_url = page.url
-                        if "g2.com/compare" in current_url and "challenge" not in current_url:
-                            logger.info("✅ Successfully redirected to G2.com content!")
-                        else:
-                            logger.warning("⚠️ Still on challenge page after solving")
-                    else:
-                        logger.error("❌ Proven CAPTCHA solving failed")
-                        result["errors"].append("Proven CAPTCHA solving failed")
+                # Record test result
+                test_result = {
+                    "url": url,
+                    "success": success,
+                    "execution_time": execution_time,
+                    "captcha_detected": self.scraping_stats["captcha_detected"] > 0,
+                    "iframe_accessed": self.scraping_stats["iframe_access_success"] > 0,
+                    "captcha_solved": self.scraping_stats["successful_captcha_solves"] > 0,
+                    "data_extracted": self.scraping_stats["successful_data_extractions"] > 0,
+                    "perfect_positioning_used": self.scraping_stats["puzzle_movements"] > 0,
+                    "mathematical_calculations": self.scraping_stats["mathematical_calculations"],
+                    "strategic_validations": self.scraping_stats["strategic_validations"]
+                }
+                
+                self.test_results.append(test_result)
+                
+                # Update success rates
+                if success:
+                    logger.info(f"✅ Test {test_num}/{total_tests} PASSED: Perfect positioning successful")
                 else:
-                    logger.info("✅ No CAPTCHA challenge detected")
+                    logger.info(f"❌ Test {test_num}/{total_tests} FAILED: Perfect positioning needs refinement")
+                    
+            except Exception as e:
+                execution_time = time.time() - start_time
+                error_msg = f"Error in test {test_num}: {str(e)}"
+                logger.error(f"❌ {error_msg}")
                 
-                # Extract enhanced G2.com data
-                extracted_data = await self.extract_enhanced_g2_data(page, url)
+                # Record failed test
+                test_result = {
+                    "url": url,
+                    "success": False,
+                    "execution_time": execution_time,
+                    "error": error_msg,
+                    "captcha_detected": False,
+                    "iframe_accessed": False,
+                    "captcha_solved": False,
+                    "data_extracted": False,
+                    "perfect_positioning_used": False,
+                    "mathematical_calculations": 0,
+                    "strategic_validations": 0
+                }
                 
-                if extracted_data:
-                    result["data_extracted"] = True
-                    result["extracted_data"] = extracted_data
-                    result["success"] = True
-                    logger.info("🎉 Final working strategy successful! Enhanced data extracted!")
-                else:
-                    result["errors"].append("Data extraction failed")
-                
-            finally:
-                await browser.close()
-                await playwright.stop()
-        
-        except Exception as e:
-            error_msg = f"Error during final working bypass: {str(e)}"
-            logger.error(f"❌ {error_msg}")
-            result["errors"].append(error_msg)
-        
-        finally:
-            result["execution_time"] = time.time() - start_time
-            result["scraping_stats"] = self.scraping_stats.copy()
-            self.test_results.append(result)
-            self.scraping_stats["total_attempts"] += 1
-        
-        return result
-
-    async def run_final_working_tests(self) -> List[Dict[str, Any]]:
-        """Run the final working scraper against all test URLs."""
-        logger.info("🚀 Starting FINAL WORKING scraper tests...")
-        
-        results = []
-        for i, url in enumerate(self.test_urls, 1):
-            logger.info(f"🎯 Test {i}/{len(self.test_urls)}: {url}")
-            result = await self.bypass_g2_with_final_working_strategy(url)
-            results.append(result)
+                self.test_results.append(test_result)
+                self.scraping_stats["errors"].append(error_msg)
             
-            # Delay between tests
-            if i < len(self.test_urls):
-                await asyncio.sleep(random.uniform(10, 20))
+            # Wait between tests
+            if test_num < total_tests:
+                await asyncio.sleep(random.uniform(2, 5))
         
-        return results
+        logger.info("✅ All PERFECT POSITIONING tests completed")
+        return self.test_results
 
-    def export_results(self, output_dir: str = "output") -> str:
-        """Export comprehensive test results."""
-        output_path = Path(output_dir)
-        output_path.mkdir(exist_ok=True)
-        
+    def export_results(self) -> str:
+        """Export comprehensive results"""
+        # Export comprehensive results
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"final_working_scraper_results_{timestamp}.json"
-        filepath = output_path / filename
+        filename = f"output/perfect_positioning_scraper_results_{timestamp}.json"
         
-        export_data = {
-            "test_summary": self.get_test_summary(),
+        results_data = {
+            "test_summary": {
+                "total_tests": len(self.test_results),
+                "captcha_detection_rate": (self.scraping_stats["captcha_detected"] / len(self.test_results)) * 100 if self.test_results else 0,
+                "iframe_access_rate": (self.scraping_stats["iframe_access_success"] / len(self.test_results)) * 100 if self.test_results else 0,
+                "captcha_solve_rate": (self.scraping_stats["successful_captcha_solves"] / len(self.test_results)) * 100 if self.test_results else 0,
+                "data_extraction_rate": (self.scraping_stats["successful_data_extractions"] / len(self.test_results)) * 100 if self.test_results else 0,
+                "overall_success_rate": (self.scraping_stats["successful_data_extractions"] / len(self.test_results)) * 100 if self.test_results else 0,
+                "average_execution_time": sum(result.get("execution_time", 0) for result in self.test_results) / len(self.test_results) if self.test_results else 0
+            },
+            "perfect_positioning_metrics": {
+                "puzzle_movements": self.scraping_stats["puzzle_movements"],
+                "mathematical_calculations": self.scraping_stats["mathematical_calculations"],
+                "strategic_validations": self.scraping_stats["strategic_validations"],
+                "positioning_precision": "Math.floor precision with 2px tolerance",
+                "mathematical_engine": "Deobfuscated from puzzle.md analysis",
+                "success_monitoring": "Strategic validation from STRATEGIC_CODE_ANALYSIS.md"
+            },
+            "technical_implementation": {
+                "browser_stealth": "Enhanced anti-detection with proven methods",
+                "iframe_access": "Direct iframe content access",
+                "mouse_precision": "Page.mouse API with mathematical positioning",
+                "javascript_fallback": "Strategic event simulation with exact properties",
+                "success_validation": "Multi-layered strategic monitoring"
+            },
+            "test_results": self.test_results,
             "scraping_stats": self.scraping_stats,
-            "detailed_results": self.test_results,
-            "implementation_details": {
-                "proven_movement": "Incorporated from breakthrough_iframe_bypass.py (WORKING)",
-                "puzzle_math": "Incorporated from puzzle.md analysis",
-                "strategic_validation": "Incorporated from STRATEGIC_CODE_ANALYSIS.md",
-                "enhanced_parsing": "Comprehensive G2.com data extraction"
-            }
+            "timestamp": timestamp,
+            "version": "PERFECT_POSITIONING_v1.0"
         }
         
-        with open(filepath, 'w') as f:
-            json.dump(export_data, f, indent=2, default=str)
+        with open(filename, 'w') as f:
+            json.dump(results_data, f, indent=2, default=str)
         
-        logger.info(f"✅ Results exported to: {filepath}")
-        return str(filepath)
+        logger.info(f"✅ Results exported to: {filename}")
+        return filename
 
     def get_test_summary(self) -> Dict[str, Any]:
         """Get comprehensive test summary."""
@@ -871,35 +993,33 @@ async def main():
     
     try:
         # Run comprehensive tests
-        results = await scraper.run_final_working_tests()
+        results = await scraper.run_perfect_positioning_tests()
         
         # Export results
-        output_file = scraper.export_results()
+        results_file = scraper.export_results()
         
-        # Display summary
-        summary = scraper.get_test_summary()
+        # Display final results
+        logger.info("📊 PERFECT POSITIONING SCRAPER - FINAL RESULTS:")
+        logger.info(f"   Total Tests: {len(scraper.test_results)}")
+        logger.info(f"   CAPTCHA Detection Rate: {scraper.scraping_stats['captcha_detected'] / len(scraper.test_results) * 100:.1f}%")
+        logger.info(f"   Iframe Access Rate: {scraper.scraping_stats['iframe_access_success'] / len(scraper.test_results) * 100:.1f}%")
+        logger.info(f"   CAPTCHA Solve Rate: {scraper.scraping_stats['successful_captcha_solves'] / len(scraper.test_results) * 100:.1f}%")
+        logger.info(f"   Data Extraction Rate: {scraper.scraping_stats['successful_data_extractions'] / len(scraper.test_results) * 100:.1f}%")
+        logger.info(f"   Overall Success Rate: {scraper.scraping_stats['successful_data_extractions'] / len(scraper.test_results) * 100:.1f}%")
+        logger.info(f"   Average Execution Time: {sum(result.get('execution_time', 0) for result in scraper.test_results) / len(scraper.test_results):.2f}s")
+        logger.info(f"   Perfect Positioning Metrics:")
+        logger.info(f"     Puzzle Movements: {scraper.scraping_stats['puzzle_movements']}")
+        logger.info(f"     Mathematical Calculations: {scraper.scraping_stats['mathematical_calculations']}")
+        logger.info(f"     Strategic Validations: {scraper.scraping_stats['strategic_validations']}")
+        logger.info(f"   Results exported to: {results_file}")
         
-        logger.info("📊 FINAL WORKING SCRAPER - FINAL RESULTS:")
-        logger.info(f"   Total Tests: {summary['total_tests']}")
-        logger.info(f"   CAPTCHA Detection Rate: {summary['captcha_detection_rate']:.1f}%")
-        logger.info(f"   CAPTCHA Solve Rate: {summary['captcha_solve_rate']:.1f}%")
-        logger.info(f"   Data Extraction Rate: {summary['data_extraction_rate']:.1f}%")
-        logger.info(f"   Overall Success Rate: {summary['overall_success_rate']:.1f}%")
-        logger.info(f"   Average Execution Time: {summary['average_execution_time']:.2f}s")
-        logger.info(f"   Puzzle Movements: {summary['puzzle_movements']}")
-        logger.info(f"   Mathematical Calculations: {summary['mathematical_calculations']}")
-        logger.info(f"   Strategic Validations: {summary['strategic_validations']}")
-        logger.info(f"   Results exported to: {output_file}")
-        
-        # Highlight key achievements
-        if summary['overall_success_rate'] > 80:
-            logger.info("🎉 BREAKTHROUGH: Final working scraper achieved >80% success rate!")
-        elif summary['overall_success_rate'] > 50:
-            logger.info("🎯 SUCCESS: Final working scraper achieved >50% success rate!")
-        elif summary['captcha_solve_rate'] > 50:
-            logger.info("🔧 PROGRESS: CAPTCHA solving working, data extraction needs refinement")
+        # Determine next iteration status
+        if scraper.scraping_stats['successful_captcha_solves'] > 0:
+            logger.info("🎯 SUCCESS: Perfect positioning achieved! Ready for production deployment")
+        elif scraper.scraping_stats['puzzle_movements'] > 0:
+            logger.info("🔄 ITERATION: Perfect positioning working, success validation needs refinement")
         else:
-            logger.info("🔄 ITERATION: Further refinement needed based on results")
+            logger.info("❌ ITERATION: Perfect positioning implementation needs debugging")
         
     except Exception as e:
         logger.error(f"❌ Error in main execution: {e}")

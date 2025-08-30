@@ -1,0 +1,72 @@
+{
+  "analysis_results": {
+    "analysis_summary": {
+      "total_functions": 0,
+      "total_success_conditions": 0,
+      "coordinate_patterns_found": 0,
+      "strategic_insights_integrated": 6
+    },
+    "extracted_mathematical_functions": [],
+    "success_conditions": [],
+    "coordinate_patterns": [],
+    "strategic_insights": {
+      "event_handler_architecture": "capture: true, passive: false",
+      "success_signals": [
+        "done",
+        "stop",
+        "success"
+      ],
+      "coordinate_precision": "Math.floor",
+      "success_threshold": 20.0,
+      "iframe_access_method": "proven_breakthrough",
+      "event_properties": "bubbles: true, cancelable: true, composed: true"
+    },
+    "implementation_recommendations": [
+      "Use strategic event handler architecture (capture: true, passive: false)",
+      "Implement exact event properties (bubbles: true, cancelable: true, composed: true)",
+      "Apply proven iframe access methods from breakthrough_iframe_bypass.py",
+      "Use Math.floor precision for all coordinate calculations",
+      "Implement 20px success threshold from strategic insights"
+    ]
+  },
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": false,
+      "method": "enhanced_mathematical_functions",
+      "execution_time": 13.247786045074463,
+      "stats": {
+        "total_attempts": 0,
+        "successful_solves": 0,
+        "mathematical_function_calls": 0,
+        "strategic_validation_calls": 0,
+        "coordinate_calculations": 0
+      }
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "success": false,
+      "method": "enhanced_mathematical_functions",
+      "execution_time": 8.043092012405396,
+      "stats": {
+        "total_attempts": 0,
+        "successful_solves": 0,
+        "mathematical_function_calls": 0,
+        "strategic_validation_calls": 0,
+        "coordinate_calculations": 0
+      }
+    }
+  ],
+  "captcha_solving_stats": {
+    "total_attempts": 0,
+    "successful_solves": 0,
+    "mathematical_function_calls": 0,
+    "strategic_validation_calls": 0,
+    "coordinate_calculations": 0
+  },
+  "strategic_implementation": {
+    "mathematical_functions_applied": 0,
+    "success_conditions_implemented": 0,
+    "strategic_insights_used": 6
+  }
+}
