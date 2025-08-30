@@ -1,0 +1,1304 @@
+{
+  "functions": [
+    {
+      "line": 188,
+      "start_pos": 14095,
+      "end_pos": 14131,
+      "match": "function extractOriginFromUrl(url) {",
+      "context": "Lines 4 before to 3 after position 14095"
+    },
+    {
+      "line": 284,
+      "start_pos": 19901,
+      "end_pos": 19929,
+      "match": "function documentReady(fn) {",
+      "context": "Lines 10 before to 4 after position 19901"
+    },
+    {
+      "line": 292,
+      "start_pos": 20153,
+      "end_pos": 20170,
+      "match": "function isIE() {",
+      "context": "Lines 7 before to 4 after position 20153"
+    },
+    {
+      "line": 300,
+      "start_pos": 20450,
+      "end_pos": 20473,
+      "match": "function scrollToY(y) {",
+      "context": "Lines 6 before to 6 after position 20450"
+    },
+    {
+      "line": 312,
+      "start_pos": 20787,
+      "end_pos": 20817,
+      "match": "function serializeForm(form) {",
+      "context": "Lines 8 before to 5 after position 20787"
+    },
+    {
+      "line": 362,
+      "start_pos": 22884,
+      "end_pos": 22934,
+      "match": "function submitContactForm(contactFormId, event) {",
+      "context": "Lines 6 before to 3 after position 22884"
+    },
+    {
+      "line": 401,
+      "start_pos": 24792,
+      "end_pos": 24826,
+      "match": "function showForm(formWrapperId) {",
+      "context": "Lines 8 before to 3 after position 24792"
+    },
+    {
+      "line": 451,
+      "start_pos": 27425,
+      "end_pos": 27446,
+      "match": "function A(e, t, a) {",
+      "context": "Lines 5 before to 4 after position 27425"
+    },
+    {
+      "line": 452,
+      "start_pos": 27463,
+      "end_pos": 27481,
+      "match": "function c(i, g) {",
+      "context": "Lines 5 before to 4 after position 27463"
+    },
+    {
+      "line": 478,
+      "start_pos": 28885,
+      "end_pos": 28918,
+      "match": "function a(A, e, t, a, c, n, i) {",
+      "context": "Lines 5 before to 4 after position 28885"
+    },
+    {
+      "line": 482,
+      "start_pos": 29102,
+      "end_pos": 29123,
+      "match": "function c(A, e, t) {",
+      "context": "Lines 4 before to 3 after position 29102"
+    },
+    {
+      "line": 485,
+      "start_pos": 29284,
+      "end_pos": 29302,
+      "match": "function n(A, e) {",
+      "context": "Lines 3 before to 5 after position 29284"
+    },
+    {
+      "line": 489,
+      "start_pos": 29419,
+      "end_pos": 29437,
+      "match": "function i(A, e) {",
+      "context": "Lines 6 before to 1 after position 29419"
+    },
+    {
+      "line": 516,
+      "start_pos": 32286,
+      "end_pos": 32304,
+      "match": "function r(A, e) {",
+      "context": "Lines 4 before to 3 after position 32286"
+    },
+    {
+      "line": 519,
+      "start_pos": 32469,
+      "end_pos": 32490,
+      "match": "function I(A, e, t) {",
+      "context": "Lines 3 before to 3 after position 32469"
+    },
+    {
+      "line": 524,
+      "start_pos": 77542,
+      "end_pos": 77569,
+      "match": "function u(A, e, t, a, c) {",
+      "context": "Lines 1 before to 3 after position 77542"
+    },
+    {
+      "line": 539,
+      "start_pos": 286178,
+      "end_pos": 286193,
+      "match": "function w(A) {",
+      "context": "Lines 4 before to 3 after position 286178"
+    },
+    {
+      "line": 551,
+      "start_pos": 287125,
+      "end_pos": 287158,
+      "match": "function v(A, e, t, a, c, n, i) {",
+      "context": "Lines 5 before to 3 after position 287125"
+    },
+    {
+      "line": 556,
+      "start_pos": 287431,
+      "end_pos": 287452,
+      "match": "function z(A, e, t) {",
+      "context": "Lines 4 before to 4 after position 287431"
+    },
+    {
+      "line": 567,
+      "start_pos": 288063,
+      "end_pos": 288084,
+      "match": "function U(A, e, t) {",
+      "context": "Lines 4 before to 3 after position 288063"
+    },
+    {
+      "line": 575,
+      "start_pos": 288590,
+      "end_pos": 288611,
+      "match": "function Z(A, e, t) {",
+      "context": "Lines 3 before to 3 after position 288590"
+    },
+    {
+      "line": 579,
+      "start_pos": 288820,
+      "end_pos": 288847,
+      "match": "function P(A, e, t, a, c) {",
+      "context": "Lines 3 before to 3 after position 288820"
+    },
+    {
+      "line": 589,
+      "start_pos": 289392,
+      "end_pos": 289411,
+      "match": "function AA(A, e) {",
+      "context": "Lines 4 before to 3 after position 289392"
+    },
+    {
+      "line": 608,
+      "start_pos": 290591,
+      "end_pos": 290619,
+      "match": "function BA(A, e, t, a, c) {",
+      "context": "Lines 3 before to 3 after position 290591"
+    },
+    {
+      "line": 620,
+      "start_pos": 291347,
+      "end_pos": 291369,
+      "match": "function vA(A, e, t) {",
+      "context": "Lines 3 before to 4 after position 291347"
+    },
+    {
+      "line": 630,
+      "start_pos": 291890,
+      "end_pos": 291912,
+      "match": "function SA(A, e, t) {",
+      "context": "Lines 4 before to 3 after position 291890"
+    },
+    {
+      "line": 634,
+      "start_pos": 292128,
+      "end_pos": 292147,
+      "match": "function mA(A, e) {",
+      "context": "Lines 3 before to 2 after position 292128"
+    },
+    {
+      "line": 665,
+      "start_pos": 293936,
+      "end_pos": 293970,
+      "match": "function WA(A, e, t, a, c, n, i) {",
+      "context": "Lines 3 before to 3 after position 293936"
+    },
+    {
+      "line": 693,
+      "start_pos": 295582,
+      "end_pos": 295598,
+      "match": "function Ne(A) {",
+      "context": "Lines 4 before to 2 after position 295582"
+    },
+    {
+      "line": 703,
+      "start_pos": 296275,
+      "end_pos": 296294,
+      "match": "function fe(A, e) {",
+      "context": "Lines 5 before to 2 after position 296275"
+    },
+    {
+      "line": 733,
+      "start_pos": 298384,
+      "end_pos": 298400,
+      "match": "function we(A) {",
+      "context": "Lines 5 before to 3 after position 298384"
+    },
+    {
+      "line": 772,
+      "start_pos": 301032,
+      "end_pos": 301048,
+      "match": "function Se(A) {",
+      "context": "Lines 3 before to 3 after position 301032"
+    },
+    {
+      "line": 812,
+      "start_pos": 304956,
+      "end_pos": 304978,
+      "match": "function Oe(A, e, t) {",
+      "context": "Lines 3 before to 3 after position 304956"
+    },
+    {
+      "line": 816,
+      "start_pos": 305214,
+      "end_pos": 305233,
+      "match": "function He(A, e) {",
+      "context": "Lines 3 before to 4 after position 305214"
+    },
+    {
+      "line": 828,
+      "start_pos": 305897,
+      "end_pos": 305916,
+      "match": "function Xe(A, e) {",
+      "context": "Lines 3 before to 2 after position 305897"
+    },
+    {
+      "line": 884,
+      "start_pos": 310296,
+      "end_pos": 310327,
+      "match": "function ot(A, e, t, a, c, n) {",
+      "context": "Lines 4 before to 4 after position 310296"
+    },
+    {
+      "line": 890,
+      "start_pos": 310620,
+      "end_pos": 310639,
+      "match": "function Mt(A, e) {",
+      "context": "Lines 4 before to 3 after position 310620"
+    },
+    {
+      "line": 895,
+      "start_pos": 310919,
+      "end_pos": 310934,
+      "match": "function Et() {",
+      "context": "Lines 4 before to 4 after position 310919"
+    },
+    {
+      "line": 1017,
+      "start_pos": 319549,
+      "end_pos": 319565,
+      "match": "function ft(A) {",
+      "context": "Lines 4 before to 1 after position 319549"
+    },
+    {
+      "line": 1029,
+      "start_pos": 320216,
+      "end_pos": 320253,
+      "match": "function wt(A, e, t, a, c, n, i, g) {",
+      "context": "Lines 4 before to 3 after position 320216"
+    },
+    {
+      "line": 1033,
+      "start_pos": 320480,
+      "end_pos": 320505,
+      "match": "function vt(A, e, t, a) {",
+      "context": "Lines 3 before to 3 after position 320480"
+    },
+    {
+      "line": 1037,
+      "start_pos": 320735,
+      "end_pos": 320751,
+      "match": "function xt(A) {",
+      "context": "Lines 3 before to 4 after position 320735"
+    },
+    {
+      "line": 1048,
+      "start_pos": 321226,
+      "end_pos": 321245,
+      "match": "function kt(A, e) {",
+      "context": "Lines 6 before to 3 after position 321226"
+    },
+    {
+      "line": 1053,
+      "start_pos": 321555,
+      "end_pos": 321571,
+      "match": "function bt(A) {",
+      "context": "Lines 4 before to 3 after position 321555"
+    },
+    {
+      "line": 1074,
+      "start_pos": 323064,
+      "end_pos": 323080,
+      "match": "function Yt(A) {",
+      "context": "Lines 5 before to 1 after position 323064"
+    },
+    {
+      "line": 1077,
+      "start_pos": 323327,
+      "end_pos": 323342,
+      "match": "function mt() {",
+      "context": "Lines 2 before to 2 after position 323327"
+    },
+    {
+      "line": 1103,
+      "start_pos": 324882,
+      "end_pos": 324898,
+      "match": "function Ot(A) {",
+      "context": "Lines 5 before to 1 after position 324882"
+    },
+    {
+      "line": 1125,
+      "start_pos": 326311,
+      "end_pos": 326330,
+      "match": "function Ht(A, e) {",
+      "context": "Lines 5 before to 5 after position 326311"
+    },
+    {
+      "line": 1165,
+      "start_pos": 328920,
+      "end_pos": 328939,
+      "match": "function Rt(A, e) {",
+      "context": "Lines 5 before to 2 after position 328920"
+    },
+    {
+      "line": 1238,
+      "start_pos": 334432,
+      "end_pos": 334454,
+      "match": "function Zt(A, e, t) {",
+      "context": "Lines 6 before to 3 after position 334432"
+    },
+    {
+      "line": 1242,
+      "start_pos": 334662,
+      "end_pos": 334681,
+      "match": "function Pt(A, e) {",
+      "context": "Lines 3 before to 3 after position 334662"
+    },
+    {
+      "line": 1259,
+      "start_pos": 335854,
+      "end_pos": 335876,
+      "match": "function Vt(A, e, t) {",
+      "context": "Lines 3 before to 3 after position 335854"
+    },
+    {
+      "line": 1374,
+      "start_pos": 345495,
+      "end_pos": 345532,
+      "match": "function _t(A, e, t, a, c, n, i, g) {",
+      "context": "Lines 4 before to 3 after position 345495"
+    },
+    {
+      "line": 1386,
+      "start_pos": 346298,
+      "end_pos": 346320,
+      "match": "function Aa(A, e, t) {",
+      "context": "Lines 5 before to 4 after position 346298"
+    },
+    {
+      "line": 2033,
+      "start_pos": 547078,
+      "end_pos": 547094,
+      "match": "function tA(A) {",
+      "context": "Lines 5 before to 3 after position 547078"
+    },
+    {
+      "line": 2086,
+      "start_pos": 551070,
+      "end_pos": 551088,
+      "match": "function C(e, t) {",
+      "context": "Lines 3 before to 4 after position 551070"
+    },
+    {
+      "line": 2102,
+      "start_pos": 552480,
+      "end_pos": 552494,
+      "match": "function h() {",
+      "context": "Lines 4 before to 1 after position 552480"
+    },
+    {
+      "line": 2606,
+      "start_pos": 605147,
+      "end_pos": 605165,
+      "match": "function A(A, e) {",
+      "context": "Lines 4 before to 2 after position 605147"
+    },
+    {
+      "line": 2837,
+      "start_pos": 622833,
+      "end_pos": 622848,
+      "match": "function E(A) {",
+      "context": "Lines 4 before to 2 after position 622833"
+    },
+    {
+      "line": 3023,
+      "start_pos": 640503,
+      "end_pos": 640518,
+      "match": "function M(A) {",
+      "context": "Lines 3 before to 3 after position 640503"
+    },
+    {
+      "line": 3070,
+      "start_pos": 644740,
+      "end_pos": 644758,
+      "match": "function C(A, e) {",
+      "context": "Lines 5 before to 2 after position 644740"
+    },
+    {
+      "line": 3549,
+      "start_pos": 678678,
+      "end_pos": 678693,
+      "match": "function E(A) {",
+      "context": "Lines 3 before to 3 after position 678678"
+    },
+    {
+      "line": 3969,
+      "start_pos": 713070,
+      "end_pos": 713085,
+      "match": "function M(A) {",
+      "context": "Lines 2 before to 2 after position 713070"
+    },
+    {
+      "line": 4007,
+      "start_pos": 715876,
+      "end_pos": 715890,
+      "match": "function h() {",
+      "context": "Lines 4 before to 2 after position 715876"
+    },
+    {
+      "line": 4223,
+      "start_pos": 734381,
+      "end_pos": 734399,
+      "match": "function E(A, o) {",
+      "context": "Lines 2 before to 1 after position 734381"
+    },
+    {
+      "line": 4845,
+      "start_pos": 787895,
+      "end_pos": 787910,
+      "match": "function e(A) {",
+      "context": "Lines 3 before to 3 after position 787895"
+    },
+    {
+      "line": 4963,
+      "start_pos": 798099,
+      "end_pos": 798121,
+      "match": "function ca(A, e, t) {",
+      "context": "Lines 5 before to 4 after position 798099"
+    },
+    {
+      "line": 4966,
+      "start_pos": 798267,
+      "end_pos": 798282,
+      "match": "function M(A) {",
+      "context": "Lines 4 before to 4 after position 798267"
+    },
+    {
+      "line": 5151,
+      "start_pos": 812442,
+      "end_pos": 812470,
+      "match": "function na(A, e, t, a, c) {",
+      "context": "Lines 6 before to 3 after position 812442"
+    },
+    {
+      "line": 5163,
+      "start_pos": 813110,
+      "end_pos": 813141,
+      "match": "function ia(A, e, t, o, s, M) {",
+      "context": "Lines 6 before to 3 after position 813110"
+    },
+    {
+      "line": 5408,
+      "start_pos": 832625,
+      "end_pos": 832640,
+      "match": "function C(A) {",
+      "context": "Lines 4 before to 3 after position 832625"
+    },
+    {
+      "line": 5419,
+      "start_pos": 833710,
+      "end_pos": 833725,
+      "match": "function E(A) {",
+      "context": "Lines 3 before to 4 after position 833710"
+    },
+    {
+      "line": 5422,
+      "start_pos": 833877,
+      "end_pos": 833892,
+      "match": "function B(A) {",
+      "context": "Lines 4 before to 2 after position 833877"
+    },
+    {
+      "line": 5453,
+      "start_pos": 836272,
+      "end_pos": 836290,
+      "match": "function h(A, e) {",
+      "context": "Lines 6 before to 5 after position 836272"
+    },
+    {
+      "line": 5503,
+      "start_pos": 839113,
+      "end_pos": 839131,
+      "match": "function o(A, e) {",
+      "context": "Lines 5 before to 1 after position 839113"
+    },
+    {
+      "line": 5547,
+      "start_pos": 843216,
+      "end_pos": 843238,
+      "match": "function Ia(A, e, t) {",
+      "context": "Lines 2 before to 1 after position 843216"
+    },
+    {
+      "line": 5672,
+      "start_pos": 853289,
+      "end_pos": 853304,
+      "match": "function g(A) {",
+      "context": "Lines 2 before to 3 after position 853289"
+    },
+    {
+      "line": 5679,
+      "start_pos": 853656,
+      "end_pos": 853671,
+      "match": "function r(A) {",
+      "context": "Lines 4 before to 3 after position 853656"
+    },
+    {
+      "line": 5689,
+      "start_pos": 854194,
+      "end_pos": 854209,
+      "match": "function I(A) {",
+      "context": "Lines 5 before to 4 after position 854194"
+    },
+    {
+      "line": 5692,
+      "start_pos": 854342,
+      "end_pos": 854360,
+      "match": "function o(A, e) {",
+      "context": "Lines 5 before to 2 after position 854342"
+    },
+    {
+      "line": 6143,
+      "start_pos": 891869,
+      "end_pos": 891887,
+      "match": "function a(A, e) {",
+      "context": "Lines 6 before to 3 after position 891869"
+    },
+    {
+      "line": 6160,
+      "start_pos": 892686,
+      "end_pos": 892704,
+      "match": "function c(A, e) {",
+      "context": "Lines 5 before to 3 after position 892686"
+    },
+    {
+      "line": 6186,
+      "start_pos": 893932,
+      "end_pos": 893950,
+      "match": "function n(A, e) {",
+      "context": "Lines 4 before to 2 after position 893932"
+    },
+    {
+      "line": 6190,
+      "start_pos": 894223,
+      "end_pos": 894241,
+      "match": "function i(A, e) {",
+      "context": "Lines 3 before to 3 after position 894223"
+    },
+    {
+      "line": 6193,
+      "start_pos": 894410,
+      "end_pos": 894428,
+      "match": "function g(A, e) {",
+      "context": "Lines 3 before to 5 after position 894410"
+    },
+    {
+      "line": 6196,
+      "start_pos": 894530,
+      "end_pos": 894545,
+      "match": "function r(A) {",
+      "context": "Lines 5 before to 3 after position 894530"
+    },
+    {
+      "line": 6324,
+      "start_pos": 904791,
+      "end_pos": 904809,
+      "match": "function a(A, e) {",
+      "context": "Lines 5 before to 4 after position 904791"
+    },
+    {
+      "line": 6336,
+      "start_pos": 905412,
+      "end_pos": 905430,
+      "match": "function c(A, e) {",
+      "context": "Lines 6 before to 3 after position 905412"
+    },
+    {
+      "line": 6339,
+      "start_pos": 905613,
+      "end_pos": 905631,
+      "match": "function n(A, e) {",
+      "context": "Lines 3 before to 4 after position 905613"
+    },
+    {
+      "line": 6363,
+      "start_pos": 907126,
+      "end_pos": 907147,
+      "match": "function t(A, e, t) {",
+      "context": "Lines 3 before to 4 after position 907126"
+    },
+    {
+      "line": 6378,
+      "start_pos": 907887,
+      "end_pos": 907905,
+      "match": "function c(A, e) {",
+      "context": "Lines 3 before to 3 after position 907887"
+    },
+    {
+      "line": 6384,
+      "start_pos": 908232,
+      "end_pos": 908253,
+      "match": "function n(A, e, t) {",
+      "context": "Lines 4 before to 4 after position 908232"
+    },
+    {
+      "line": 6540,
+      "start_pos": 917011,
+      "end_pos": 917032,
+      "match": "function e(e, t, n) {",
+      "context": "Lines 3 before to 3 after position 917011"
+    },
+    {
+      "line": 6546,
+      "start_pos": 917506,
+      "end_pos": 917521,
+      "match": "function s(A) {",
+      "context": "Lines 2 before to 2 after position 917506"
+    },
+    {
+      "line": 6550,
+      "start_pos": 917858,
+      "end_pos": 917879,
+      "match": "function u(A, e, t) {",
+      "context": "Lines 2 before to 4 after position 917858"
+    },
+    {
+      "line": 6592,
+      "start_pos": 924131,
+      "end_pos": 924152,
+      "match": "function C(A, e, t) {",
+      "context": "Lines 4 before to 3 after position 924131"
+    },
+    {
+      "line": 6604,
+      "start_pos": 925403,
+      "end_pos": 925421,
+      "match": "function D(A, e) {",
+      "context": "Lines 2 before to 3 after position 925403"
+    },
+    {
+      "line": 6620,
+      "start_pos": 927282,
+      "end_pos": 927296,
+      "match": "function n() {",
+      "context": "Lines 4 before to 3 after position 927282"
+    },
+    {
+      "line": 6666,
+      "start_pos": 929875,
+      "end_pos": 929890,
+      "match": "function a(A) {",
+      "context": "Lines 6 before to 1 after position 929875"
+    },
+    {
+      "line": 6679,
+      "start_pos": 930811,
+      "end_pos": 930825,
+      "match": "function g() {",
+      "context": "Lines 2 before to 2 after position 930811"
+    },
+    {
+      "line": 6686,
+      "start_pos": 931549,
+      "end_pos": 931567,
+      "match": "function r(A, e) {",
+      "context": "Lines 2 before to 3 after position 931549"
+    },
+    {
+      "line": 6700,
+      "start_pos": 932954,
+      "end_pos": 932969,
+      "match": "function I(A) {",
+      "context": "Lines 4 before to 2 after position 932954"
+    }
+  ],
+  "math_functions": [],
+  "event_handlers": [
+    {
+      "line": 288,
+      "start_pos": 20066,
+      "end_pos": 20083,
+      "match": "addEventListener(",
+      "context": "Lines 6 before to 6 after position 20066"
+    },
+    {
+      "line": 428,
+      "start_pos": 26177,
+      "end_pos": 26194,
+      "match": "addEventListener(",
+      "context": "Lines 2 before to 3 after position 26177"
+    },
+    {
+      "line": 441,
+      "start_pos": 26973,
+      "end_pos": 26990,
+      "match": "addEventListener(",
+      "context": "Lines 5 before to 4 after position 26973"
+    },
+    {
+      "line": 445,
+      "start_pos": 27155,
+      "end_pos": 27172,
+      "match": "addEventListener(",
+      "context": "Lines 4 before to 5 after position 27155"
+    },
+    {
+      "line": 7336,
+      "start_pos": 1117632,
+      "end_pos": 1117649,
+      "match": "addEventListener(",
+      "context": "Lines 6 before to 3 after position 1117632"
+    }
+  ],
+  "mouse_events": [],
+  "drag_events": [
+    {
+      "line": 434,
+      "start_pos": 26632,
+      "end_pos": 26636,
+      "match": "move",
+      "context": "Lines 3 before to 2 after position 26632"
+    },
+    {
+      "line": 6319,
+      "start_pos": 904604,
+      "end_pos": 904609,
+      "match": "slide",
+      "context": "Lines 7 before to 5 after position 904604"
+    },
+    {
+      "line": 6857,
+      "start_pos": 1067002,
+      "end_pos": 1067007,
+      "match": "slide",
+      "context": "Lines 4 before to 4 after position 1067002"
+    },
+    {
+      "line": 6858,
+      "start_pos": 1067054,
+      "end_pos": 1067059,
+      "match": "slide",
+      "context": "Lines 4 before to 4 after position 1067054"
+    },
+    {
+      "line": 6859,
+      "start_pos": 1067101,
+      "end_pos": 1067106,
+      "match": "slide",
+      "context": "Lines 4 before to 3 after position 1067101"
+    },
+    {
+      "line": 6860,
+      "start_pos": 1067144,
+      "end_pos": 1067149,
+      "match": "slide",
+      "context": "Lines 4 before to 3 after position 1067144"
+    },
+    {
+      "line": 6861,
+      "start_pos": 1067191,
+      "end_pos": 1067196,
+      "match": "slide",
+      "context": "Lines 4 before to 2 after position 1067191"
+    },
+    {
+      "line": 7293,
+      "start_pos": 1115262,
+      "end_pos": 1115267,
+      "match": "slide",
+      "context": "Lines 9 before to 4 after position 1115262"
+    },
+    {
+      "line": 7304,
+      "start_pos": 1116001,
+      "end_pos": 1116006,
+      "match": "slide",
+      "context": "Lines 4 before to 7 after position 1116001"
+    },
+    {
+      "line": 7305,
+      "start_pos": 1116030,
+      "end_pos": 1116035,
+      "match": "slide",
+      "context": "Lines 4 before to 6 after position 1116030"
+    },
+    {
+      "line": 7313,
+      "start_pos": 1116333,
+      "end_pos": 1116338,
+      "match": "Slide",
+      "context": "Lines 4 before to 3 after position 1116333"
+    },
+    {
+      "line": 7314,
+      "start_pos": 1116427,
+      "end_pos": 1116432,
+      "match": "slide",
+      "context": "Lines 3 before to 4 after position 1116427"
+    }
+  ],
+  "success_conditions": [
+    {
+      "line": 91,
+      "start_pos": 8025,
+      "end_pos": 8032,
+      "match": "success",
+      "context": "Lines 0 before to 4 after position 8025"
+    },
+    {
+      "line": 109,
+      "start_pos": 9669,
+      "end_pos": 9676,
+      "match": "success",
+      "context": "Lines 2 before to 1 after position 9669"
+    },
+    {
+      "line": 109,
+      "start_pos": 9707,
+      "end_pos": 9714,
+      "match": "success",
+      "context": "Lines 2 before to 3 after position 9707"
+    },
+    {
+      "line": 109,
+      "start_pos": 9748,
+      "end_pos": 9755,
+      "match": "success",
+      "context": "Lines 2 before to 3 after position 9748"
+    },
+    {
+      "line": 243,
+      "start_pos": 17345,
+      "end_pos": 17352,
+      "match": "Success",
+      "context": "Lines 3 before to 4 after position 17345"
+    },
+    {
+      "line": 244,
+      "start_pos": 17412,
+      "end_pos": 17419,
+      "match": "Success",
+      "context": "Lines 3 before to 3 after position 17412"
+    },
+    {
+      "line": 247,
+      "start_pos": 17620,
+      "end_pos": 17627,
+      "match": "Success",
+      "context": "Lines 3 before to 2 after position 17620"
+    },
+    {
+      "line": 247,
+      "start_pos": 17670,
+      "end_pos": 17677,
+      "match": "Success",
+      "context": "Lines 1 before to 4 after position 17670"
+    },
+    {
+      "line": 248,
+      "start_pos": 17764,
+      "end_pos": 17771,
+      "match": "Success",
+      "context": "Lines 1 before to 4 after position 17764"
+    },
+    {
+      "line": 367,
+      "start_pos": 23216,
+      "end_pos": 23223,
+      "match": "Success",
+      "context": "Lines 2 before to 4 after position 23216"
+    },
+    {
+      "line": 367,
+      "start_pos": 23277,
+      "end_pos": 23284,
+      "match": "success",
+      "context": "Lines 2 before to 5 after position 23277"
+    },
+    {
+      "line": 373,
+      "start_pos": 23542,
+      "end_pos": 23549,
+      "match": "Success",
+      "context": "Lines 5 before to 4 after position 23542"
+    },
+    {
+      "line": 381,
+      "start_pos": 24041,
+      "end_pos": 24048,
+      "match": "Success",
+      "context": "Lines 3 before to 4 after position 24041"
+    },
+    {
+      "line": 7311,
+      "start_pos": 1116226,
+      "end_pos": 1116234,
+      "match": "Complete",
+      "context": "Lines 6 before to 3 after position 1116226"
+    },
+    {
+      "line": 7313,
+      "start_pos": 1116348,
+      "end_pos": 1116356,
+      "match": "complete",
+      "context": "Lines 4 before to 3 after position 1116348"
+    },
+    {
+      "line": 7315,
+      "start_pos": 1116478,
+      "end_pos": 1116485,
+      "match": "Success",
+      "context": "Lines 3 before to 3 after position 1116478"
+    },
+    {
+      "line": 7322,
+      "start_pos": 1116885,
+      "end_pos": 1116892,
+      "match": "Success",
+      "context": "Lines 4 before to 3 after position 1116885"
+    }
+  ],
+  "coordinate_calc": [
+    {
+      "line": 6647,
+      "start_pos": 929098,
+      "end_pos": 929104,
+      "match": "offset",
+      "context": "Lines 4 before to 4 after position 929098"
+    },
+    {
+      "line": 7306,
+      "start_pos": 1116058,
+      "end_pos": 1116064,
+      "match": "offset",
+      "context": "Lines 5 before to 6 after position 1116058"
+    },
+    {
+      "line": 7314,
+      "start_pos": 1116411,
+      "end_pos": 1116419,
+      "match": "position",
+      "context": "Lines 3 before to 3 after position 1116411"
+    }
+  ],
+  "validation_logic": [
+    {
+      "line": 33,
+      "start_pos": 1623,
+      "end_pos": 1628,
+      "match": "check",
+      "context": "Lines 8 before to 6 after position 1623"
+    },
+    {
+      "line": 34,
+      "start_pos": 1680,
+      "end_pos": 1685,
+      "match": "check",
+      "context": "Lines 6 before to 6 after position 1680"
+    },
+    {
+      "line": 159,
+      "start_pos": 12157,
+      "end_pos": 12162,
+      "match": "check",
+      "context": "Lines 4 before to 3 after position 12157"
+    },
+    {
+      "line": 338,
+      "start_pos": 22018,
+      "end_pos": 22023,
+      "match": "check",
+      "context": "Lines 4 before to 5 after position 22018"
+    },
+    {
+      "line": 340,
+      "start_pos": 22109,
+      "end_pos": 22114,
+      "match": "check",
+      "context": "Lines 5 before to 5 after position 22109"
+    },
+    {
+      "line": 7320,
+      "start_pos": 1116785,
+      "end_pos": 1116791,
+      "match": "Verify",
+      "context": "Lines 3 before to 3 after position 1116785"
+    },
+    {
+      "line": 7320,
+      "start_pos": 1116794,
+      "end_pos": 1116800,
+      "match": "Verify",
+      "context": "Lines 3 before to 4 after position 1116794"
+    }
+  ],
+  "timing_functions": [
+    {
+      "line": 52,
+      "start_pos": 3089,
+      "end_pos": 3093,
+      "match": "wait",
+      "context": "Lines 0 before to 2 after position 3089"
+    },
+    {
+      "line": 235,
+      "start_pos": 16905,
+      "end_pos": 16915,
+      "match": "setTimeout",
+      "context": "Lines 4 before to 5 after position 16905"
+    },
+    {
+      "line": 242,
+      "start_pos": 17247,
+      "end_pos": 17257,
+      "match": "setTimeout",
+      "context": "Lines 4 before to 3 after position 17247"
+    },
+    {
+      "line": 272,
+      "start_pos": 19558,
+      "end_pos": 19568,
+      "match": "setTimeout",
+      "context": "Lines 4 before to 4 after position 19558"
+    },
+    {
+      "line": 6987,
+      "start_pos": 1081144,
+      "end_pos": 1081154,
+      "match": "setTimeout",
+      "context": "Lines 2 before to 4 after position 1081144"
+    },
+    {
+      "line": 7083,
+      "start_pos": 1090896,
+      "end_pos": 1090907,
+      "match": "setInterval",
+      "context": "Lines 2 before to 3 after position 1090896"
+    }
+  ],
+  "detection_logic": [
+    {
+      "line": 10,
+      "start_pos": 443,
+      "end_pos": 446,
+      "match": "bot",
+      "context": "Lines 2 before to 2 after position 443"
+    },
+    {
+      "line": 15,
+      "start_pos": 1101,
+      "end_pos": 1104,
+      "match": "bot",
+      "context": "Lines 1 before to 5 after position 1101"
+    },
+    {
+      "line": 19,
+      "start_pos": 1264,
+      "end_pos": 1267,
+      "match": "bot",
+      "context": "Lines 4 before to 7 after position 1264"
+    },
+    {
+      "line": 57,
+      "start_pos": 3463,
+      "end_pos": 3466,
+      "match": "bot",
+      "context": "Lines 4 before to 2 after position 3463"
+    },
+    {
+      "line": 57,
+      "start_pos": 3486,
+      "end_pos": 3489,
+      "match": "bot",
+      "context": "Lines 3 before to 3 after position 3486"
+    },
+    {
+      "line": 58,
+      "start_pos": 3530,
+      "end_pos": 3533,
+      "match": "bot",
+      "context": "Lines 2 before to 2 after position 3530"
+    },
+    {
+      "line": 58,
+      "start_pos": 3564,
+      "end_pos": 3567,
+      "match": "bot",
+      "context": "Lines 2 before to 4 after position 3564"
+    },
+    {
+      "line": 59,
+      "start_pos": 3622,
+      "end_pos": 3625,
+      "match": "bot",
+      "context": "Lines 3 before to 3 after position 3622"
+    },
+    {
+      "line": 59,
+      "start_pos": 3654,
+      "end_pos": 3657,
+      "match": "bot",
+      "context": "Lines 2 before to 3 after position 3654"
+    },
+    {
+      "line": 60,
+      "start_pos": 3712,
+      "end_pos": 3715,
+      "match": "bot",
+      "context": "Lines 2 before to 3 after position 3712"
+    },
+    {
+      "line": 62,
+      "start_pos": 3806,
+      "end_pos": 3809,
+      "match": "bot",
+      "context": "Lines 3 before to 4 after position 3806"
+    },
+    {
+      "line": 62,
+      "start_pos": 3832,
+      "end_pos": 3838,
+      "match": "detect",
+      "context": "Lines 3 before to 4 after position 3832"
+    },
+    {
+      "line": 67,
+      "start_pos": 4116,
+      "end_pos": 4119,
+      "match": "bot",
+      "context": "Lines 3 before to 4 after position 4116"
+    },
+    {
+      "line": 71,
+      "start_pos": 4346,
+      "end_pos": 4349,
+      "match": "bot",
+      "context": "Lines 4 before to 2 after position 4346"
+    },
+    {
+      "line": 71,
+      "start_pos": 4386,
+      "end_pos": 4389,
+      "match": "bot",
+      "context": "Lines 3 before to 3 after position 4386"
+    },
+    {
+      "line": 72,
+      "start_pos": 4452,
+      "end_pos": 4455,
+      "match": "bot",
+      "context": "Lines 3 before to 2 after position 4452"
+    },
+    {
+      "line": 72,
+      "start_pos": 4507,
+      "end_pos": 4510,
+      "match": "bot",
+      "context": "Lines 1 before to 2 after position 4507"
+    },
+    {
+      "line": 77,
+      "start_pos": 4915,
+      "end_pos": 4918,
+      "match": "bot",
+      "context": "Lines 3 before to 2 after position 4915"
+    },
+    {
+      "line": 450,
+      "start_pos": 27353,
+      "end_pos": 27359,
+      "match": "detect",
+      "context": "Lines 5 before to 5 after position 27353"
+    },
+    {
+      "line": 450,
+      "start_pos": 27360,
+      "end_pos": 27363,
+      "match": "bot",
+      "context": "Lines 5 before to 5 after position 27360"
+    },
+    {
+      "line": 6320,
+      "start_pos": 904644,
+      "end_pos": 904650,
+      "match": "detect",
+      "context": "Lines 6 before to 5 after position 904644"
+    }
+  ],
+  "state_management": [
+    {
+      "line": 109,
+      "start_pos": 9785,
+      "end_pos": 9791,
+      "match": "status",
+      "context": "Lines 1 before to 3 after position 9785"
+    },
+    {
+      "line": 197,
+      "start_pos": 14552,
+      "end_pos": 14558,
+      "match": "status",
+      "context": "Lines 6 before to 3 after position 14552"
+    },
+    {
+      "line": 197,
+      "start_pos": 14574,
+      "end_pos": 14580,
+      "match": "status",
+      "context": "Lines 5 before to 4 after position 14574"
+    },
+    {
+      "line": 240,
+      "start_pos": 17108,
+      "end_pos": 17117,
+      "match": "condition",
+      "context": "Lines 5 before to 3 after position 17108"
+    },
+    {
+      "line": 285,
+      "start_pos": 19964,
+      "end_pos": 19969,
+      "match": "State",
+      "context": "Lines 8 before to 7 after position 19964"
+    },
+    {
+      "line": 380,
+      "start_pos": 23975,
+      "end_pos": 23981,
+      "match": "status",
+      "context": "Lines 3 before to 3 after position 23975"
+    },
+    {
+      "line": 380,
+      "start_pos": 23997,
+      "end_pos": 24003,
+      "match": "status",
+      "context": "Lines 2 before to 4 after position 23997"
+    }
+  ],
+  "cleanup_logic": [
+    {
+      "line": 6709,
+      "start_pos": 933770,
+      "end_pos": 933775,
+      "match": "clear",
+      "context": "Lines 2 before to 1 after position 933770"
+    },
+    {
+      "line": 7092,
+      "start_pos": 1092024,
+      "end_pos": 1092029,
+      "match": "clear",
+      "context": "Lines 2 before to 3 after position 1092024"
+    }
+  ],
+  "math_analysis": {
+    "coordinate_calculations": [],
+    "position_validation": [],
+    "movement_calculations": [],
+    "success_thresholds": []
+  }
+}

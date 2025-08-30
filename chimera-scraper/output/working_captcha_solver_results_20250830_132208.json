@@ -1,0 +1,67 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detection_rate": 100.0,
+    "iframe_access_rate": 100.0,
+    "mathematical_calculations_rate": 33.33333333333333,
+    "coordinate_system_fixed_rate": 33.33333333333333,
+    "captcha_solve_rate": 33.33333333333333,
+    "data_extraction_rate": 0.0,
+    "average_execution_time": 9.188957373301188
+  },
+  "mathematical_constants": {
+    "slider_width": 63,
+    "success_threshold": 20,
+    "max_offset": 5
+  },
+  "scraping_stats": {
+    "captcha_detected": 3,
+    "iframe_access_success": 3,
+    "mathematical_calculations": 1,
+    "coordinate_system_fixed": 1,
+    "successful_captcha_solves": 1,
+    "data_extraction_attempts": 0,
+    "successful_data_extractions": 0,
+    "execution_time": 27.566872119903564,
+    "errors": []
+  },
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": false,
+      "execution_time": 13.674782037734985,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": true,
+      "data_extracted": false,
+      "errors": []
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "success": false,
+      "execution_time": 7.554250001907349,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": true,
+      "data_extracted": false,
+      "errors": []
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "success": false,
+      "execution_time": 6.3378400802612305,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": true,
+      "data_extracted": false,
+      "errors": []
+    }
+  ],
+  "export_timestamp": "2025-08-30T13:22:08.618954"
+}

@@ -1,0 +1,87 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detection_rate": 100.0,
+    "iframe_access_rate": 100.0,
+    "captcha_solve_rate": 0.0,
+    "data_extraction_rate": 0.0,
+    "mathematical_precision_metrics": {
+      "total_calculations": 1,
+      "position_validations": 1,
+      "micro_adjustments": 1,
+      "strategic_validations": 0
+    }
+  },
+  "scraping_statistics": {
+    "captcha_detected": 3,
+    "iframe_access_success": 3,
+    "successful_captcha_solves": 0,
+    "puzzle_movements": 1,
+    "mathematical_calculations": 1,
+    "position_validations": 1,
+    "micro_adjustments": 1,
+    "strategic_validations": 0,
+    "data_extraction_attempts": 0,
+    "successful_data_extractions": 0,
+    "execution_time": 0.0,
+    "errors": [
+      "puzzle_movement: ElementHandle.bounding_box: Frame has been detached."
+    ]
+  },
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": false,
+      "execution_time": 9.190826892852783,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "captcha_solved": false,
+      "mathematical_calculations": 1,
+      "position_validations": 1,
+      "micro_adjustments": 1,
+      "puzzle_movements": 1,
+      "data_extracted": false,
+      "errors": [
+        "puzzle_movement: ElementHandle.bounding_box: Frame has been detached."
+      ]
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "success": false,
+      "execution_time": 22.085447311401367,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "captcha_solved": false,
+      "mathematical_calculations": 1,
+      "position_validations": 1,
+      "micro_adjustments": 1,
+      "puzzle_movements": 1,
+      "data_extracted": false,
+      "errors": [
+        "puzzle_movement: ElementHandle.bounding_box: Frame has been detached."
+      ]
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "success": false,
+      "execution_time": 17.59370183944702,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "captcha_solved": false,
+      "mathematical_calculations": 1,
+      "position_validations": 1,
+      "micro_adjustments": 1,
+      "puzzle_movements": 1,
+      "data_extracted": false,
+      "errors": [
+        "puzzle_movement: ElementHandle.bounding_box: Frame has been detached."
+      ]
+    }
+  ],
+  "puzzle_state": {
+    "final_slider_position": 845,
+    "final_target_position": 1897,
+    "final_movement_distance": 1052,
+    "success_threshold": 5.0
+  }
+}

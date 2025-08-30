@@ -1,0 +1,103 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detected": 3,
+    "captcha_detection_rate": 100.0,
+    "captcha_solved": 0,
+    "captcha_solve_rate": 0.0,
+    "data_extracted": 0,
+    "data_extraction_rate": 0.0,
+    "successful_bypasses": 0,
+    "overall_success_rate": 0.0,
+    "average_execution_time": 19.65,
+    "puzzle_movements": 3,
+    "mathematical_calculations": 3,
+    "strategic_validations": 3
+  },
+  "scraping_stats": {
+    "total_attempts": 3,
+    "successful_captures": 0,
+    "captcha_challenges": 3,
+    "captcha_solved": 0,
+    "puzzle_movements": 3,
+    "mathematical_calculations": 3,
+    "strategic_validations": 3
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "timestamp": "2025-08-30T05:05:59.054666",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 19.64903688430786,
+      "errors": [
+        "Proven CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 0,
+        "successful_captures": 0,
+        "captcha_challenges": 1,
+        "captcha_solved": 0,
+        "puzzle_movements": 1,
+        "mathematical_calculations": 1,
+        "strategic_validations": 1
+      },
+      "extracted_data": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "timestamp": "2025-08-30T05:06:32.601633",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 19.50055480003357,
+      "errors": [
+        "Proven CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 1,
+        "successful_captures": 0,
+        "captcha_challenges": 2,
+        "captcha_solved": 0,
+        "puzzle_movements": 2,
+        "mathematical_calculations": 2,
+        "strategic_validations": 2
+      },
+      "extracted_data": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "timestamp": "2025-08-30T05:07:05.718650",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 19.790261030197144,
+      "errors": [
+        "Proven CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 2,
+        "successful_captures": 0,
+        "captcha_challenges": 3,
+        "captcha_solved": 0,
+        "puzzle_movements": 3,
+        "mathematical_calculations": 3,
+        "strategic_validations": 3
+      },
+      "extracted_data": null
+    }
+  ],
+  "implementation_details": {
+    "proven_movement": "Incorporated from breakthrough_iframe_bypass.py (WORKING)",
+    "puzzle_math": "Incorporated from puzzle.md analysis",
+    "strategic_validation": "Incorporated from STRATEGIC_CODE_ANALYSIS.md",
+    "enhanced_parsing": "Comprehensive G2.com data extraction"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "strategic_implementation": {
+    "event_handler_architecture": "capture: true, passive: false",
+    "success_signals": [
+      "done",
+      "stop",
+      "success"
+    ],
+    "event_properties": "bubbles: true, cancelable: true, composed: true",
+    "anti_bot_bypass": "Avoid _playwright_target_ events",
+    "event_sequence": "mousemove + mousedown + mouseup with descendant validation"
+  },
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": true,
+      "execution_time": 19.746071100234985,
+      "method": "strategic_event_system",
+      "stats": {
+        "total_attempts": 0,
+        "iframe_detected": 1,
+        "iframe_accessed": 1,
+        "puzzle_elements_found": 1,
+        "strategic_events_dispatched": 23,
+        "success_signals_detected": 0,
+        "captcha_solved": 1,
+        "errors": []
+      },
+      "error": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "success": true,
+      "execution_time": 17.683011054992676,
+      "method": "strategic_event_system",
+      "stats": {
+        "total_attempts": 0,
+        "iframe_detected": 2,
+        "iframe_accessed": 2,
+        "puzzle_elements_found": 2,
+        "strategic_events_dispatched": 46,
+        "success_signals_detected": 0,
+        "captcha_solved": 2,
+        "errors": []
+      },
+      "error": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "success": true,
+      "execution_time": 17.6161847114563,
+      "method": "strategic_event_system",
+      "stats": {
+        "total_attempts": 0,
+        "iframe_detected": 3,
+        "iframe_accessed": 3,
+        "puzzle_elements_found": 3,
+        "strategic_events_dispatched": 69,
+        "success_signals_detected": 0,
+        "captcha_solved": 3,
+        "errors": []
+      },
+      "error": null
+    }
+  ],
+  "captcha_stats": {
+    "total_attempts": 0,
+    "iframe_detected": 3,
+    "iframe_accessed": 3,
+    "puzzle_elements_found": 3,
+    "strategic_events_dispatched": 69,
+    "success_signals_detected": 0,
+    "captcha_solved": 3,
+    "errors": []
+  },
+  "strategic_insights_implemented": {
+    "core_event_handler_chain": true,
+    "success_condition_logic": true,
+    "event_dispatching_system": true,
+    "anti_bot_bypass": true,
+    "exact_event_sequence": true
+  }
+}

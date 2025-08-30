@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "puzzle_solved": false,
+  "data_extracted": true,
+  "errors": [],
+  "timing": {
+    "page_load": 1.6532869338989258,
+    "data_extraction": 4.399933815002441,
+    "total_session": 11.61600112915039
+  },
+  "puzzle_stats": {},
+  "extracted_data": {
+    "h1_1": "Best Amazon Web Services Channel Partners",
+    "page_title": "Best Amazon Web Services Channel Partners in 2025: Compare Reviews on 1900+ Services | G2",
+    "current_url": "https://www.g2.com/categories/amazon-web-services-channel-partners"
+  }
+}

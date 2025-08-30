@@ -1,0 +1,104 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detected": 3,
+    "captcha_detection_rate": 100.0,
+    "captcha_solved": 0,
+    "captcha_solve_rate": 0.0,
+    "data_extracted": 0,
+    "data_extraction_rate": 0.0,
+    "successful_bypasses": 0,
+    "overall_success_rate": 0.0,
+    "average_execution_time": 21.77,
+    "iframe_accesses": 3,
+    "ai_summaries_extracted": 0,
+    "competitive_insights_extracted": 0
+  },
+  "scraping_stats": {
+    "total_attempts": 3,
+    "captcha_challenges": 3,
+    "captcha_solved": 0,
+    "iframe_accesses": 3,
+    "data_extraction_successes": 0,
+    "ai_summaries_extracted": 0,
+    "competitive_insights_extracted": 0
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense",
+      "timestamp": "2025-08-30T14:24:40.879358",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 23.03132200241089,
+      "errors": [
+        "CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 0,
+        "captcha_challenges": 1,
+        "captcha_solved": 0,
+        "iframe_accesses": 1,
+        "data_extraction_successes": 0,
+        "ai_summaries_extracted": 0,
+        "competitive_insights_extracted": 0
+      },
+      "extracted_data": null
+    },
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-qlik-sense",
+      "timestamp": "2025-08-30T14:25:17.874858",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 20.5793399810791,
+      "errors": [
+        "CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 1,
+        "captcha_challenges": 2,
+        "captcha_solved": 0,
+        "iframe_accesses": 2,
+        "data_extraction_successes": 0,
+        "ai_summaries_extracted": 0,
+        "competitive_insights_extracted": 0
+      },
+      "extracted_data": null
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "timestamp": "2025-08-30T14:25:55.792933",
+      "captcha_detected": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "success": false,
+      "execution_time": 21.70078992843628,
+      "errors": [
+        "CAPTCHA solving failed",
+        "Data extraction failed"
+      ],
+      "scraping_stats": {
+        "total_attempts": 2,
+        "captcha_challenges": 3,
+        "captcha_solved": 0,
+        "iframe_accesses": 3,
+        "data_extraction_successes": 0,
+        "ai_summaries_extracted": 0,
+        "competitive_insights_extracted": 0
+      },
+      "extracted_data": null
+    }
+  ],
+  "strategic_implementation": {
+    "captcha_bypass": "Enhanced from breakthrough_iframe_bypass.py",
+    "competitive_intelligence": "Based on FOUR_WAY_COMPARISON_GUIDE.md",
+    "ai_summary_extraction": "Based on ENHANCED_HEAD_TO_HEAD_IMPLEMENTATION.md",
+    "strategic_timing": "Optimized from STRATEGIC_CODE_ANALYSIS.md",
+    "event_properties": "Strategic event handling from analysis"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "puzzle_solved": false,
+  "data_extracted": true,
+  "errors": [],
+  "timing": {
+    "page_load": 1.5223510265350342,
+    "data_extraction": 3.076016664505005,
+    "total_session": 10.08082628250122
+  },
+  "puzzle_stats": {},
+  "extracted_data": {
+    "page_title": "g2.com",
+    "current_url": "https://www.g2.com/compare/figma-vs-sketch"
+  }
+}

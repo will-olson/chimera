@@ -1,0 +1,75 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detection_rate": 100.0,
+    "iframe_access_rate": 100.0,
+    "mathematical_calculations_rate": 33.33333333333333,
+    "coordinate_system_fixed_rate": 33.33333333333333,
+    "captcha_solve_rate": 0.0,
+    "data_extraction_rate": 0.0,
+    "average_execution_time": 9.384336709976196
+  },
+  "mathematical_constants": {
+    "slider_width": 63,
+    "success_threshold": 20,
+    "max_offset": 5
+  },
+  "scraping_stats": {
+    "captcha_detected": 3,
+    "iframe_access_success": 3,
+    "mathematical_calculations": 1,
+    "coordinate_system_fixed": 1,
+    "successful_captcha_solves": 0,
+    "data_extraction_attempts": 0,
+    "successful_data_extractions": 0,
+    "execution_time": 28.15301012992859,
+    "errors": [
+      "Strategic positioning: ElementHandle.bounding_box: Frame has been detached."
+    ]
+  },
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": false,
+      "execution_time": 12.609473705291748,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "errors": [
+        "Strategic positioning: ElementHandle.bounding_box: Frame has been detached."
+      ]
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "success": false,
+      "execution_time": 7.6852452754974365,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "errors": [
+        "Strategic positioning: ElementHandle.bounding_box: Frame has been detached."
+      ]
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "success": false,
+      "execution_time": 7.858291149139404,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "errors": [
+        "Strategic positioning: ElementHandle.bounding_box: Frame has been detached."
+      ]
+    }
+  ],
+  "export_timestamp": "2025-08-30T13:26:43.509167"
+}

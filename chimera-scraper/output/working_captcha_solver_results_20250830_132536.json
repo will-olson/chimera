@@ -1,0 +1,80 @@
+{
+  "test_summary": {
+    "total_tests": 3,
+    "captcha_detection_rate": 100.0,
+    "iframe_access_rate": 100.0,
+    "mathematical_calculations_rate": 100.0,
+    "coordinate_system_fixed_rate": 100.0,
+    "captcha_solve_rate": 0.0,
+    "data_extraction_rate": 0.0,
+    "average_execution_time": 7.649887720743815
+  },
+  "mathematical_constants": {
+    "slider_width": 63,
+    "success_threshold": 20,
+    "max_offset": 5
+  },
+  "scraping_stats": {
+    "captcha_detected": 3,
+    "iframe_access_success": 3,
+    "mathematical_calculations": 3,
+    "coordinate_system_fixed": 3,
+    "successful_captcha_solves": 0,
+    "data_extraction_attempts": 0,
+    "successful_data_extractions": 0,
+    "execution_time": 22.949663162231445,
+    "errors": [
+      "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given",
+      "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given",
+      "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given"
+    ]
+  },
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": false,
+      "execution_time": 6.880565166473389,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "errors": [
+        "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given"
+      ]
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=1",
+      "success": false,
+      "execution_time": 8.187049865722656,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "errors": [
+        "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given",
+        "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given"
+      ]
+    },
+    {
+      "url": "https://www.g2.com/compare/notion-vs-obsidian?p=2",
+      "success": false,
+      "execution_time": 7.8820481300354,
+      "captcha_detected": true,
+      "iframe_accessed": true,
+      "mathematical_calculations": true,
+      "coordinate_system_fixed": true,
+      "captcha_solved": false,
+      "data_extracted": false,
+      "errors": [
+        "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given",
+        "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given",
+        "Strategic positioning: evaluate() takes from 2 to 3 positional arguments but 5 were given"
+      ]
+    }
+  ],
+  "export_timestamp": "2025-08-30T13:25:36.291907"
+}

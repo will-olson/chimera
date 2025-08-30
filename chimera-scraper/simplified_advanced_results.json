@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "captcha_bypassed": false,
+  "data_extracted": true,
+  "competitive_insights": [],
+  "ai_summaries": [],
+  "market_intelligence": {},
+  "errors": [],
+  "timing": {
+    "navigation": 4.952838182449341,
+    "data_extraction": 0.07744002342224121,
+    "total_session": 9.061367750167847
+  },
+  "quality_metrics": {}
+}

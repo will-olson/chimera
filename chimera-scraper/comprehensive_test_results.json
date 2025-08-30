@@ -1,0 +1,114 @@
+[
+  {
+    "test_number": 1,
+    "url": "https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 2.6394031047821045,
+      "data_extraction": 3.4339678287506104,
+      "total_session": 10.646277904510498
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 2,
+    "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.5870132446289062,
+      "data_extraction": 3.0840370655059814,
+      "total_session": 8.725718021392822
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 3,
+    "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.6532869338989258,
+      "data_extraction": 4.399933815002441,
+      "total_session": 11.61600112915039
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 4,
+    "url": "https://www.g2.com/compare/zoom-vs-microsoft-teams",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.435711145401001,
+      "data_extraction": 4.60536003112793,
+      "total_session": 10.440259218215942
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 5,
+    "url": "https://www.g2.com/compare/slack-vs-microsoft-teams",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.5151150226593018,
+      "data_extraction": 3.7949719429016113,
+      "total_session": 7.9863433837890625
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 6,
+    "url": "https://www.g2.com/compare/notion-vs-confluence",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.4164221286773682,
+      "data_extraction": 3.081300973892212,
+      "total_session": 8.46750783920288
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 7,
+    "url": "https://www.g2.com/compare/figma-vs-sketch",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.5223510265350342,
+      "data_extraction": 3.076016664505005,
+      "total_session": 10.08082628250122
+    },
+    "puzzle_stats": {}
+  },
+  {
+    "test_number": 8,
+    "url": "https://www.g2.com/compare/trello-vs-asana",
+    "success": true,
+    "captcha_detected": false,
+    "data_extracted": true,
+    "errors": [],
+    "timing": {
+      "page_load": 1.594635009765625,
+      "data_extraction": 4.678203344345093,
+      "total_session": 18.853835105895996
+    },
+    "puzzle_stats": {}
+  }
+]
