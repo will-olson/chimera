@@ -1,0 +1,170 @@
+# Chimera Scraping Profiles Configuration
+# This file defines different scraping strategies and anti-detection levels
+
+scraping_profiles:
+  # Stealth profile - High anti-detection, slower but safer
+  stealth:
+    anti_detection_level: "high"
+    human_behavior: true
+    cloudflare_bypass: true
+    delays:
+      min: 3.0
+      max: 8.0
+    behavior_intensity: "high"
+    max_reviews_per_target: 25
+    retry_attempts: 3
+    cloudflare_strategy: "comprehensive"
+    
+  # Natural profile - Balanced anti-detection and speed
+  natural:
+    anti_detection_level: "medium"
+    human_behavior: true
+    cloudflare_bypass: true
+    delays:
+      min: 2.0
+      max: 5.0
+    behavior_intensity: "medium"
+    max_reviews_per_target: 30
+    retry_attempts: 2
+    cloudflare_strategy: "comprehensive"
+    
+  # Aggressive profile - Lower anti-detection, faster
+  aggressive:
+    anti_detection_level: "medium"
+    human_behavior: false
+    cloudflare_bypass: true
+    delays:
+      min: 0.5
+      max: 2.0
+    behavior_intensity: "low"
+    max_reviews_per_target: 40
+    retry_attempts: 1
+    cloudflare_strategy: "aggressive"
+
+# Platform-specific configurations
+platform_configs:
+  g2:
+    default_profile: "stealth"
+    anti_detection_focus: "webdriver_hiding_and_fingerprint_spoofing"
+    review_selectors:
+      primary: ["div[itemprop='reviewBody']", ".review", ".review-item"]
+      fallback: ["p.elv-tracking-normal.elv-text-default.elv-font-figtree.elv-text-base.elv-leading-base"]
+    rating_selectors:
+      primary: ["span:contains('out of 5')", ".rating", ".stars"]
+      fallback: ["[data-testid='rating']", ".product-header__rating"]
+    
+  capterra:
+    default_profile: "stealth"
+    anti_detection_focus: "cloudflare_bypass_and_human_behavior_simulation"
+    review_selectors:
+      primary: ["div[data-testid='review-summary-item']", ".sb.card.padding-medium"]
+      fallback: [".rounded-xl.border.border-neutral-20.bg-card", ".review-item"]
+    rating_selectors:
+      primary: ["span[data-testid='star-rating-count']", ".star-rating-label"]
+      fallback: [".sb.type-40.star-rating-label", ".rating"]
+
+# Anti-detection strategies
+anti_detection_strategies:
+  webdriver_hiding:
+    enabled: true
+    techniques:
+      - "navigator.webdriver override"
+      - "plugin array spoofing"
+      - "language and platform spoofing"
+      - "hardware concurrency spoofing"
+      - "device memory spoofing"
+  
+  human_behavior:
+    enabled: true
+    mouse_movements:
+      min_count: 2
+      max_count: 8
+      delay_range: [0.1, 0.5]
+    scrolling:
+      patterns: [[150, 0.5], [200, 0.8], [300, 1.2], [100, 0.4]]
+      scroll_back_probability: 0.4
+    timing_variations:
+      base_delay: 1.0
+      variation_range: [0.5, 1.5]
+  
+  cloudflare_bypass:
+    enabled: true
+    detection_methods:
+      - "checking your browser"
+      - "cloudflare"
+      - "ray id"
+      - "please wait"
+      - "ddos protection"
+      - "security check"
+    bypass_strategies:
+      comprehensive:
+        max_wait: 45
+        human_interaction: true
+        progressive_loading: true
+      aggressive:
+        max_wait: 30
+        human_interaction: true
+        cookie_clearing: true
+      basic:
+        max_wait: 20
+        human_interaction: false
+        progressive_loading: false
+
+# Target management configuration
+target_management:
+  validation:
+    check_required_fields: true
+    validate_urls: true
+    check_metadata: true
+  
+  prioritization:
+    high_priority: ["leader", "innovator"]
+    medium_priority: ["established", "emerging"]
+    low_priority: ["established", "emerging"]
+  
+  batch_processing:
+    max_targets_per_batch: 5
+    delay_between_batches: [10, 20]
+    retry_failed_targets: true
+
+# Data quality and validation
+data_quality:
+  review_validation:
+    min_content_length: 20
+    min_word_count: 10
+    require_author: true
+    validate_rating_range: [0, 5]
+  
+  extraction_confidence:
+    min_confidence: 0.5
+    quality_factors:
+      content_length: 0.3
+      rating_presence: 0.2
+      author_info: 0.2
+      date_presence: 0.1
+      sentiment_analysis: 0.1
+      additional_metadata: 0.1
+
+# Logging and monitoring
+logging:
+  level: "INFO"
+  file_rotation: "500 MB"
+  file_retention: "10 days"
+  console_format: "<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - <level>{message}</level>"
+  file_format: "{time:YYYY-MM-DD HH:mm:ss} | {level: <8} | {name}:{function}:{line} - {message}"
+
+# Performance optimization
+performance:
+  selector_caching:
+    enabled: true
+    max_cache_size: 100
+    cache_cleanup_interval: 3600
+  
+  extraction_optimization:
+    parallel_processing: false
+    batch_size: 10
+    timeout_per_target: 300
+  
+  memory_management:
+    max_reviews_in_memory: 1000
+    cleanup_interval: 1800

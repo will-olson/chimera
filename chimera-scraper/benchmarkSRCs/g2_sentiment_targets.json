@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "G2 sentiment scraping targets for BI competitive intelligence",
+    "last_updated": "2025-01-20",
+    "total_competitors": 17,
+    "scraping_categories": [
+      "product_reviews",
+      "head_to_head_comparisons", 
+      "four_way_comparisons",
+      "competitor_alternatives"
+    ],
+    "priority_focus": "high_volume_review_scraping_for_foundational_insights"
+  },
+  "competitors": {
+    "snowflake": {
+      "name": "Snowflake",
+      "g2_product_id": "snowflake",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/snowflake/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/databricks-data-intelligence-platform-vs-snowflake",
+          "https://www.g2.com/compare/snowflake-vs-amazon-redshift",
+          "https://www.g2.com/compare/snowflake-vs-google-bigquery"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/snowflake-vs-databricks-vs-amazon-redshift-vs-google-bigquery"
+        ],
+        "alternatives": "https://www.g2.com/products/snowflake/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "cloud_data_warehouse",
+        "market_position": "leader",
+        "primary_competitors": ["databricks", "amazon_redshift", "google_bigquery"]
+      }
+    },
+    "databricks": {
+      "name": "Databricks",
+      "g2_product_id": "databricks-data-intelligence-platform",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/databricks-data-intelligence-platform/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/databricks-data-intelligence-platform-vs-snowflake",
+          "https://www.g2.com/compare/databricks-vs-tableau",
+          "https://www.g2.com/compare/databricks-vs-qlik-sense"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/snowflake-vs-databricks-vs-amazon-redshift-vs-google-bigquery"
+        ],
+        "alternatives": "https://www.g2.com/products/databricks-data-intelligence-platform/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "unified_data_platform",
+        "market_position": "leader",
+        "primary_competitors": ["snowflake", "tableau", "qlik_sense"]
+      }
+    },
+    "powerbi": {
+      "name": "Microsoft Power BI",
+      "g2_product_id": "power-bi",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/power-bi/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/power-bi-vs-tableau",
+          "https://www.g2.com/compare/power-bi-vs-qlik-sense",
+          "https://www.g2.com/compare/power-bi-vs-looker"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/power-bi-vs-tableau-vs-qlik-sense-vs-looker"
+        ],
+        "alternatives": "https://www.g2.com/products/power-bi/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "leader",
+        "primary_competitors": ["tableau", "qlik_sense", "looker"]
+      }
+    },
+    "tableau": {
+      "name": "Tableau",
+      "g2_product_id": "tableau",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/tableau/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/tableau-vs-power-bi",
+          "https://www.g2.com/compare/tableau-vs-qlik-sense",
+          "https://www.g2.com/compare/tableau-vs-looker"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/qlik-sense-vs-sisense-vs-tableau-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/tableau/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "data_visualization",
+        "market_position": "leader",
+        "primary_competitors": ["power_bi", "qlik_sense", "looker"]
+      }
+    },
+    "omni": {
+      "name": "Omni Analytics",
+      "g2_product_id": "omni-analytics-inc-omni-analytics",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/omni-analytics-inc-omni-analytics/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/omni-vs-hex",
+          "https://www.g2.com/compare/omni-vs-looker"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/hex-tech-hex-vs-looker-vs-sigma-computing-sigma-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/omni-analytics-inc-omni-analytics/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "modern_analytics",
+        "market_position": "emerging",
+        "primary_competitors": ["hex", "looker", "sigma"]
+      }
+    },
+    "looker": {
+      "name": "Looker",
+      "g2_product_id": "looker",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/looker/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/looker-vs-tableau",
+          "https://www.g2.com/compare/looker-vs-power-bi",
+          "https://www.g2.com/compare/looker-vs-qlik-sense"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/qlik-sense-vs-sisense-vs-tableau-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/looker/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "power_bi", "qlik_sense"]
+      }
+    },
+    "oracle": {
+      "name": "Oracle Business Intelligence",
+      "g2_product_id": "oracle-business-intelligence",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/oracle-business-intelligence/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/oracle-bi-vs-ibm-cognos",
+          "https://www.g2.com/compare/oracle-bi-vs-sap-businessobjects"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/oracle-bi-vs-ibm-cognos-vs-sap-businessobjects-vs-microstrategy"
+        ],
+        "alternatives": "https://www.g2.com/products/oracle-business-intelligence/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "enterprise_bi",
+        "market_position": "established",
+        "primary_competitors": ["ibm_cognos", "sap_businessobjects", "microstrategy"]
+      }
+    },
+    "sap_businessobjects": {
+      "name": "SAP BusinessObjects",
+      "g2_product_id": "sap-businessobjects",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/sap-businessobjects/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/sap-businessobjects-vs-oracle-bi",
+          "https://www.g2.com/compare/sap-businessobjects-vs-ibm-cognos"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/oracle-bi-vs-ibm-cognos-vs-sap-businessobjects-vs-microstrategy"
+        ],
+        "alternatives": "https://www.g2.com/products/sap-businessobjects/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "enterprise_bi",
+        "market_position": "established",
+        "primary_competitors": ["oracle_bi", "ibm_cognos", "microstrategy"]
+      }
+    },
+    "qlik": {
+      "name": "Qlik Sense",
+      "g2_product_id": "qlik-sense",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/qlik-sense/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/qlik-sense-vs-tableau",
+          "https://www.g2.com/compare/qlik-sense-vs-power-bi",
+          "https://www.g2.com/compare/qlik-sense-vs-looker"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/qlik-sense-vs-sisense-vs-tableau-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/qlik-sense/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "power_bi", "looker"]
+      }
+    },
+    "microstrategy": {
+      "name": "MicroStrategy",
+      "g2_product_id": "microstrategy",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/microstrategy/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/microstrategy-vs-tableau",
+          "https://www.g2.com/compare/microstrategy-vs-ibm-cognos"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/oracle-bi-vs-ibm-cognos-vs-sap-businessobjects-vs-microstrategy"
+        ],
+        "alternatives": "https://www.g2.com/products/microstrategy/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "enterprise_bi",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "ibm_cognos", "oracle_bi"]
+      }
+    },
+    "hex": {
+      "name": "Hex",
+      "g2_product_id": "hex-tech-hex",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/hex-tech-hex/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/hex-vs-omni",
+          "https://www.g2.com/compare/hex-vs-looker"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/hex-tech-hex-vs-looker-vs-sigma-computing-sigma-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/hex-tech-hex/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "modern_analytics",
+        "market_position": "emerging",
+        "primary_competitors": ["omni", "looker", "sigma"]
+      }
+    },
+    "thoughtspot": {
+      "name": "ThoughtSpot",
+      "g2_product_id": "thoughtspot",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/thoughtspot/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/thoughtspot-vs-tableau",
+          "https://www.g2.com/compare/thoughtspot-vs-qlik-sense"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/qlik-sense-vs-sisense-vs-tableau-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/thoughtspot/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "ai_powered_analytics",
+        "market_position": "innovator",
+        "primary_competitors": ["tableau", "qlik_sense", "sisense"]
+      }
+    },
+    "domo": {
+      "name": "Domo",
+      "g2_product_id": "domo",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/domo/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/domo-vs-tableau",
+          "https://www.g2.com/compare/domo-vs-power-bi"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/domo-vs-tableau-vs-power-bi-vs-qlik-sense"
+        ],
+        "alternatives": "https://www.g2.com/products/domo/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "cloud_bi",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "power_bi", "qlik_sense"]
+      }
+    },
+    "ibm_cognos": {
+      "name": "IBM Cognos Analytics",
+      "g2_product_id": "ibm-cognos-analytics",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/ibm-cognos-analytics/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/ibm-cognos-analytics-vs-oracle-bi",
+          "https://www.g2.com/compare/ibm-cognos-analytics-vs-sap-businessobjects"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/oracle-bi-vs-ibm-cognos-vs-sap-businessobjects-vs-microstrategy"
+        ],
+        "alternatives": "https://www.g2.com/products/ibm-cognos-analytics/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "enterprise_bi",
+        "market_position": "established",
+        "primary_competitors": ["oracle_bi", "sap_businessobjects", "microstrategy"]
+      }
+    },
+    "sisense": {
+      "name": "Sisense",
+      "g2_product_id": "sisense",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/sisense/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/sisense-vs-tableau",
+          "https://www.g2.com/compare/sisense-vs-qlik-sense"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/qlik-sense-vs-sisense-vs-tableau-vs-thoughtspot"
+        ],
+        "alternatives": "https://www.g2.com/products/sisense/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "qlik_sense", "thoughtspot"]
+      }
+    },
+    "strategy_one": {
+      "name": "Strategy One (formerly MicroStrategy ONE)",
+      "g2_product_id": "strategy-one-formerly-microstrategy-one",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/strategy-one-formerly-microstrategy-one/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/strategy-one-vs-tableau",
+          "https://www.g2.com/compare/strategy-one-vs-ibm-cognos-analytics"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/ibm-cognos-analytics-vs-sisense-vs-strategy-one-vs-tableau"
+        ],
+        "alternatives": "https://www.g2.com/products/strategy-one-formerly-microstrategy-one/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "enterprise_bi",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "ibm_cognos", "sisense"]
+      }
+    },
+    "zoho_analytics": {
+      "name": "Zoho Analytics",
+      "g2_product_id": "zoho-analytics",
+      "targets": {
+        "product_reviews": "https://www.g2.com/products/zoho-analytics/reviews",
+        "head_to_head": [
+          "https://www.g2.com/compare/zoho-analytics-vs-tableau",
+          "https://www.g2.com/compare/zoho-analytics-vs-power-bi"
+        ],
+        "four_way": [
+          "https://www.g2.com/compare/zoho-analytics-vs-tableau-vs-power-bi-vs-qlik-sense"
+        ],
+        "alternatives": "https://www.g2.com/products/zoho-analytics/competitors/alternatives"
+      },
+      "metadata": {
+        "category": "cloud_bi",
+        "market_position": "emerging",
+        "primary_competitors": ["tableau", "power_bi", "qlik_sense"]
+      }
+    }
+  },
+  "scraping_priorities": {
+    "high_priority": ["product_reviews"],
+    "medium_priority": ["head_to_head_comparisons", "four_way_comparisons"],
+    "low_priority": ["competitor_alternatives"]
+  },
+  "review_scraping_focus": {
+    "primary_target": "High volume review text extraction for foundational sentiment analysis",
+    "secondary_target": "Comparison page insights for competitive positioning",
+    "data_quality": "Raw review text, ratings, volumes, and structured comparison data"
+  }
+}
