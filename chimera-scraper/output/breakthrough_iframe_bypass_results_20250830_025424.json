@@ -1,0 +1,38 @@
+{
+  "start_time": "2025-08-30T02:53:58.709270",
+  "total_requests": 0,
+  "successful_requests": 1,
+  "captcha_challenges": 1,
+  "captcha_solved": 1,
+  "browser_automation_attempts": 1,
+  "results": [
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+      "status_code": 403,
+      "method": "breakthrough_iframe_bypass",
+      "success": true,
+      "data": {
+        "comparison_id": "partial_1756547664",
+        "extraction_date": "2025-08-30 02:54:24.500297",
+        "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+        "product_a": {
+          "name": "Unknown Product A"
+        },
+        "product_b": {
+          "name": "Unknown Product B"
+        },
+        "ai_generated_summary": {
+          "summary": "g2.com #cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}} var dd={'rt':'c','cid':'AHrlqAAAAAMAlIO3Ll01BWkAiBjonQ==','hsh':'229542D5C186C7F5A5BB092FBDD92B','t':'fe','qp':'','s':48727,'e':'f105f127e34034ab9750d536921667cc3cd45d4b6c6f8afb7addbdb662d175d8','host':'geo.captcha-delivery.com','cookie':'3E3JPVkgGH3cjeRXDo5VhOTnmS_q1cC_lldSJwz_HjPGkFgla3eNCswNFbiJO_b0HosrnexDTZ9nr1fdN9e1Le~tuh0Bbhyw~nYh3ey_kSQ43wSRu3e1g5CuNyp43dhZ'} (function(){function c(){var b=a.conte...",
+          "quality_score": 30.0,
+          "extraction_confidence": 40.0
+        },
+        "data_quality_score": 30.0,
+        "extraction_confidence": 40.0,
+        "summary_quality_score": 30.0,
+        "note": "Partial content parsed with flexible parser"
+      },
+      "response_size": 503,
+      "note": "Real G2.com data successfully extracted and parsed"
+    }
+  ]
+}
