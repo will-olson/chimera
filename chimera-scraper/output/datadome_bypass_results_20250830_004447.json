@@ -1,0 +1,37 @@
+{
+  "start_time": "2025-08-30T00:43:07.620852",
+  "total_requests": 3,
+  "successful_requests": 0,
+  "datadome_challenges": 3,
+  "captcha_solved": 0,
+  "browser_automation_attempts": 3,
+  "results": [
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+      "status_code": 403,
+      "method": "captcha_solving_browser",
+      "success": false,
+      "data": null,
+      "response_size": 1423,
+      "error": "DataDome challenge page - CAPTCHA not solved"
+    },
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-qlik-sense",
+      "status_code": 403,
+      "method": "captcha_solving_browser",
+      "success": false,
+      "data": null,
+      "response_size": 1426,
+      "error": "DataDome challenge page - CAPTCHA not solved"
+    },
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-qlik-sense",
+      "status_code": 403,
+      "method": "captcha_solving_browser",
+      "success": false,
+      "data": null,
+      "response_size": 1425,
+      "error": "DataDome challenge page - CAPTCHA not solved"
+    }
+  ]
+}

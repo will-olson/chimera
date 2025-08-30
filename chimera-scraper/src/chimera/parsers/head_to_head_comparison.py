@@ -2,7 +2,7 @@
 
 import re
 import json
-from typing import Dict, List, Any, Optional, Tuple
+from typing import Dict, List, Any, Optional, Tuple, Union
 from datetime import datetime
 from dataclasses import dataclass, asdict
 from bs4 import BeautifulSoup
@@ -1044,7 +1044,7 @@ class G2HeadToHeadComparisonParser(BaseParser):
                         # Check if this point mentions ratings or scoring
                         if any(word in point_text.lower() for word in ["scoring", "score", "rating", "out of"]):
                             # Extract rating comparison
-                            rating_match = re.search(r'scoring\s+(\d+\.?\d*)\s+compared\s+to\s+[^']*?(\d+\.?\d*)', point_text)
+                            rating_match = re.search(r'scoring\s+(\d+\.?\d*)\s+compared\s+to\s+[^\']*?(\d+\.?\d*)', point_text)
                             
                             if rating_match:
                                 score_a = float(rating_match.group(1))

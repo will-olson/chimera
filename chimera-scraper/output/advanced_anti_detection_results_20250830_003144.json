@@ -1,0 +1,37 @@
+{
+  "start_time": "2025-08-30T00:30:49.569427",
+  "total_requests": 0,
+  "successful_requests": 0,
+  "blocked_requests": 0,
+  "proxy_rotations": 9,
+  "browser_automation_attempts": 3,
+  "results": [
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+      "status_code": 403,
+      "method": "browser_automation",
+      "success": false,
+      "data": null,
+      "response_size": 0,
+      "error": "Browser automation failed: 403"
+    },
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-qlik-sense",
+      "status_code": 403,
+      "method": "browser_automation",
+      "success": false,
+      "data": null,
+      "response_size": 0,
+      "error": "Browser automation failed: 403"
+    },
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-qlik-sense",
+      "status_code": 403,
+      "method": "browser_automation",
+      "success": false,
+      "data": null,
+      "response_size": 0,
+      "error": "Browser automation failed: 403"
+    }
+  ]
+}

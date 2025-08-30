@@ -1,0 +1,52 @@
+{
+  "test_timestamp": "2025-08-30T00:12:33.031744",
+  "scraper_stats": {
+    "total_attempts": 0,
+    "successful_scrapes": 1,
+    "failed_scrapes": 0,
+    "ai_summary_extractions": 0,
+    "start_time": "2025-08-30 00:12:33.029664",
+    "total_processing_time": 0.000865936279296875
+  },
+  "test_results": [
+    {
+      "test": "mock_data",
+      "success": true
+    },
+    {
+      "test": "robustness",
+      "success": true
+    }
+  ],
+  "parser_capabilities": {
+    "parser_type": "Standalone Head-to-Head Comparison Parser",
+    "supported_sections": [
+      "At a Glance",
+      "Pricing",
+      "Ratings",
+      "Features",
+      "Reviews",
+      "Alternatives",
+      "Discussions"
+    ],
+    "feature_categories": [
+      "Data Visualization",
+      "Ease of Setup",
+      "AI Text Generation",
+      "Data Governance",
+      "Collaboration and Workflow",
+      "Predictive Analytics"
+    ],
+    "summary_patterns": [
+      "score_comparison",
+      "feature_mention",
+      "sentiment_indicators",
+      "product_names"
+    ],
+    "extraction_methods": [
+      "HTML text parsing",
+      "AI summary extraction",
+      "fallback text extraction"
+    ]
+  }
+}

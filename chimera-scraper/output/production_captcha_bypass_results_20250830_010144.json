@@ -1,0 +1,94 @@
+{
+  "start_time": "2025-08-30T00:59:48.660220",
+  "total_requests": 0,
+  "successful_requests": 0,
+  "captcha_challenges": 3,
+  "captcha_solved": 3,
+  "browser_automation_attempts": 3,
+  "results": [
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+      "status_code": 403,
+      "method": "production_captcha_bypass",
+      "success": true,
+      "data": {
+        "comparison_id": "partial_1756540811",
+        "extraction_date": "2025-08-30 01:00:11.989494",
+        "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+        "product_a": {
+          "name": "Unknown Product A"
+        },
+        "product_b": {
+          "name": "Unknown Product B"
+        },
+        "ai_generated_summary": {
+          "summary": "g2.com #cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}} var dd={'rt':'c','cid':'AHrlqAAAAAMAnNfZ7jU52IQAiBjonQ==','hsh':'229542D5C186C7F5A5BB092FBDD92B','t':'fe','qp':'','s':48727,'e':'f105f127e34034ab9750d536921667cc25bbfc933e4b475fa25081132575a746','host':'geo.captcha-delivery.com','cookie':'w7YWEB2e~Atb9CEu_ZJRXy2Osb4giH7HJzhx5CJuGJ1E4sjrfyy3pdtt70X2jGsy9OqvCUhmFaLQ_ylI8lw~cknk90Et7UuWuo4P98oqXPWrm5DcsoJmR4nlmne3a0r_'} (function(){function c(){var b=a.conte...",
+          "quality_score": 30.0,
+          "extraction_confidence": 40.0
+        },
+        "data_quality_score": 30.0,
+        "extraction_confidence": 40.0,
+        "summary_quality_score": 30.0,
+        "note": "Partial content parsed with flexible parser"
+      },
+      "response_size": 2482,
+      "note": "Partial content extracted from challenge page"
+    },
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-qlik-sense",
+      "status_code": 403,
+      "method": "production_captcha_bypass",
+      "success": true,
+      "data": {
+        "comparison_id": "partial_1756540859",
+        "extraction_date": "2025-08-30 01:00:59.298463",
+        "url": "https://www.g2.com/compare/power-bi-vs-qlik-sense",
+        "product_a": {
+          "name": "Unknown Product A"
+        },
+        "product_b": {
+          "name": "Unknown Product B"
+        },
+        "ai_generated_summary": {
+          "summary": "g2.com #cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}} var dd={'rt':'c','cid':'AHrlqAAAAAMAwNHsDEd_OI8AiBjonQ==','hsh':'229542D5C186C7F5A5BB092FBDD92B','t':'fe','qp':'','s':48727,'e':'f105f127e34034ab9750d536921667cc668241d6ca20517b8260adbfe8846fa6','host':'geo.captcha-delivery.com','cookie':'0Zj70Ho3R923~oxhyJ3YgkUjLMOGmV6MSGAuWcXMI16wttmoLpgXIKp7kd9MECfzxRH3GAbX8oFyd_H1dk7j2u3epVR7A~b9MxqN1SZDKF1FHmIC0IfKxWGxu2WTjfDG'} (function(){function c(){var b=a.conte...",
+          "quality_score": 30.0,
+          "extraction_confidence": 40.0
+        },
+        "data_quality_score": 30.0,
+        "extraction_confidence": 40.0,
+        "summary_quality_score": 30.0,
+        "note": "Partial content parsed with flexible parser"
+      },
+      "response_size": 2485,
+      "note": "Partial content extracted from challenge page"
+    },
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-qlik-sense",
+      "status_code": 403,
+      "method": "production_captcha_bypass",
+      "success": true,
+      "data": {
+        "comparison_id": "partial_1756540904",
+        "extraction_date": "2025-08-30 01:01:44.236617",
+        "url": "https://www.g2.com/compare/tableau-vs-qlik-sense",
+        "product_a": {
+          "name": "Unknown Product A"
+        },
+        "product_b": {
+          "name": "Unknown Product B"
+        },
+        "ai_generated_summary": {
+          "summary": "g2.com #cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}} var dd={'rt':'c','cid':'AHrlqAAAAAMAbTw0z12bLFgAiBjonQ==','hsh':'229542D5C186C7F5A5BB092FBDD92B','t':'fe','qp':'','s':48727,'e':'f105f127e34034ab9750d536921667ccdeab8b16282ddc5be24f042008704f61','host':'geo.captcha-delivery.com','cookie':'2HHSAIG852CQNDuNy7oZOczRyoiCXjBHcN84ibAztuQ2jbvtFnj645btOSWpCbopjXohzu7qThGIFXMiJP2p_QWShQS8NbiosF_ZlaaQS8lkqi0ls5otJVYNNLjq78vt'} (function(){function c(){var b=a.conte...",
+          "quality_score": 30.0,
+          "extraction_confidence": 40.0
+        },
+        "data_quality_score": 30.0,
+        "extraction_confidence": 40.0,
+        "summary_quality_score": 30.0,
+        "note": "Partial content parsed with flexible parser"
+      },
+      "response_size": 2484,
+      "note": "Partial content extracted from challenge page"
+    }
+  ]
+}

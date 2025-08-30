@@ -1,0 +1,37 @@
+{
+  "start_time": "2025-08-30T00:46:15.619957",
+  "total_requests": 0,
+  "successful_requests": 0,
+  "captcha_challenges": 0,
+  "captcha_solved": 0,
+  "browser_automation_attempts": 3,
+  "results": [
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-tableau",
+      "status_code": 403,
+      "method": "captcha_solving",
+      "success": false,
+      "data": null,
+      "response_size": 2482,
+      "error": "Challenge page - CAPTCHA not resolved"
+    },
+    {
+      "url": "https://www.g2.com/compare/power-bi-vs-qlik-sense",
+      "status_code": 403,
+      "method": "captcha_solving",
+      "success": false,
+      "data": null,
+      "response_size": 2485,
+      "error": "Challenge page - CAPTCHA not resolved"
+    },
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-qlik-sense",
+      "status_code": 403,
+      "method": "captcha_solving",
+      "success": false,
+      "data": null,
+      "response_size": 2515,
+      "error": "Challenge page - CAPTCHA not resolved"
+    }
+  ]
+}
