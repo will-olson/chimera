@@ -2136,345 +2136,7 @@ class MathematicalEngine:
             print(f"❌ Error maintaining frame persistence: {e}")
             return False
     
-    async def execute_proven_puzzle_movement_enhanced(
-        self, 
-        iframe: Frame, 
-        puzzle_element: ElementHandle, 
-        movement_distance: float, 
-        target_position: float, 
-        container_left: float
-    ) -> bool:
-        """
-        🎯 ENHANCED: Execute PROVEN puzzle movement with frame persistence and improved positioning
-        """
-        try:
-            print("🎯 ENHANCED: Executing PROVEN puzzle movement with frame persistence...")
-            
-            # CRITICAL: Maintain frame persistence throughout movement
-            if not await self.maintain_frame_persistence(iframe, max_retries=10):
-                print("❌ Cannot proceed - frame persistence cannot be maintained")
-                return False
-            
-            # Get current position for validation with frame stability
-            element_box = await self.get_stable_element_position(
-                iframe, 
-                ".slider, [class*='slider'], [class*='puzzle']",
-                max_retries=5,
-                stabilization_delay=0.5
-            )
-            
-            if not element_box:
-                print("❌ Cannot get stable element position for movement")
-                return False
-            
-            current_x = element_box['x']
-            
-            # STRATEGIC: Use the proven approach from Enhanced Precision Scraper
-            # Calculate the actual target position in absolute coordinates
-            absolute_target_x = container_left + target_position
-            print(f"🎯 Target absolute position: {absolute_target_x}")
-            print(f"🎯 Current absolute position: {current_x}")
-            print(f"🎯 Required movement: {absolute_target_x - current_x}px")
-            
-            # ENHANCED: Calculate movement steps with improved precision
-            # Based on strategic analysis: use smaller steps for better precision
-            actual_movement = absolute_target_x - current_x
-            step_size = 1.5  # Reduced step size for better precision (from strategic analysis)
-            steps = max(20, int(abs(actual_movement) / step_size))  # Minimum 20 steps
-            
-            print(f"🎯 Executing {steps} movement steps with {step_size}px step size...")
-            
-            # Step 1: Create and dispatch mousedown event using EXACT properties from strategic analysis
-            # Based on Breakthrough Iframe Bypass (lines 300-350)
-            try:
-                # CRITICAL: Check frame stability before mousedown
-                if not await self.maintain_frame_persistence(iframe, max_retries=3):
-                    print("❌ Frame lost stability before mousedown")
-                    return False
-                
-                await iframe.evaluate("""
-                    ([element, x, y]) => {
-                        // EXACT: Event properties from strategic analysis
-                        const mousedownEvent = new MouseEvent('mousedown', {
-                            bubbles: true,        // EXACT: Same as discovered code
-                            cancelable: true,     // EXACT: Same as discovered code
-                            composed: true,       // EXACT: Same as discovered code
-                            view: window,         // EXACT: From strategic analysis
-                            detail: 1,            // EXACT: From strategic analysis
-                            screenX: x,           // EXACT: Same as discovered code
-                            screenY: y,           // EXACT: Same as discovered code
-                            clientX: x,
-                            clientY: y,
-                            button: 0,
-                            buttons: 1
-                        });
-                        
-                        // Dispatch event directly on element (no Playwright API)
-                        element.dispatchEvent(mousedownEvent);
-                    }
-                """, [puzzle_element, current_x + 10, element_box['y'] + 10])
-                
-                self.captcha_stats["strategic_events_dispatched"] += 1
-                print("✅ Mousedown event dispatched successfully")
-                
-            except Exception as e:
-                print(f"❌ Mousedown event failed: {e}")
-                return False
-            
-            # ENHANCED: Natural timing delay with frame persistence check
-            await asyncio.sleep(random.uniform(0.2, 0.4))  # Reduced delay for better frame stability
-            
-            # Step 2: Move to target position using ENHANCED approach with frame persistence
-            # Based on Enhanced Precision Scraper (lines 300-350)
-            
-            # STRATEGIC: Use natural movement pattern with acceleration/deceleration and frame checks
-            # This prevents detection of robotic movement patterns while maintaining frame stability
-            for i in range(steps + 1):
-                # CRITICAL: Check frame stability every 10 steps
-                if i % 10 == 0 and i > 0:
-                    if not await self.maintain_frame_persistence(iframe, max_retries=3):
-                        print(f"❌ Frame lost stability during movement at step {i}")
-                        return False
-                
-                progress = i / steps
-                
-                # Apply natural movement curve (ease-in-out) to prevent detection
-                if progress <= 0.5:
-                    # First half: ease-in (start slow)
-                    eased_progress = 2 * progress * progress
-                else:
-                    # Second half: ease-out (end slow)
-                    eased_progress = 1 - 2 * (1 - progress) * (1 - progress)
-                
-                # Calculate position using eased interpolation
-                current_step_x = current_x + (actual_movement * eased_progress)
-                
-                # Apply Math.floor for precision (as in strategic analysis)
-                current_step_x = math.floor(current_step_x)
-                
-                # STRATEGIC: Create and dispatch mousemove event using proven approach
-                try:
-                    await iframe.evaluate("""
-                        ([element, x, y]) => {
-                            // EXACT: Event properties from strategic analysis
-                            const mousemoveEvent = new MouseEvent('mousemove', {
-                                bubbles: true,        // EXACT: Same as discovered code
-                                cancelable: true,     // EXACT: Same as discovered code
-                                composed: true,       // EXACT: Same as discovered code
-                                view: window,         // EXACT: From strategic analysis
-                                detail: 1,            // EXACT: From strategic analysis
-                                screenX: x,           // EXACT: Same as discovered code
-                                screenY: y,           // EXACT: Same as discovered code
-                                clientX: x,
-                                clientY: y,
-                                button: 0,
-                                buttons: 1
-                            });
-                            
-                            // Dispatch event directly on element (no Playwright API)
-                            element.dispatchEvent(mousemoveEvent);
-                        }
-                    """, [puzzle_element, current_step_x + 10, element_box['y'] + 10])
-                    
-                    self.captcha_stats["strategic_events_dispatched"] += 1
-                    
-                except Exception as e:
-                    print(f"⚠️ Warning: Mousemove event {i} failed: {e}")
-                    # Continue with movement even if individual events fail
-                
-                # ENHANCED: Strategic timing with natural variation and frame stability
-                # Based on strategic analysis: vary timing to prevent detection while maintaining stability
-                if i < steps * 0.3:
-                    # Start slow (ease-in)
-                    await asyncio.sleep(random.uniform(0.03, 0.05))  # Reduced for better frame stability
-                elif i > steps * 0.7:
-                    # End slow (ease-out)
-                    await asyncio.sleep(random.uniform(0.03, 0.05))  # Reduced for better frame stability
-                else:
-                    # Middle: faster movement
-                    await asyncio.sleep(random.uniform(0.02, 0.04))  # Reduced for better frame stability
-            
-            # Step 3: Final position adjustment using ENHANCED approach
-            # Use the calculated absolute target position directly
-            final_x = absolute_target_x
-            
-            # CRITICAL: Check frame stability before final positioning
-            if not await self.maintain_frame_persistence(iframe, max_retries=3):
-                print("❌ Frame lost stability before final positioning")
-                return False
-            
-            # Create and dispatch final mousemove event using EXACT properties
-            await iframe.evaluate("""
-                ([element, x, y]) => {
-                    // EXACT: Event properties from strategic analysis
-                    const finalMousemoveEvent = new MouseEvent('mousemove', {
-                        bubbles: true,        // EXACT: Same as discovered code
-                        cancelable: true,     // EXACT: Same as discovered code
-                        composed: true,       // EXACT: Same as discovered code
-                        view: window,         // EXACT: From strategic analysis
-                        detail: 1,            // EXACT: From strategic analysis
-                        screenX: x,           // EXACT: Same as discovered code
-                        screenY: y,           // EXACT: Same as discovered code
-                        clientX: x,
-                        clientY: y,
-                        button: 0,
-                        buttons: 1
-                    });
-                    
-                    // Dispatch event directly on element (no Playwright API)
-                    element.dispatchEvent(finalMousemoveEvent);
-                }
-            """, [puzzle_element, final_x + 10, element_box['y'] + 10])
-            
-            # ENHANCED: Natural timing delay before release with frame persistence
-            await asyncio.sleep(random.uniform(0.15, 0.25))  # Reduced delay for better frame stability
-            
-            # Step 4: Create and dispatch mouseup event using EXACT properties from strategic analysis
-            # CRITICAL: Check frame stability before mouseup
-            if not await self.maintain_frame_persistence(iframe, max_retries=3):
-                print("❌ Frame lost stability before mouseup")
-                return False
-            
-            await iframe.evaluate("""
-                ([element, x, y]) => {
-                    // EXACT: Event properties from strategic analysis
-                    const mouseupEvent = new MouseEvent('mouseup', {
-                        bubbles: true,        // EXACT: Same as discovered code
-                        cancelable: true,     // EXACT: Same as discovered code
-                        composed: true,       // EXACT: Same as discovered code
-                        view: window,         // EXACT: From strategic analysis
-                        detail: 1,            // EXACT: From strategic analysis
-                        screenX: x,           // EXACT: Same as discovered code
-                        screenY: y,           // EXACT: Same as discovered code
-                        clientX: x,
-                        clientY: y,
-                        button: 0,
-                        buttons: 0
-                    });
-                    
-                    // Dispatch event directly on element (no Playwright API)
-                    element.dispatchEvent(mouseupEvent);
-                }
-            """, [puzzle_element, final_x + 10, element_box['y'] + 10])
-            
-            # ENHANCED: Natural timing delay after release with frame persistence
-            await asyncio.sleep(random.uniform(0.3, 0.5))  # Reduced delay for better frame stability
-            
-            # Step 5: ENHANCED position validation with frame persistence
-            # ENHANCED: Add comprehensive frame validation to prevent detachment errors
-            try:
-                # CRITICAL: Final frame stability check before validation
-                if not await self.maintain_frame_persistence(iframe, max_retries=5):
-                    print("❌ Frame lost stability before position validation")
-                    return False
-                
-                # Wait for movement to stabilize with frame persistence
-                await asyncio.sleep(0.8)  # Reduced wait time for better frame stability
-                
-                # Get final position with enhanced retry mechanism and frame persistence
-                final_box = await self.get_stable_element_position(
-                    iframe,
-                    ".slider, [class*='slider'], [class*='puzzle']",
-                    max_retries=5,
-                    stabilization_delay=0.8
-                )
-                
-                if final_box:
-                    final_position = final_box['x'] - container_left  # Convert to relative
-                    position_difference = abs(final_position - target_position)
-                    
-                    print(f"🎯 ENHANCED POSITION VALIDATION:")
-                    print(f"   Final absolute position: {final_box['x']}")
-                    print(f"   Final relative position: {final_position}")
-                    print(f"   Target position: {target_position}")
-                    print(f"   Position difference: {position_difference}")
-                    
-                    # STRATEGIC: Use the proven 5px threshold from strategic analysis
-                    # Reference: Perfect Mathematical Scraper uses 5px threshold for success (lines 350-400)
-                    success_threshold_px = self.math_constants.POSITION_VALIDATION_THRESHOLD
-                    
-                    if position_difference <= success_threshold_px:
-                        print(f"✅ CAPTCHA positioning successful! Position difference: {position_difference}px ≤ {success_threshold_px}px")
-                        return True
-                    else:
-                        print(f"⚠️ Position not within success threshold. Difference: {position_difference}px > {success_threshold_px}px")
-                        
-                        # ENHANCED: Try to adjust position if we're close (within 50px) with frame persistence
-                        # Based on strategic analysis: fine-tuning approach with stability
-                        if position_difference <= 50:  # Within 50px, try fine-tuning
-                            print(f"🔄 Attempting enhanced fine-tuning adjustment...")
-                            
-                            # CRITICAL: Check frame stability before fine-tuning
-                            if not await self.maintain_frame_persistence(iframe, max_retries=3):
-                                print("❌ Frame lost stability during fine-tuning")
-                                return False
-                            
-                            # Fine-tune the position with minimal movement
-                            fine_tune_distance = target_position - final_position
-                            
-                            # Apply safe movement limit for fine-tuning
-                            if abs(fine_tune_distance) > 20:
-                                fine_tune_distance = 20 if fine_tune_distance > 0 else -20
-                            
-                            try:
-                                await iframe.evaluate("""
-                                    ([element, x, y]) => {
-                                        const mousemoveEvent = new MouseEvent('mousemove', {
-                                            bubbles: true,
-                                            cancelable: true,
-                                            composed: true,
-                                            clientX: x,
-                                            clientY: y,
-                                            button: 0,
-                                            buttons: 1
-                                        });
-                                        element.dispatchEvent(mousemoveEvent);
-                                    }
-                                """, [puzzle_element, final_x + fine_tune_distance, element_box['y'] + 10])
-                                
-                                await asyncio.sleep(0.6)  # Reduced wait time for better frame stability
-                                
-                                # Check final position after fine-tuning with frame persistence
-                                if not await self.maintain_frame_persistence(iframe, max_retries=3):
-                                    print("❌ Frame lost stability after fine-tuning")
-                                    return False
-                                
-                                final_box_after = await puzzle_element.bounding_box()
-                                if final_box_after:
-                                    final_position_after = final_box_after['x'] - container_left
-                                    position_difference_after = abs(final_position_after - target_position)
-                                    
-                                    if position_difference_after <= success_threshold_px:
-                                        print(f"✅ Enhanced fine-tuning successful! Final difference: {position_difference_after}px")
-                                        return True
-                                    else:
-                                        print(f"⚠️ Enhanced fine-tuning improved but still not perfect: {position_difference_after}px")
-                                
-                            except Exception as e:
-                                print(f"⚠️ Enhanced fine-tuning failed: {e}")
-                        
-                        # ENHANCED: Return success if we're within reasonable bounds
-                        # Based on strategic analysis: 20px threshold for acceptable positioning
-                        reasonable_threshold = 20.0
-                        if position_difference <= reasonable_threshold:
-                            print(f"✅ Position within reasonable bounds: {position_difference}px ≤ {reasonable_threshold}px")
-                            return True
-                        
-                        return False
-                else:
-                    print("❌ Could not get final element dimensions after enhanced retries")
-                    return False
-                    
-            except Exception as e:
-                print(f"❌ Error in enhanced position validation: {e}")
-                return False
-            
-            return False
-            
-        except Exception as e:
-            print(f"❌ Error in ENHANCED positioning movement: {e}")
-            self.captcha_stats["errors"].append(f"Enhanced positioning: {e}")
-            return False
+    
     
     async def validate_positioning_with_real_time_feedback(
         self, 
@@ -4374,6 +4036,347 @@ class ChimeraUltimateCaptchaSolver:
                 "blocking_indicators": [],
                 "confidence": 0.0
             }
+    
+    async def execute_proven_puzzle_movement_enhanced(
+        self, 
+        iframe: Frame, 
+        puzzle_element: ElementHandle, 
+        movement_distance: float, 
+        target_position: float, 
+        container_left: float
+    ) -> bool:
+        """
+        🎯 ENHANCED: Execute PROVEN puzzle movement with frame persistence and improved positioning
+        Based on Breakthrough Iframe Bypass (lines 300-350) - EXACT JavaScript architecture
+        """
+        try:
+            print("🎯 ENHANCED: Executing PROVEN puzzle movement with frame persistence...")
+            
+            # CRITICAL: Maintain frame persistence throughout movement
+            if not await self.maintain_frame_persistence(iframe, max_retries=10):
+                print("❌ Cannot proceed - frame persistence cannot be maintained")
+                return False
+            
+            # Get current position for validation with frame stability
+            element_box = await self.get_stable_element_position(
+                iframe, 
+                ".slider, [class*='slider'], [class*='puzzle']",
+                max_retries=5,
+                stabilization_delay=0.5
+            )
+            
+            if not element_box:
+                print("❌ Cannot get stable element position for movement")
+                return False
+            
+            current_x = element_box['x']
+            
+            # STRATEGIC: Use the proven approach from Enhanced Precision Scraper
+            # Calculate the actual target position in absolute coordinates
+            absolute_target_x = container_left + target_position
+            print(f"🎯 Target absolute position: {absolute_target_x}")
+            print(f"🎯 Current absolute position: {current_x}")
+            print(f"🎯 Required movement: {absolute_target_x - current_x}px")
+            
+            # ENHANCED: Calculate movement steps with improved precision
+            # Based on strategic analysis: use smaller steps for better precision
+            actual_movement = absolute_target_x - current_x
+            step_size = 1.5  # Reduced step size for better precision (from strategic analysis)
+            steps = max(20, int(abs(actual_movement) / step_size))  # Minimum 20 steps
+            
+            print(f"🎯 Executing {steps} movement steps with {step_size}px step size...")
+            
+            # Step 1: Create and dispatch mousedown event using EXACT properties from strategic analysis
+            # Based on Breakthrough Iframe Bypass (lines 300-350)
+            try:
+                # CRITICAL: Check frame stability before mousedown
+                if not await self.maintain_frame_persistence(iframe, max_retries=3):
+                    print("❌ Frame lost stability before mousedown")
+                    return False
+                
+                await iframe.evaluate("""
+                    ([element, x, y]) => {
+                        // EXACT: Event properties from strategic analysis
+                        const mousedownEvent = new MouseEvent('mousedown', {
+                            bubbles: true,        // EXACT: Same as discovered code
+                            cancelable: true,     // EXACT: Same as discovered code
+                            composed: true,       // EXACT: Same as discovered code
+                            view: window,         // EXACT: From strategic analysis
+                            detail: 1,            // EXACT: From strategic analysis
+                            screenX: x,           // EXACT: Same as discovered code
+                            screenY: y,           // EXACT: Same as discovered code
+                            clientX: x,
+                            clientY: y,
+                            button: 0,
+                            buttons: 1
+                        });
+                        
+                        // Dispatch event directly on element (no Playwright API)
+                        element.dispatchEvent(mousedownEvent);
+                    }
+                """, [puzzle_element, current_x + 10, element_box['y'] + 10])
+                
+                self.captcha_stats["strategic_events_dispatched"] += 1
+                print("✅ Mousedown event dispatched successfully")
+                
+            except Exception as e:
+                print(f"❌ Mousedown event failed: {e}")
+                return False
+            
+            # ENHANCED: Natural timing delay with frame persistence check
+            await asyncio.sleep(random.uniform(0.2, 0.4))  # Reduced delay for better frame stability
+            
+            # Step 2: Move to target position using ENHANCED approach with frame persistence
+            # Based on Enhanced Precision Scraper (lines 300-350)
+            
+            # STRATEGIC: Use natural movement pattern with acceleration/deceleration and frame checks
+            # This prevents detection of robotic movement patterns while maintaining frame stability
+            for i in range(steps + 1):
+                # CRITICAL: Check frame stability every 10 steps
+                if i % 10 == 0 and i > 0:
+                    if not await self.maintain_frame_persistence(iframe, max_retries=3):
+                        print(f"❌ Frame lost stability during movement at step {i}")
+                        return False
+                
+                progress = i / steps
+                
+                # Apply natural movement curve (ease-in-out) to prevent detection
+                if progress <= 0.5:
+                    # First half: ease-in (start slow)
+                    eased_progress = 2 * progress * progress
+                else:
+                    # Second half: ease-out (end slow)
+                    eased_progress = 1 - 2 * (1 - progress) * (1 - progress)
+                
+                # Calculate position using eased interpolation
+                current_step_x = current_x + (actual_movement * eased_progress)
+                
+                # Apply Math.floor for precision (as in strategic analysis)
+                current_step_x = math.floor(current_step_x)
+                
+                # STRATEGIC: Create and dispatch mousemove event using proven approach
+                try:
+                    await iframe.evaluate("""
+                        ([element, x, y]) => {
+                            // EXACT: Event properties from strategic analysis
+                            const mousemoveEvent = new MouseEvent('mousemove', {
+                                bubbles: true,        // EXACT: Same as discovered code
+                                cancelable: true,     // EXACT: Same as discovered code
+                                composed: true,       // EXACT: Same as discovered code
+                                view: window,         // EXACT: From strategic analysis
+                                detail: 1,            // EXACT: From strategic analysis
+                                screenX: x,           // EXACT: Same as discovered code
+                                screenY: y,           // EXACT: Same as discovered code
+                                clientX: x,
+                                clientY: y,
+                                button: 0,
+                                buttons: 1
+                            });
+                            
+                            // Dispatch event directly on element (no Playwright API)
+                            element.dispatchEvent(mousemoveEvent);
+                        }
+                    """, [puzzle_element, current_step_x + 10, element_box['y'] + 10])
+                    
+                    self.captcha_stats["strategic_events_dispatched"] += 1
+                    
+                except Exception as e:
+                    print(f"⚠️ Warning: Mousemove event {i} failed: {e}")
+                    # Continue with movement even if individual events fail
+                
+                # ENHANCED: Strategic timing with natural variation and frame stability
+                # Based on strategic analysis: vary timing to prevent detection while maintaining stability
+                if i < steps * 0.3:
+                    # Start slow (ease-in)
+                    await asyncio.sleep(random.uniform(0.03, 0.05))  # Reduced for better frame stability
+                elif i > steps * 0.7:
+                    # End slow (ease-out)
+                    await asyncio.sleep(random.uniform(0.03, 0.05))  # Reduced for better frame stability
+                else:
+                    # Middle: faster movement
+                    await asyncio.sleep(random.uniform(0.02, 0.04))  # Reduced for better frame stability
+            
+            # Step 3: Final position adjustment using ENHANCED approach
+            # Use the calculated absolute target position directly
+            final_x = absolute_target_x
+            
+            # CRITICAL: Check frame stability before final positioning
+            if not await self.maintain_frame_persistence(iframe, max_retries=3):
+                print("❌ Frame lost stability before final positioning")
+                return False
+            
+            # Create and dispatch final mousemove event using EXACT properties
+            await iframe.evaluate("""
+                ([element, x, y]) => {
+                    // EXACT: Event properties from strategic analysis
+                    const finalMousemoveEvent = new MouseEvent('mousemove', {
+                        bubbles: true,        // EXACT: Same as discovered code
+                        cancelable: true,     // EXACT: Same as discovered code
+                        composed: true,       // EXACT: Same as discovered code
+                        view: window,         // EXACT: From strategic analysis
+                        detail: 1,            // EXACT: From strategic analysis
+                        screenX: x,           // EXACT: Same as discovered code
+                        screenY: y,           // EXACT: Same as discovered code
+                        clientX: x,
+                        clientY: y,
+                        button: 0,
+                        buttons: 1
+                    });
+                    
+                    // Dispatch event directly on element (no Playwright API)
+                    element.dispatchEvent(finalMousemoveEvent);
+                }
+            """, [puzzle_element, final_x + 10, element_box['y'] + 10])
+            
+            # ENHANCED: Natural timing delay before release with frame persistence
+            await asyncio.sleep(random.uniform(0.15, 0.25))  # Reduced delay for better frame stability
+            
+            # Step 4: Create and dispatch mouseup event using EXACT properties from strategic analysis
+            # CRITICAL: Check frame stability before mouseup
+            if not await self.maintain_frame_persistence(iframe, max_retries=3):
+                print("❌ Frame lost stability before mouseup")
+                return False
+            
+            await iframe.evaluate("""
+                ([element, x, y]) => {
+                    // EXACT: Event properties from strategic analysis
+                    const mouseupEvent = new MouseEvent('mouseup', {
+                        bubbles: true,        // EXACT: Same as discovered code
+                        cancelable: true,     // EXACT: Same as discovered code
+                        composed: true,       // EXACT: Same as discovered code
+                        view: window,         // EXACT: From strategic analysis
+                        detail: 1,            // EXACT: From strategic analysis
+                        screenX: x,           // EXACT: Same as discovered code
+                        screenY: y,           // EXACT: Same as discovered code
+                        clientX: x,
+                        clientY: y,
+                        button: 0,
+                        buttons: 0
+                    });
+                    
+                    // Dispatch event directly on element (no Playwright API)
+                    element.dispatchEvent(mouseupEvent);
+                }
+            """, [puzzle_element, final_x + 10, element_box['y'] + 10])
+            
+            # ENHANCED: Natural timing delay after release with frame persistence
+            await asyncio.sleep(random.uniform(0.3, 0.5))  # Reduced delay for better frame stability
+            
+            # Step 5: ENHANCED position validation with frame persistence
+            # ENHANCED: Add comprehensive frame validation to prevent detachment errors
+            try:
+                # CRITICAL: Final frame stability check before validation
+                if not await self.maintain_frame_persistence(iframe, max_retries=5):
+                    print("❌ Frame lost stability before position validation")
+                    return False
+                
+                # Wait for movement to stabilize with frame persistence
+                await asyncio.sleep(0.8)  # Reduced wait time for better frame stability
+                
+                # Get final position with enhanced retry mechanism and frame persistence
+                final_box = await self.get_stable_element_position(
+                    iframe,
+                    ".slider, [class*='slider'], [class*='puzzle']",
+                    max_retries=5,
+                    stabilization_delay=0.8
+                )
+                
+                if final_box:
+                    final_position = final_box['x'] - container_left  # Convert to relative
+                    position_difference = abs(final_position - target_position)
+                    
+                    print(f"🎯 ENHANCED POSITION VALIDATION:")
+                    print(f"   Final absolute position: {final_box['x']}")
+                    print(f"   Final relative position: {final_position}")
+                    print(f"   Target position: {target_position}")
+                    print(f"   Position difference: {position_difference}")
+                    
+                    # STRATEGIC: Use the proven 5px threshold from strategic analysis
+                    # Reference: Perfect Mathematical Scraper uses 5px threshold for success (lines 350-400)
+                    success_threshold_px = self.math_constants.POSITION_VALIDATION_THRESHOLD
+                    
+                    if position_difference <= success_threshold_px:
+                        print(f"✅ CAPTCHA positioning successful! Position difference: {position_difference}px ≤ {success_threshold_px}px")
+                        return True
+                    else:
+                        print(f"⚠️ Position not within success threshold. Difference: {position_difference}px > {success_threshold_px}px")
+                        
+                        # ENHANCED: Try to adjust position if we're close (within 50px) with frame persistence
+                        # Based on strategic analysis: fine-tuning approach with stability
+                        if position_difference <= 50:  # Within 50px, try fine-tuning
+                            print(f"🔄 Attempting enhanced fine-tuning adjustment...")
+                            
+                            # CRITICAL: Check frame stability before fine-tuning
+                            if not await self.maintain_frame_persistence(iframe, max_retries=3):
+                                print("❌ Frame lost stability during fine-tuning")
+                                return False
+                            
+                            # Fine-tune the position with minimal movement
+                            fine_tune_distance = target_position - final_position
+                            
+                            # Apply safe movement limit for fine-tuning
+                            if abs(fine_tune_distance) > 20:
+                                fine_tune_distance = 20 if fine_tune_distance > 0 else -20
+                            
+                            try:
+                                await iframe.evaluate("""
+                                    ([element, x, y]) => {
+                                        const mousemoveEvent = new MouseEvent('mousemove', {
+                                            bubbles: true,
+                                            cancelable: true,
+                                            composed: true,
+                                            clientX: x,
+                                            clientY: y,
+                                            button: 0,
+                                            buttons: 1
+                                        });
+                                        element.dispatchEvent(mousemoveEvent);
+                                    }
+                                """, [puzzle_element, final_x + fine_tune_distance, element_box['y'] + 10])
+                                
+                                await asyncio.sleep(0.6)  # Reduced wait time for better frame stability
+                                
+                                # Check final position after fine-tuning with frame persistence
+                                if not await self.maintain_frame_persistence(iframe, max_retries=3):
+                                    print("❌ Frame lost stability after fine-tuning")
+                                    return False
+                                
+                                final_box_after = await puzzle_element.bounding_box()
+                                if final_box_after:
+                                    final_position_after = final_box_after['x'] - container_left
+                                    position_difference_after = abs(final_position_after - target_position)
+                                    
+                                    if position_difference_after <= success_threshold_px:
+                                        print(f"✅ Enhanced fine-tuning successful! Final difference: {position_difference_after}px")
+                                        return True
+                                    else:
+                                        print(f"⚠️ Enhanced fine-tuning improved but still not perfect: {position_difference_after}px")
+                                
+                            except Exception as e:
+                                print(f"⚠️ Enhanced fine-tuning failed: {e}")
+                        
+                        # ENHANCED: Return success if we're within reasonable bounds
+                        # Based on strategic analysis: 20px threshold for acceptable positioning
+                        reasonable_threshold = 20.0
+                        if position_difference <= reasonable_threshold:
+                            print(f"✅ Position within reasonable bounds: {position_difference}px ≤ {reasonable_threshold}px")
+                            return True
+                        
+                        return False
+                else:
+                    print("❌ Could not get final element dimensions after enhanced retries")
+                    return False
+                    
+            except Exception as e:
+                print(f"❌ Error in enhanced position validation: {e}")
+                return False
+            
+            return False
+            
+        except Exception as e:
+            print(f"❌ Error in ENHANCED positioning movement: {e}")
+            self.captcha_stats["errors"].append(f"Enhanced positioning: {e}")
+            return False
 
 # ============================================================================
 # MAIN CHIMERA-ULTIMATE SCRAPER CLASS
