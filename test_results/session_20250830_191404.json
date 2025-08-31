@@ -1,0 +1,116 @@
+{
+  "session_id": "session_20250830_191404",
+  "start_time": "2025-08-30T19:14:04.326939",
+  "test_config": {
+    "max_iterations": 5,
+    "test_urls": [
+      "https://www.g2.com/compare/notion-vs-obsidian",
+      "https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense",
+      "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+      "https://www.g2.com/compare/salesforce-vs-hubspot",
+      "https://www.g2.com/compare/zoom-vs-microsoft-teams"
+    ],
+    "performance_thresholds": {
+      "max_execution_time": 30.0,
+      "target_slider_accuracy": 5.0,
+      "min_success_rate": 0.95,
+      "max_positioning_error": 10.0
+    }
+  },
+  "results": [
+    {
+      "test_id": "test_191404",
+      "timestamp": "2025-08-30T19:14:09.570172",
+      "test_type": "comprehensive",
+      "target_url": "https://www.g2.com/compare/notion-vs-obsidian",
+      "success": false,
+      "captcha_bypassed": false,
+      "slider_accuracy": 0.0,
+      "positioning_error": 999.0,
+      "access_granted": false,
+      "execution_time": 5.224477291107178,
+      "error_message": "_create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'",
+      "performance_metrics": {},
+      "strategic_alignment": {},
+      "optimization_recommendations": []
+    },
+    {
+      "test_id": "test_191409",
+      "timestamp": "2025-08-30T19:14:13.877175",
+      "test_type": "comprehensive",
+      "target_url": "https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense",
+      "success": false,
+      "captcha_bypassed": false,
+      "slider_accuracy": 0.0,
+      "positioning_error": 999.0,
+      "access_granted": false,
+      "execution_time": 4.30674409866333,
+      "error_message": "_create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'",
+      "performance_metrics": {},
+      "strategic_alignment": {},
+      "optimization_recommendations": []
+    },
+    {
+      "test_id": "test_191413",
+      "timestamp": "2025-08-30T19:14:18.172116",
+      "test_type": "comprehensive",
+      "target_url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+      "success": false,
+      "captcha_bypassed": false,
+      "slider_accuracy": 0.0,
+      "positioning_error": 999.0,
+      "access_granted": false,
+      "execution_time": 4.294759750366211,
+      "error_message": "_create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'",
+      "performance_metrics": {},
+      "strategic_alignment": {},
+      "optimization_recommendations": []
+    },
+    {
+      "test_id": "test_191418",
+      "timestamp": "2025-08-30T19:14:22.487277",
+      "test_type": "comprehensive",
+      "target_url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+      "success": false,
+      "captcha_bypassed": false,
+      "slider_accuracy": 0.0,
+      "positioning_error": 999.0,
+      "access_granted": false,
+      "execution_time": 4.314971208572388,
+      "error_message": "_create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'",
+      "performance_metrics": {},
+      "strategic_alignment": {},
+      "optimization_recommendations": []
+    },
+    {
+      "test_id": "test_191422",
+      "timestamp": "2025-08-30T19:14:26.744031",
+      "test_type": "comprehensive",
+      "target_url": "https://www.g2.com/compare/zoom-vs-microsoft-teams",
+      "success": false,
+      "captcha_bypassed": false,
+      "slider_accuracy": 0.0,
+      "positioning_error": 999.0,
+      "access_granted": false,
+      "execution_time": 4.256568908691406,
+      "error_message": "_create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'",
+      "performance_metrics": {},
+      "strategic_alignment": {},
+      "optimization_recommendations": []
+    }
+  ],
+  "summary": {
+    "total_tests": 5,
+    "successful_tests": 0,
+    "overall_success_rate": 0.0,
+    "captcha_bypass_rate": 0.0,
+    "access_grant_rate": 0.0,
+    "average_slider_accuracy": 0.0,
+    "average_positioning_error": 999.0,
+    "average_execution_time": 4.479504251480103,
+    "strategic_alignment": {},
+    "optimization_recommendations": [],
+    "target_achieved": false
+  },
+  "improvements": []
+}

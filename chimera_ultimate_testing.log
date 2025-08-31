@@ -1,0 +1,85 @@
+2025-08-30 19:12:13,563 - INFO - 🚀 Initializing Chimera-Ultimate scraper...
+2025-08-30 19:12:18,527 - ERROR - ❌ Failed to initialize scraper: not enough values to unpack (expected 4, got 3)
+2025-08-30 19:12:18,544 - ERROR - ❌ Failed to initialize scraper
+2025-08-30 19:12:19,125 - INFO - 🧹 Cleanup completed
+2025-08-30 19:12:38,412 - INFO - 🚀 Initializing Chimera-Ultimate scraper...
+2025-08-30 19:12:42,630 - ERROR - ❌ Failed to initialize scraper: name 'playwright' is not defined
+2025-08-30 19:12:42,670 - ERROR - ❌ Failed to initialize scraper
+2025-08-30 19:12:43,033 - INFO - 🧹 Cleanup completed
+2025-08-30 19:12:53,073 - INFO - 🚀 Initializing Chimera-Ultimate scraper...
+2025-08-30 19:12:58,323 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 19:12:58,334 - INFO - 🔄 Starting iterative testing loop with 5 iterations
+2025-08-30 19:12:58,334 - INFO - 🧪 Started test session: session_20250830_191258
+2025-08-30 19:12:58,368 - INFO -    Configuration: {'max_iterations': 5, 'test_urls': ['https://www.g2.com/compare/notion-vs-obsidian', 'https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense', 'https://www.g2.com/compare/tableau-vs-microsoft-power-bi', 'https://www.g2.com/compare/salesforce-vs-hubspot', 'https://www.g2.com/compare/zoom-vs-microsoft-teams'], 'performance_thresholds': {'max_execution_time': 30.0, 'target_slider_accuracy': 5.0, 'min_success_rate': 0.95, 'max_positioning_error': 10.0}}
+2025-08-30 19:12:58,368 - INFO - 🔄 Iteration 1/5
+2025-08-30 19:12:58,369 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 19:13:04,288 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 19:13:04,373 - INFO - ✅ Found CAPTCHA iframe with 72 CAPTCHA elements
+2025-08-30 19:13:04,394 - ERROR - ❌ Test failed with error: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:13:04,394 - ERROR - ❌ Testing failed: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:13:04,626 - INFO - 🧹 Cleanup completed
+2025-08-30 19:13:59,518 - INFO - 🚀 Initializing Chimera-Ultimate scraper...
+2025-08-30 19:14:04,308 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 19:14:04,326 - INFO - 🔄 Starting iterative testing loop with 5 iterations
+2025-08-30 19:14:04,327 - INFO - 🧪 Started test session: session_20250830_191404
+2025-08-30 19:14:04,327 - INFO -    Configuration: {'max_iterations': 5, 'test_urls': ['https://www.g2.com/compare/notion-vs-obsidian', 'https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense', 'https://www.g2.com/compare/tableau-vs-microsoft-power-bi', 'https://www.g2.com/compare/salesforce-vs-hubspot', 'https://www.g2.com/compare/zoom-vs-microsoft-teams'], 'performance_thresholds': {'max_execution_time': 30.0, 'target_slider_accuracy': 5.0, 'min_success_rate': 0.95, 'max_positioning_error': 10.0}}
+2025-08-30 19:14:04,344 - INFO - 🔄 Iteration 1/5
+2025-08-30 19:14:04,345 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 19:14:09,467 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 19:14:09,551 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 19:14:09,570 - ERROR - ❌ Test failed with error: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:14:09,570 - INFO - 📊 Test result for https://www.g2.com/compare/notion-vs-obsidian:
+2025-08-30 19:14:09,570 - INFO -    Success: False
+2025-08-30 19:14:09,570 - INFO -    CAPTCHA bypassed: False
+2025-08-30 19:14:09,570 - INFO -    Slider accuracy: 0.0%
+2025-08-30 19:14:09,570 - INFO -    Positioning error: 999.00px
+2025-08-30 19:14:09,570 - INFO -    Access granted: False
+2025-08-30 19:14:09,570 - INFO -    Execution time: 5.22s
+2025-08-30 19:14:09,570 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 19:14:13,808 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 19:14:13,860 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 19:14:13,877 - ERROR - ❌ Test failed with error: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:14:13,877 - INFO - 📊 Test result for https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense:
+2025-08-30 19:14:13,877 - INFO -    Success: False
+2025-08-30 19:14:13,877 - INFO -    CAPTCHA bypassed: False
+2025-08-30 19:14:13,877 - INFO -    Slider accuracy: 0.0%
+2025-08-30 19:14:13,877 - INFO -    Positioning error: 999.00px
+2025-08-30 19:14:13,877 - INFO -    Access granted: False
+2025-08-30 19:14:13,877 - INFO -    Execution time: 4.31s
+2025-08-30 19:14:13,877 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 19:14:18,104 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 19:14:18,152 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 19:14:18,172 - ERROR - ❌ Test failed with error: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:14:18,172 - INFO - 📊 Test result for https://www.g2.com/compare/tableau-vs-microsoft-power-bi:
+2025-08-30 19:14:18,172 - INFO -    Success: False
+2025-08-30 19:14:18,172 - INFO -    CAPTCHA bypassed: False
+2025-08-30 19:14:18,172 - INFO -    Slider accuracy: 0.0%
+2025-08-30 19:14:18,172 - INFO -    Positioning error: 999.00px
+2025-08-30 19:14:18,172 - INFO -    Access granted: False
+2025-08-30 19:14:18,172 - INFO -    Execution time: 4.29s
+2025-08-30 19:14:18,172 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 19:14:22,415 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 19:14:22,470 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 19:14:22,487 - ERROR - ❌ Test failed with error: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:14:22,487 - INFO - 📊 Test result for https://www.g2.com/compare/salesforce-vs-hubspot:
+2025-08-30 19:14:22,487 - INFO -    Success: False
+2025-08-30 19:14:22,487 - INFO -    CAPTCHA bypassed: False
+2025-08-30 19:14:22,487 - INFO -    Slider accuracy: 0.0%
+2025-08-30 19:14:22,487 - INFO -    Positioning error: 999.00px
+2025-08-30 19:14:22,487 - INFO -    Access granted: False
+2025-08-30 19:14:22,487 - INFO -    Execution time: 4.31s
+2025-08-30 19:14:22,487 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 19:14:26,679 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 19:14:26,728 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 19:14:26,743 - ERROR - ❌ Test failed with error: _create_test_result() missing 3 required positional arguments: 'slider_accuracy', 'positioning_error', and 'access_granted'
+2025-08-30 19:14:26,744 - INFO - 📊 Test result for https://www.g2.com/compare/zoom-vs-microsoft-teams:
+2025-08-30 19:14:26,744 - INFO -    Success: False
+2025-08-30 19:14:26,744 - INFO -    CAPTCHA bypassed: False
+2025-08-30 19:14:26,744 - INFO -    Slider accuracy: 0.0%
+2025-08-30 19:14:26,744 - INFO -    Positioning error: 999.00px
+2025-08-30 19:14:26,744 - INFO -    Access granted: False
+2025-08-30 19:14:26,744 - INFO -    Execution time: 4.26s
+2025-08-30 19:14:26,744 - INFO - 🔧 Applying optimizations based on test results...
+2025-08-30 19:14:26,744 - INFO - 💾 Session results saved to: test_results/session_20250830_191404.json
+2025-08-30 19:14:31,748 - INFO - 🔄 Iteration 2/5
+2025-08-30 19:14:31,748 - INFO - 🎯 Running comprehensive test on: https://www.g2.com/compare/notion-vs-obsidian
