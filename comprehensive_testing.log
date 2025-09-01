@@ -1,0 +1,2273 @@
+2025-08-30 20:32:49,538 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 20:32:49,538 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:32:49,538 - INFO - ================================================================================
+2025-08-30 20:32:49,538 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 20:32:55,020 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 20:32:55,021 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 20:32:55,021 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:32:55,021 - INFO - ================================================================================
+2025-08-30 20:32:55,026 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 20:32:55,031 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 20:32:55,032 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 20:32:55,050 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 20:32:55,053 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 20:32:55,059 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 20:32:55,059 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 20:32:55,059 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 20:32:55,059 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 20:32:55,059 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 20:32:55,059 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 20:32:55,059 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 20:32:55,059 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 20:32:55,059 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 20:33:01,424 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:33:01,524 - INFO - ✅ Found CAPTCHA iframe with 72 CAPTCHA elements
+2025-08-30 20:33:01,543 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:33:03,546 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 20:33:08,820 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:33:08,880 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:33:08,896 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:33:10,899 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 20:33:16,153 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:33:16,215 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:33:16,236 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:33:18,241 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 20:33:23,509 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:33:23,600 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:33:23,615 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:33:25,622 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 20:33:30,977 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:33:31,047 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:33:31,063 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:33:33,066 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 20:33:33,067 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 20:33:33,067 - INFO -    Successful bypasses: 0
+2025-08-30 20:33:33,067 - INFO -    Success rate: 0.0%
+2025-08-30 20:33:33,067 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 20:33:33,067 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 20:33:33,067 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 20:33:33,067 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 20:33:33,073 - INFO - ✅ No bot detection indicators found
+2025-08-30 20:33:33,073 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 20:33:33,073 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 20:33:33,083 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_203333.json
+2025-08-30 20:33:33,083 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 20:33:33,084 - INFO - ================================================================================
+2025-08-30 20:33:33,084 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 20:33:33,084 - INFO -    Implemented Strengths: 7/8
+2025-08-30 20:33:33,084 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 20:33:33,084 - INFO -    Total Tests: 5
+2025-08-30 20:33:33,084 - INFO -    Successful Bypasses: 0
+2025-08-30 20:33:33,084 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 20:33:33,084 - INFO - ⏱️ Total Execution Time: 38.05s
+2025-08-30 20:33:33,084 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 20:33:33,084 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 20:33:33,084 - INFO - ================================================================================
+2025-08-30 20:33:33,084 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 20:33:33,352 - INFO - 🧹 Cleanup completed
+2025-08-30 20:35:16,776 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 20:35:16,776 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:35:16,776 - INFO - ================================================================================
+2025-08-30 20:35:16,776 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 20:35:21,926 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 20:35:21,927 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 20:35:21,927 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:35:21,927 - INFO - ================================================================================
+2025-08-30 20:35:21,927 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 20:35:21,927 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 20:35:21,927 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 20:35:21,927 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 20:35:21,927 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 20:35:21,927 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 20:35:21,927 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 20:35:21,927 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 20:35:21,927 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 20:35:21,927 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 20:35:21,929 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 20:35:21,932 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 20:35:21,933 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 20:35:21,933 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 20:35:28,449 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:35:28,631 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:35:28,705 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:35:30,711 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 20:35:36,153 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:35:36,240 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:35:36,259 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:35:38,265 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 20:35:43,514 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:35:43,578 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:35:43,596 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:35:45,600 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 20:35:50,828 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:35:50,897 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:35:50,917 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:35:52,922 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 20:35:58,119 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:35:58,175 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:35:58,193 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:36:00,198 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 20:36:00,199 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 20:36:00,199 - INFO -    Successful bypasses: 0
+2025-08-30 20:36:00,199 - INFO -    Success rate: 0.0%
+2025-08-30 20:36:00,199 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 20:36:00,199 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 20:36:00,199 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 20:36:00,199 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 20:36:00,206 - INFO - ✅ No bot detection indicators found
+2025-08-30 20:36:00,206 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 20:36:00,206 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 20:36:00,209 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_203600.json
+2025-08-30 20:36:00,209 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 20:36:00,209 - INFO - ================================================================================
+2025-08-30 20:36:00,209 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 20:36:00,209 - INFO -    Implemented Strengths: 7/8
+2025-08-30 20:36:00,209 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 20:36:00,209 - INFO -    Total Tests: 5
+2025-08-30 20:36:00,209 - INFO -    Successful Bypasses: 0
+2025-08-30 20:36:00,209 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 20:36:00,209 - INFO - ⏱️ Total Execution Time: 38.28s
+2025-08-30 20:36:00,209 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 20:36:00,209 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 20:36:00,209 - INFO - ================================================================================
+2025-08-30 20:36:00,209 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 20:36:00,445 - INFO - 🧹 Cleanup completed
+2025-08-30 20:36:44,829 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 20:36:44,830 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:36:44,830 - INFO - ================================================================================
+2025-08-30 20:36:44,830 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 20:36:49,215 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 20:36:49,225 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 20:36:49,235 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:36:49,236 - INFO - ================================================================================
+2025-08-30 20:36:49,254 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 20:36:49,281 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 20:36:49,290 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 20:36:49,309 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 20:36:49,356 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 20:36:49,356 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 20:36:49,356 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 20:36:49,377 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 20:36:49,377 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 20:36:49,451 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 20:36:49,463 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 20:36:49,463 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 20:36:49,463 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 20:36:49,475 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 20:36:56,249 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:36:56,360 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:36:57,927 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:36:59,930 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 20:37:05,256 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:37:05,335 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:37:06,909 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:37:08,919 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 20:37:14,242 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:37:14,305 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:37:15,886 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:37:17,891 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 20:37:23,120 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:37:23,201 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:37:24,790 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:37:26,790 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 20:37:32,034 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:37:32,125 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:37:33,706 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:37:35,716 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 20:37:35,716 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 20:37:35,716 - INFO -    Successful bypasses: 0
+2025-08-30 20:37:35,716 - INFO -    Success rate: 0.0%
+2025-08-30 20:37:35,716 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 20:37:35,716 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 20:37:35,716 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 20:37:35,717 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 20:37:35,722 - INFO - ✅ No bot detection indicators found
+2025-08-30 20:37:35,722 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 20:37:35,722 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 20:37:35,728 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_203735.json
+2025-08-30 20:37:35,728 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 20:37:35,729 - INFO - ================================================================================
+2025-08-30 20:37:35,729 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 20:37:35,729 - INFO -    Implemented Strengths: 7/8
+2025-08-30 20:37:35,729 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 20:37:35,729 - INFO -    Total Tests: 5
+2025-08-30 20:37:35,729 - INFO -    Successful Bypasses: 0
+2025-08-30 20:37:35,729 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 20:37:35,729 - INFO - ⏱️ Total Execution Time: 46.47s
+2025-08-30 20:37:35,729 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 20:37:35,729 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 20:37:35,729 - INFO - ================================================================================
+2025-08-30 20:37:35,729 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 20:37:35,998 - INFO - 🧹 Cleanup completed
+2025-08-30 20:38:01,132 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 20:38:01,132 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:38:01,132 - INFO - ================================================================================
+2025-08-30 20:38:01,132 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 20:38:06,319 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 20:38:06,320 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 20:38:06,320 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:38:06,320 - INFO - ================================================================================
+2025-08-30 20:38:06,320 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 20:38:06,320 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 20:38:06,320 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 20:38:06,320 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 20:38:06,321 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 20:38:06,321 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 20:38:06,321 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 20:38:06,321 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 20:38:06,321 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 20:38:06,321 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 20:38:06,321 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 20:38:06,321 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 20:38:06,321 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 20:38:06,321 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 20:38:12,742 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:38:12,833 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:38:23,614 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:38:25,625 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 20:38:31,162 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:38:31,221 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:38:31,250 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:38:33,265 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 20:38:38,675 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:38:38,742 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:38:38,761 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:38:40,771 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 20:38:46,186 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:38:46,241 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:38:46,266 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:38:48,276 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 20:38:53,579 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:38:53,642 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:38:53,664 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:38:55,674 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 20:38:55,675 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 20:38:55,675 - INFO -    Successful bypasses: 0
+2025-08-30 20:38:55,675 - INFO -    Success rate: 0.0%
+2025-08-30 20:38:55,675 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 20:38:55,675 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 20:38:55,675 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 20:38:55,675 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 20:38:55,685 - INFO - ✅ No bot detection indicators found
+2025-08-30 20:38:55,686 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 20:38:55,686 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 20:38:55,691 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_203855.json
+2025-08-30 20:38:55,691 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 20:38:55,691 - INFO - ================================================================================
+2025-08-30 20:38:55,691 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 20:38:55,691 - INFO -    Implemented Strengths: 7/8
+2025-08-30 20:38:55,691 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 20:38:55,691 - INFO -    Total Tests: 5
+2025-08-30 20:38:55,691 - INFO -    Successful Bypasses: 0
+2025-08-30 20:38:55,691 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 20:38:55,691 - INFO - ⏱️ Total Execution Time: 49.37s
+2025-08-30 20:38:55,692 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 20:38:55,692 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 20:38:55,692 - INFO - ================================================================================
+2025-08-30 20:38:55,692 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 20:38:55,907 - INFO - 🧹 Cleanup completed
+2025-08-30 20:41:41,158 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 20:41:41,158 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:41:41,158 - INFO - ================================================================================
+2025-08-30 20:41:41,158 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 20:41:45,787 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 20:41:45,789 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 20:41:45,789 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 20:41:45,789 - INFO - ================================================================================
+2025-08-30 20:41:45,789 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 20:41:45,789 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 20:41:45,789 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 20:41:45,789 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 20:41:45,792 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 20:41:45,792 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 20:41:45,792 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 20:41:45,793 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 20:41:45,793 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 20:41:45,793 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 20:41:45,793 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 20:41:45,794 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 20:41:45,794 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 20:41:45,794 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 20:41:52,370 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:41:52,486 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 20:42:22,786 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:42:25,459 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 20:42:30,844 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:42:30,914 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:42:30,967 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:42:32,976 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 20:42:38,323 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:42:38,416 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:42:38,482 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:42:40,492 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 20:42:45,746 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:42:45,801 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:42:45,843 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:42:47,853 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 20:42:55,296 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 20:42:55,353 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 20:42:55,395 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 20:42:57,406 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 20:42:57,406 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 20:42:57,406 - INFO -    Successful bypasses: 0
+2025-08-30 20:42:57,406 - INFO -    Success rate: 0.0%
+2025-08-30 20:42:57,406 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 20:42:57,407 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 20:42:57,407 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 20:42:57,407 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 20:42:57,419 - INFO - ✅ No bot detection indicators found
+2025-08-30 20:42:57,419 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 20:42:57,419 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 20:42:57,427 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_204257.json
+2025-08-30 20:42:57,427 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 20:42:57,427 - INFO - ================================================================================
+2025-08-30 20:42:57,427 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 20:42:57,427 - INFO -    Implemented Strengths: 7/8
+2025-08-30 20:42:57,427 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 20:42:57,427 - INFO -    Total Tests: 5
+2025-08-30 20:42:57,428 - INFO -    Successful Bypasses: 0
+2025-08-30 20:42:57,428 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 20:42:57,428 - INFO - ⏱️ Total Execution Time: 71.63s
+2025-08-30 20:42:57,428 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 20:42:57,428 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 20:42:57,428 - INFO - ================================================================================
+2025-08-30 20:42:57,428 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 20:42:57,682 - INFO - 🧹 Cleanup completed
+2025-08-30 21:52:48,384 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 21:52:48,385 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 21:52:48,385 - INFO - ================================================================================
+2025-08-30 21:52:48,385 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 21:52:54,226 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 21:52:54,229 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 21:52:54,229 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 21:52:54,229 - INFO - ================================================================================
+2025-08-30 21:52:54,230 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 21:52:54,232 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 21:52:54,233 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 21:52:54,234 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 21:52:54,236 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 21:52:54,236 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 21:52:54,236 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 21:52:54,237 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 21:52:54,237 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 21:52:54,237 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 21:52:54,237 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 21:52:54,237 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 21:52:54,237 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 21:52:54,237 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 21:53:00,469 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:53:00,565 - INFO - ✅ Found CAPTCHA iframe with 72 CAPTCHA elements
+2025-08-30 21:53:30,002 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:53:32,007 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 21:53:37,196 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:53:37,264 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:53:37,320 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:53:39,325 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 21:53:44,434 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:53:44,498 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:53:44,551 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:53:46,567 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 21:53:51,722 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:53:51,797 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:53:51,842 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:53:53,847 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 21:53:59,047 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:53:59,103 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:53:59,149 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:54:01,155 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 21:54:01,155 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 21:54:01,155 - INFO -    Successful bypasses: 0
+2025-08-30 21:54:01,155 - INFO -    Success rate: 0.0%
+2025-08-30 21:54:01,155 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 21:54:01,156 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 21:54:01,156 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 21:54:01,156 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 21:54:01,164 - INFO - ✅ No bot detection indicators found
+2025-08-30 21:54:01,164 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 21:54:01,164 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 21:54:01,170 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_215401.json
+2025-08-30 21:54:01,170 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 21:54:01,170 - INFO - ================================================================================
+2025-08-30 21:54:01,170 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 21:54:01,171 - INFO -    Implemented Strengths: 7/8
+2025-08-30 21:54:01,171 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 21:54:01,171 - INFO -    Total Tests: 5
+2025-08-30 21:54:01,171 - INFO -    Successful Bypasses: 0
+2025-08-30 21:54:01,171 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 21:54:01,171 - INFO - ⏱️ Total Execution Time: 66.94s
+2025-08-30 21:54:01,171 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 21:54:01,171 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 21:54:01,171 - INFO - ================================================================================
+2025-08-30 21:54:01,171 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 21:54:01,390 - INFO - 🧹 Cleanup completed
+2025-08-30 21:56:29,176 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-30 21:56:29,177 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 21:56:29,177 - INFO - ================================================================================
+2025-08-30 21:56:29,177 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-30 21:56:35,454 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-30 21:56:35,462 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-30 21:56:35,480 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-30 21:56:35,480 - INFO - ================================================================================
+2025-08-30 21:56:35,482 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-30 21:56:35,482 - INFO - 🔍 Validating strategic strengths...
+2025-08-30 21:56:35,483 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-30 21:56:35,483 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-30 21:56:35,487 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-30 21:56:35,496 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-30 21:56:35,497 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-30 21:56:35,504 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-30 21:56:35,505 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-30 21:56:35,505 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-30 21:56:35,505 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-30 21:56:35,505 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-30 21:56:35,505 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-30 21:56:35,505 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-30 21:56:41,912 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:56:42,001 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-30 21:57:10,834 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:57:12,838 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-30 21:57:17,997 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:57:18,091 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:57:18,167 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:57:20,174 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-30 21:57:25,382 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:57:25,445 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:57:25,493 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:57:27,498 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-30 21:57:32,641 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:57:32,697 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:57:32,743 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:57:34,749 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-30 21:57:39,957 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-30 21:57:40,010 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-30 21:57:40,058 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-30 21:57:42,065 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-30 21:57:42,066 - INFO -    Total CAPTCHA tests: 5
+2025-08-30 21:57:42,066 - INFO -    Successful bypasses: 0
+2025-08-30 21:57:42,067 - INFO -    Success rate: 0.0%
+2025-08-30 21:57:42,067 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-30 21:57:42,067 - INFO - 📈 Testing data extraction capabilities...
+2025-08-30 21:57:42,067 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-30 21:57:42,067 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-30 21:57:42,072 - INFO - ✅ No bot detection indicators found
+2025-08-30 21:57:42,072 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-30 21:57:42,072 - INFO - ⚡ Analyzing performance metrics...
+2025-08-30 21:57:42,083 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250830_215742.json
+2025-08-30 21:57:42,083 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-30 21:57:42,084 - INFO - ================================================================================
+2025-08-30 21:57:42,084 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-30 21:57:42,084 - INFO -    Implemented Strengths: 7/8
+2025-08-30 21:57:42,084 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-30 21:57:42,084 - INFO -    Total Tests: 5
+2025-08-30 21:57:42,085 - INFO -    Successful Bypasses: 0
+2025-08-30 21:57:42,085 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-30 21:57:42,085 - INFO - ⏱️ Total Execution Time: 66.60s
+2025-08-30 21:57:42,085 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-30 21:57:42,085 - INFO - 🎯 Strategic Goals Met: True
+2025-08-30 21:57:42,085 - INFO - ================================================================================
+2025-08-30 21:57:42,085 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-30 21:57:42,347 - INFO - 🧹 Cleanup completed
+2025-08-31 16:15:22,975 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 16:15:22,975 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:15:22,975 - INFO - ================================================================================
+2025-08-31 16:15:22,975 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 16:15:26,897 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 16:15:26,898 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 16:15:26,899 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:15:26,899 - INFO - ================================================================================
+2025-08-31 16:15:26,899 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 16:15:26,905 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 16:15:26,934 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 16:15:26,935 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 16:15:26,935 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 16:15:26,936 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 16:15:26,954 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 16:15:26,955 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-31 16:15:26,955 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 16:15:26,955 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 16:15:26,955 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-31 16:15:26,955 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 16:15:26,955 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 16:15:26,956 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 16:15:32,503 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:15:32,566 - INFO - ✅ Found CAPTCHA iframe with 72 CAPTCHA elements
+2025-08-31 16:16:01,523 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:16:03,526 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 16:16:07,946 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:16:08,002 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:16:08,050 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:16:10,054 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 16:16:14,301 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:16:14,353 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:16:14,402 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:16:16,407 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 16:16:20,569 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:16:20,612 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:16:20,655 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:16:22,660 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 16:16:26,829 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:16:26,873 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:16:26,914 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:16:28,920 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 16:16:28,921 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 16:16:28,921 - INFO -    Successful bypasses: 0
+2025-08-31 16:16:28,921 - INFO -    Success rate: 0.0%
+2025-08-31 16:16:28,921 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 16:16:28,921 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 16:16:28,921 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 16:16:28,921 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 16:16:28,929 - INFO - ✅ No bot detection indicators found
+2025-08-31 16:16:28,929 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 16:16:28,929 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 16:16:28,935 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_161628.json
+2025-08-31 16:16:28,935 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 16:16:28,935 - INFO - ================================================================================
+2025-08-31 16:16:28,936 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-31 16:16:28,936 - INFO -    Implemented Strengths: 7/8
+2025-08-31 16:16:28,936 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 16:16:28,936 - INFO -    Total Tests: 5
+2025-08-31 16:16:28,936 - INFO -    Successful Bypasses: 0
+2025-08-31 16:16:28,936 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 16:16:28,936 - INFO - ⏱️ Total Execution Time: 62.04s
+2025-08-31 16:16:28,936 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 16:16:28,936 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 16:16:28,936 - INFO - ================================================================================
+2025-08-31 16:16:28,936 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 16:16:29,117 - INFO - 🧹 Cleanup completed
+2025-08-31 16:20:05,734 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 16:20:05,734 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:20:05,735 - INFO - ================================================================================
+2025-08-31 16:20:05,735 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 16:20:13,629 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 16:20:13,647 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 16:20:13,664 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:20:13,664 - INFO - ================================================================================
+2025-08-31 16:20:13,664 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 16:20:13,664 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 16:20:13,664 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 16:20:13,665 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 16:20:13,665 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 16:20:13,665 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 16:20:13,665 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 16:20:13,665 - WARNING - ⚠️ Natural movement patterns: NOT IMPLEMENTED
+2025-08-31 16:20:13,681 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 16:20:13,681 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 16:20:13,681 - INFO - 📊 Strategic Compliance Score: 87.5% (7/8)
+2025-08-31 16:20:13,681 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 16:20:13,681 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 16:20:13,681 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 16:20:18,647 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:20:18,737 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 16:20:24,276 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:20:26,283 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 16:20:30,450 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:20:30,489 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:20:42,439 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:20:44,446 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 16:20:48,639 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:20:48,679 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:21:00,637 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:21:02,643 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 16:21:06,795 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:21:06,836 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:21:18,787 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:21:20,793 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 16:21:24,955 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:21:24,997 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:21:36,940 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:21:38,945 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 16:21:38,945 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 16:21:38,946 - INFO -    Successful bypasses: 0
+2025-08-31 16:21:38,946 - INFO -    Success rate: 0.0%
+2025-08-31 16:21:38,946 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 16:21:38,946 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 16:21:38,946 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 16:21:38,946 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 16:21:38,955 - INFO - ✅ No bot detection indicators found
+2025-08-31 16:21:38,955 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 16:21:38,955 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 16:21:38,961 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_162138.json
+2025-08-31 16:21:38,961 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 16:21:38,961 - INFO - ================================================================================
+2025-08-31 16:21:38,961 - INFO - 📊 Strategic Compliance: 87.5%
+2025-08-31 16:21:38,961 - INFO -    Implemented Strengths: 7/8
+2025-08-31 16:21:38,961 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 16:21:38,961 - INFO -    Total Tests: 5
+2025-08-31 16:21:38,962 - INFO -    Successful Bypasses: 0
+2025-08-31 16:21:38,962 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 16:21:38,962 - INFO - ⏱️ Total Execution Time: 85.30s
+2025-08-31 16:21:38,962 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 16:21:38,962 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 16:21:38,962 - INFO - ================================================================================
+2025-08-31 16:21:38,962 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 16:21:39,140 - INFO - 🧹 Cleanup completed
+2025-08-31 16:42:25,397 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 16:42:25,398 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:42:25,398 - INFO - ================================================================================
+2025-08-31 16:42:25,398 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 16:42:29,474 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 16:42:29,505 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 16:42:29,523 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:42:29,523 - INFO - ================================================================================
+2025-08-31 16:42:29,523 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 16:42:29,523 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 16:42:29,523 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 16:42:29,523 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 16:42:29,523 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 16:42:29,523 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 16:42:29,525 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 16:42:29,559 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 16:42:29,560 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 16:42:29,560 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 16:42:29,578 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 16:42:29,578 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 16:42:29,578 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 16:42:29,578 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 16:42:34,484 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:42:34,563 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 16:42:40,019 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:42:42,024 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 16:42:46,104 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:42:46,138 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:42:58,103 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:43:00,108 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 16:43:05,019 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:43:05,076 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:43:17,041 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:43:19,047 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 16:43:23,147 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:43:23,194 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:43:35,161 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:43:37,167 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 16:43:41,300 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:43:41,334 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:43:53,297 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:43:55,303 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 16:43:55,303 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 16:43:55,304 - INFO -    Successful bypasses: 0
+2025-08-31 16:43:55,304 - INFO -    Success rate: 0.0%
+2025-08-31 16:43:55,304 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 16:43:55,304 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 16:43:55,304 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 16:43:55,304 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 16:43:55,313 - INFO - ✅ No bot detection indicators found
+2025-08-31 16:43:55,313 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 16:43:55,313 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 16:43:55,318 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_164355.json
+2025-08-31 16:43:55,319 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 16:43:55,319 - INFO - ================================================================================
+2025-08-31 16:43:55,319 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 16:43:55,319 - INFO -    Implemented Strengths: 8/8
+2025-08-31 16:43:55,319 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 16:43:55,319 - INFO -    Total Tests: 5
+2025-08-31 16:43:55,319 - INFO -    Successful Bypasses: 0
+2025-08-31 16:43:55,319 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 16:43:55,319 - INFO - ⏱️ Total Execution Time: 85.79s
+2025-08-31 16:43:55,319 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 16:43:55,319 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 16:43:55,319 - INFO - ================================================================================
+2025-08-31 16:43:55,320 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 16:43:55,508 - INFO - 🧹 Cleanup completed
+2025-08-31 16:47:43,550 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 16:47:43,551 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:47:43,551 - INFO - ================================================================================
+2025-08-31 16:47:43,551 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 16:47:47,583 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 16:47:47,598 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 16:47:47,616 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 16:47:47,617 - INFO - ================================================================================
+2025-08-31 16:47:47,617 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 16:47:47,617 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 16:47:47,617 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 16:47:47,617 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 16:47:47,617 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 16:47:47,617 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 16:47:47,617 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 16:47:47,617 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 16:47:47,617 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 16:47:47,634 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 16:47:47,635 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 16:47:47,635 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 16:47:47,635 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 16:47:47,635 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 16:47:52,385 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:47:52,467 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 16:47:58,792 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:48:00,798 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 16:48:05,116 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:48:05,177 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:48:17,144 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:48:19,150 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 16:48:23,325 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 16:48:23,370 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 16:48:38,423 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 16:48:40,426 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 16:48:40,432 - ERROR - ❌ Error testing https://www.g2.com/compare/zoom-vs-microsoft-teams: Page.goto: Target page, context or browser has been closed
+2025-08-31 16:48:40,432 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 16:48:40,435 - ERROR - ❌ Error testing https://www.g2.com/compare/notion-vs-obsidian: Page.goto: Target page, context or browser has been closed
+2025-08-31 16:48:40,435 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 16:48:40,435 - INFO -    Total CAPTCHA tests: 3
+2025-08-31 16:48:40,435 - INFO -    Successful bypasses: 0
+2025-08-31 16:48:40,435 - INFO -    Success rate: 0.0%
+2025-08-31 16:48:40,435 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 16:48:40,435 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 16:48:40,435 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 16:48:40,435 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 16:48:40,436 - ERROR - ❌ Error in anti-detection testing: Page.evaluate: Target page, context or browser has been closed
+2025-08-31 16:48:40,436 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 16:48:40,436 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 16:48:40,436 - ERROR - ❌ Error in performance analysis: Page.evaluate: Target page, context or browser has been closed
+2025-08-31 16:48:40,437 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_164840.json
+2025-08-31 16:48:40,437 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 16:48:40,437 - INFO - ================================================================================
+2025-08-31 16:48:40,437 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 16:48:40,437 - INFO -    Implemented Strengths: 8/8
+2025-08-31 16:48:40,437 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 16:48:40,437 - INFO -    Total Tests: 3
+2025-08-31 16:48:40,437 - INFO -    Successful Bypasses: 0
+2025-08-31 16:48:40,437 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 16:48:40,437 - INFO - ⏱️ Total Execution Time: 52.82s
+2025-08-31 16:48:40,437 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 16:48:40,437 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 16:48:40,437 - INFO - ================================================================================
+2025-08-31 16:48:40,437 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 16:48:40,615 - INFO - 🧹 Cleanup completed
+2025-08-31 17:05:53,415 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 17:05:53,416 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:05:53,416 - INFO - ================================================================================
+2025-08-31 17:05:53,416 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 17:05:58,174 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 17:05:58,185 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 17:05:58,185 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:05:58,185 - INFO - ================================================================================
+2025-08-31 17:05:58,185 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 17:05:58,185 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 17:05:58,185 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 17:05:58,185 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 17:05:58,185 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 17:05:58,185 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 17:05:58,186 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 17:05:58,186 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 17:05:58,186 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 17:05:58,186 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 17:05:58,186 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 17:05:58,202 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 17:05:58,202 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 17:05:58,203 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 17:06:03,187 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:06:03,261 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 17:06:09,229 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:06:11,235 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 17:06:15,358 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:06:15,415 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:06:27,390 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:06:29,396 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 17:06:33,492 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:06:33,542 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:06:45,493 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:06:47,498 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 17:06:51,617 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:06:51,668 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:07:03,620 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:07:05,626 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 17:07:09,737 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:07:09,790 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:07:21,758 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:07:23,764 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 17:07:23,765 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 17:07:23,765 - INFO -    Successful bypasses: 0
+2025-08-31 17:07:23,765 - INFO -    Success rate: 0.0%
+2025-08-31 17:07:23,765 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 17:07:23,765 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 17:07:23,765 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 17:07:23,765 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 17:07:23,776 - INFO - ✅ No bot detection indicators found
+2025-08-31 17:07:23,776 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 17:07:23,776 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 17:07:23,782 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_170723.json
+2025-08-31 17:07:23,782 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 17:07:23,782 - INFO - ================================================================================
+2025-08-31 17:07:23,782 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 17:07:23,782 - INFO -    Implemented Strengths: 8/8
+2025-08-31 17:07:23,782 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 17:07:23,782 - INFO -    Total Tests: 5
+2025-08-31 17:07:23,782 - INFO -    Successful Bypasses: 0
+2025-08-31 17:07:23,782 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 17:07:23,782 - INFO - ⏱️ Total Execution Time: 85.60s
+2025-08-31 17:07:23,782 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 17:07:23,782 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 17:07:23,783 - INFO - ================================================================================
+2025-08-31 17:07:23,783 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 17:07:23,988 - INFO - 🧹 Cleanup completed
+2025-08-31 17:08:22,698 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 17:08:22,698 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:08:22,699 - INFO - ================================================================================
+2025-08-31 17:08:22,699 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 17:08:26,764 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 17:08:26,775 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 17:08:26,775 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:08:26,792 - INFO - ================================================================================
+2025-08-31 17:08:26,792 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 17:08:26,792 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 17:08:26,792 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 17:08:26,792 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 17:08:26,792 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 17:08:26,792 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 17:08:26,792 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 17:08:31,660 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:08:31,737 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 17:08:38,183 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:08:40,185 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 17:08:44,528 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:08:44,583 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:08:56,546 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:08:58,552 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 17:09:02,735 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:09:02,784 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:09:14,750 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:09:16,757 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 17:09:20,996 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:09:21,049 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:09:33,020 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:09:35,026 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 17:09:39,199 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:09:39,241 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:09:51,254 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:09:53,260 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 17:09:53,260 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 17:09:53,260 - INFO -    Successful bypasses: 0
+2025-08-31 17:09:53,260 - INFO -    Success rate: 0.0%
+2025-08-31 17:09:53,260 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 17:09:53,260 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 17:09:53,260 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 17:09:53,260 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 17:09:53,265 - INFO - ✅ No bot detection indicators found
+2025-08-31 17:09:53,265 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 17:09:53,265 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 17:09:53,268 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_170953.json
+2025-08-31 17:09:53,268 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 17:09:53,268 - INFO - ================================================================================
+2025-08-31 17:09:53,268 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 17:09:53,268 - INFO -    Implemented Strengths: 8/8
+2025-08-31 17:09:53,268 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 17:09:53,268 - INFO -    Total Tests: 5
+2025-08-31 17:09:53,268 - INFO -    Successful Bypasses: 0
+2025-08-31 17:09:53,268 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 17:09:53,268 - INFO - ⏱️ Total Execution Time: 86.48s
+2025-08-31 17:09:53,268 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 17:09:53,268 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 17:09:53,268 - INFO - ================================================================================
+2025-08-31 17:09:53,268 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 17:09:53,460 - INFO - 🧹 Cleanup completed
+2025-08-31 17:18:15,221 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 17:18:15,221 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:18:15,221 - INFO - ================================================================================
+2025-08-31 17:18:15,222 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 17:18:19,695 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 17:18:19,700 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 17:18:19,700 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:18:19,700 - INFO - ================================================================================
+2025-08-31 17:18:19,701 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 17:18:19,701 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 17:18:19,701 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 17:18:19,701 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 17:18:19,701 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 17:18:19,718 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 17:18:19,718 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 17:18:19,719 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 17:18:19,719 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 17:18:19,719 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 17:18:19,719 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 17:18:19,737 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 17:18:19,737 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 17:18:19,737 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 17:18:27,349 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:18:27,435 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 17:18:34,005 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:18:36,010 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 17:18:40,192 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:18:40,245 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:18:52,282 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:18:54,289 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 17:18:58,420 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:18:58,462 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:19:10,496 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:19:12,502 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 17:19:16,800 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:19:16,857 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:19:28,891 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:19:30,897 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 17:19:35,978 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:19:36,040 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:19:48,093 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:19:50,098 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 17:19:50,098 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 17:19:50,098 - INFO -    Successful bypasses: 0
+2025-08-31 17:19:50,098 - INFO -    Success rate: 0.0%
+2025-08-31 17:19:50,098 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 17:19:50,099 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 17:19:50,099 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 17:19:50,099 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 17:19:50,108 - INFO - ✅ No bot detection indicators found
+2025-08-31 17:19:50,109 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 17:19:50,109 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 17:19:50,114 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_171950.json
+2025-08-31 17:19:50,114 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 17:19:50,114 - INFO - ================================================================================
+2025-08-31 17:19:50,114 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 17:19:50,114 - INFO -    Implemented Strengths: 8/8
+2025-08-31 17:19:50,114 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 17:19:50,114 - INFO -    Total Tests: 5
+2025-08-31 17:19:50,114 - INFO -    Successful Bypasses: 0
+2025-08-31 17:19:50,115 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 17:19:50,115 - INFO - ⏱️ Total Execution Time: 90.41s
+2025-08-31 17:19:50,115 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 17:19:50,115 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 17:19:50,115 - INFO - ================================================================================
+2025-08-31 17:19:50,115 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 17:19:50,312 - INFO - 🧹 Cleanup completed
+2025-08-31 17:22:23,106 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 17:22:23,106 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:22:23,106 - INFO - ================================================================================
+2025-08-31 17:22:23,106 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 17:22:27,491 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 17:22:27,502 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 17:22:27,503 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:22:27,503 - INFO - ================================================================================
+2025-08-31 17:22:27,503 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 17:22:27,503 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 17:22:27,503 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 17:22:27,503 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 17:22:27,503 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 17:22:27,503 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 17:22:27,503 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 17:22:27,520 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 17:22:27,520 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 17:22:27,520 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 17:22:27,521 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 17:22:27,521 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 17:22:27,521 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 17:22:27,521 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 17:22:32,497 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:22:32,573 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 17:22:54,197 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:22:56,203 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 17:23:00,423 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:23:00,479 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:23:12,565 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:23:14,571 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 17:23:18,710 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:23:18,765 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:23:30,778 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:23:32,784 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 17:23:36,874 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:23:36,922 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:23:48,948 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:23:50,955 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 17:23:55,111 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:23:55,163 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:24:07,207 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:24:09,211 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 17:24:09,212 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 17:24:09,212 - INFO -    Successful bypasses: 0
+2025-08-31 17:24:09,212 - INFO -    Success rate: 0.0%
+2025-08-31 17:24:09,212 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 17:24:09,212 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 17:24:09,212 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 17:24:09,212 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 17:24:09,225 - INFO - ✅ No bot detection indicators found
+2025-08-31 17:24:09,225 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 17:24:09,225 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 17:24:09,231 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_172409.json
+2025-08-31 17:24:09,231 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 17:24:09,231 - INFO - ================================================================================
+2025-08-31 17:24:09,232 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 17:24:09,232 - INFO -    Implemented Strengths: 8/8
+2025-08-31 17:24:09,232 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 17:24:09,232 - INFO -    Total Tests: 5
+2025-08-31 17:24:09,232 - INFO -    Successful Bypasses: 0
+2025-08-31 17:24:09,232 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 17:24:09,232 - INFO - ⏱️ Total Execution Time: 101.73s
+2025-08-31 17:24:09,232 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 17:24:09,232 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 17:24:09,232 - INFO - ================================================================================
+2025-08-31 17:24:09,232 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 17:24:09,416 - INFO - 🧹 Cleanup completed
+2025-08-31 17:25:17,031 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 17:25:17,031 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:25:17,031 - INFO - ================================================================================
+2025-08-31 17:25:17,031 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 17:25:21,373 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 17:25:21,389 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 17:25:21,389 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:25:21,389 - INFO - ================================================================================
+2025-08-31 17:25:21,389 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 17:25:21,389 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 17:25:21,389 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 17:25:21,389 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 17:25:21,407 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 17:25:21,408 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 17:25:21,408 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 17:25:26,925 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:25:27,009 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 17:25:48,609 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:25:50,614 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 17:25:54,841 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:25:54,891 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:26:06,957 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:26:08,963 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 17:26:13,229 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:26:13,271 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:26:25,306 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:26:27,312 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 17:26:31,495 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:26:31,541 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:26:43,601 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:26:45,607 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 17:26:49,821 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:26:49,870 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:27:01,923 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:27:03,930 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 17:27:03,931 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 17:27:03,931 - INFO -    Successful bypasses: 0
+2025-08-31 17:27:03,931 - INFO -    Success rate: 0.0%
+2025-08-31 17:27:03,931 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 17:27:03,931 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 17:27:03,932 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 17:27:03,932 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 17:27:03,943 - INFO - ✅ No bot detection indicators found
+2025-08-31 17:27:03,943 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 17:27:03,944 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 17:27:03,950 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_172703.json
+2025-08-31 17:27:03,950 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 17:27:03,950 - INFO - ================================================================================
+2025-08-31 17:27:03,950 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 17:27:03,950 - INFO -    Implemented Strengths: 8/8
+2025-08-31 17:27:03,950 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 17:27:03,950 - INFO -    Total Tests: 5
+2025-08-31 17:27:03,950 - INFO -    Successful Bypasses: 0
+2025-08-31 17:27:03,950 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 17:27:03,950 - INFO - ⏱️ Total Execution Time: 102.56s
+2025-08-31 17:27:03,950 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 17:27:03,950 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 17:27:03,950 - INFO - ================================================================================
+2025-08-31 17:27:03,951 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 17:27:04,112 - INFO - 🧹 Cleanup completed
+2025-08-31 17:28:05,318 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 17:28:05,318 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:28:05,318 - INFO - ================================================================================
+2025-08-31 17:28:05,318 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 17:28:09,503 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 17:28:09,528 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 17:28:09,528 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 17:28:09,529 - INFO - ================================================================================
+2025-08-31 17:28:09,547 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 17:28:09,547 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 17:28:09,548 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 17:28:09,548 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 17:28:09,582 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 17:28:09,582 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 17:28:09,582 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 17:28:09,582 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 17:28:09,600 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 17:28:09,600 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 17:28:09,600 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 17:28:09,600 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 17:28:09,600 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 17:28:09,600 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 17:28:15,532 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:28:15,614 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 17:28:37,397 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:28:39,399 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 17:28:43,621 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:28:43,674 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:28:55,808 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:28:57,814 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 17:29:02,071 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:29:02,126 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:29:14,252 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:29:16,257 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 17:29:20,576 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:29:20,629 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:29:32,721 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:29:34,733 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 17:29:39,303 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 17:29:39,354 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 17:29:51,444 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 17:29:53,450 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 17:29:53,450 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 17:29:53,450 - INFO -    Successful bypasses: 0
+2025-08-31 17:29:53,450 - INFO -    Success rate: 0.0%
+2025-08-31 17:29:53,450 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 17:29:53,450 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 17:29:53,451 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 17:29:53,451 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 17:29:53,462 - INFO - ✅ No bot detection indicators found
+2025-08-31 17:29:53,463 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 17:29:53,463 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 17:29:53,468 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_172953.json
+2025-08-31 17:29:53,468 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 17:29:53,468 - INFO - ================================================================================
+2025-08-31 17:29:53,468 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 17:29:53,468 - INFO -    Implemented Strengths: 8/8
+2025-08-31 17:29:53,468 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 17:29:53,468 - INFO -    Total Tests: 5
+2025-08-31 17:29:53,469 - INFO -    Successful Bypasses: 0
+2025-08-31 17:29:53,469 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 17:29:53,469 - INFO - ⏱️ Total Execution Time: 103.92s
+2025-08-31 17:29:53,469 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 17:29:53,469 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 17:29:53,469 - INFO - ================================================================================
+2025-08-31 17:29:53,469 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 17:29:53,637 - INFO - 🧹 Cleanup completed
+2025-08-31 18:28:50,279 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 18:28:50,279 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 18:28:50,279 - INFO - ================================================================================
+2025-08-31 18:28:50,279 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 18:28:55,211 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 18:28:55,216 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 18:28:55,216 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 18:28:55,216 - INFO - ================================================================================
+2025-08-31 18:28:55,216 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 18:28:55,217 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 18:28:55,217 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 18:28:55,217 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 18:28:55,217 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 18:28:55,217 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 18:28:55,217 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 18:29:02,040 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 18:29:02,119 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 18:29:03,208 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 18:29:05,213 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 18:29:09,437 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 18:29:09,529 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 18:29:10,627 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 18:29:12,632 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 18:29:16,797 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 18:29:16,848 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 18:29:17,931 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 18:29:19,935 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 18:29:24,085 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 18:29:24,134 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 18:29:25,216 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 18:29:27,217 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 18:29:31,352 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 18:29:31,399 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 18:29:32,478 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 18:29:34,480 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 18:29:34,480 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 18:29:34,480 - INFO -    Successful bypasses: 0
+2025-08-31 18:29:34,481 - INFO -    Success rate: 0.0%
+2025-08-31 18:29:34,481 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 18:29:34,481 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 18:29:34,481 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 18:29:34,481 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 18:29:34,486 - INFO - ✅ No bot detection indicators found
+2025-08-31 18:29:34,486 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 18:29:34,486 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 18:29:34,492 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_182934.json
+2025-08-31 18:29:34,492 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 18:29:34,492 - INFO - ================================================================================
+2025-08-31 18:29:34,492 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 18:29:34,492 - INFO -    Implemented Strengths: 8/8
+2025-08-31 18:29:34,492 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 18:29:34,492 - INFO -    Total Tests: 5
+2025-08-31 18:29:34,492 - INFO -    Successful Bypasses: 0
+2025-08-31 18:29:34,492 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 18:29:34,492 - INFO - ⏱️ Total Execution Time: 39.27s
+2025-08-31 18:29:34,493 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 18:29:34,493 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 18:29:34,493 - INFO - ================================================================================
+2025-08-31 18:29:34,493 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 18:29:34,739 - INFO - 🧹 Cleanup completed
+2025-08-31 20:19:47,739 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:19:47,739 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:19:47,739 - INFO - ================================================================================
+2025-08-31 20:19:47,739 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:19:52,593 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:19:52,614 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:19:52,615 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:19:52,633 - INFO - ================================================================================
+2025-08-31 20:19:52,633 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:19:52,633 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:19:52,633 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:19:52,633 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:19:52,633 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:19:52,633 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:19:52,633 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:19:52,634 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:19:52,634 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:19:52,634 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:19:52,634 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:19:52,634 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:19:52,634 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:19:52,634 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:19:58,215 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:19:58,289 - INFO - ✅ Found CAPTCHA iframe with 72 CAPTCHA elements
+2025-08-31 20:19:58,362 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:20:00,366 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:20:04,670 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:20:04,730 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:20:04,810 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:20:06,815 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:20:11,064 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:20:11,118 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:20:11,188 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:20:13,193 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:20:17,440 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:20:17,487 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:20:17,593 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:20:19,599 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:20:23,818 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:20:23,930 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:20:24,193 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:20:26,197 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:20:26,198 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:20:26,198 - INFO -    Successful bypasses: 0
+2025-08-31 20:20:26,198 - INFO -    Success rate: 0.0%
+2025-08-31 20:20:26,198 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:20:26,198 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:20:26,199 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:20:26,199 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:20:26,209 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:20:26,209 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:20:26,209 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:20:26,213 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_202026.json
+2025-08-31 20:20:26,213 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:20:26,213 - INFO - ================================================================================
+2025-08-31 20:20:26,213 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:20:26,213 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:20:26,213 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:20:26,213 - INFO -    Total Tests: 5
+2025-08-31 20:20:26,213 - INFO -    Successful Bypasses: 0
+2025-08-31 20:20:26,213 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:20:26,213 - INFO - ⏱️ Total Execution Time: 33.58s
+2025-08-31 20:20:26,213 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:20:26,213 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:20:26,213 - INFO - ================================================================================
+2025-08-31 20:20:26,213 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:20:26,439 - INFO - 🧹 Cleanup completed
+2025-08-31 20:23:18,312 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:23:18,313 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:23:18,313 - INFO - ================================================================================
+2025-08-31 20:23:18,313 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:23:22,897 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:23:22,909 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:23:22,909 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:23:22,909 - INFO - ================================================================================
+2025-08-31 20:23:22,909 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:23:22,909 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:23:22,909 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:23:22,910 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:23:22,910 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:23:22,910 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:23:22,910 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:23:22,910 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:23:22,910 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:23:22,911 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:23:22,911 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:23:22,911 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:23:22,911 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:23:22,911 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:23:27,967 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:23:28,053 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:23:28,143 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:23:30,148 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:23:34,445 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:23:34,505 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:23:34,600 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:23:36,605 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:23:41,009 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:23:41,070 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:23:41,155 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:23:43,161 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:23:47,371 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:23:47,417 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:23:47,493 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:23:49,498 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:23:53,686 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:23:53,737 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:23:53,903 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:23:55,910 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:23:55,911 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:23:55,911 - INFO -    Successful bypasses: 0
+2025-08-31 20:23:55,911 - INFO -    Success rate: 0.0%
+2025-08-31 20:23:55,911 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:23:55,912 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:23:55,912 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:23:55,912 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:23:55,923 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:23:55,923 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:23:55,923 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:23:55,929 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_202355.json
+2025-08-31 20:23:55,929 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:23:55,929 - INFO - ================================================================================
+2025-08-31 20:23:55,929 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:23:55,929 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:23:55,929 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:23:55,929 - INFO -    Total Tests: 5
+2025-08-31 20:23:55,929 - INFO -    Successful Bypasses: 0
+2025-08-31 20:23:55,929 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:23:55,929 - INFO - ⏱️ Total Execution Time: 33.02s
+2025-08-31 20:23:55,929 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:23:55,929 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:23:55,929 - INFO - ================================================================================
+2025-08-31 20:23:55,929 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:23:56,147 - INFO - 🧹 Cleanup completed
+2025-08-31 20:25:24,131 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:25:24,131 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:25:24,131 - INFO - ================================================================================
+2025-08-31 20:25:24,131 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:25:29,190 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:25:29,207 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:25:29,207 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:25:29,207 - INFO - ================================================================================
+2025-08-31 20:25:29,225 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:25:29,225 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:25:29,225 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:25:29,225 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:25:29,225 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:25:29,225 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:25:29,226 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:25:29,242 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:25:29,243 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:25:29,243 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:25:29,243 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:25:29,277 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:25:29,277 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:25:29,277 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:25:34,419 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:25:34,505 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:25:34,594 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:25:36,598 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:25:40,735 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:25:40,792 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:25:40,885 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:25:42,890 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:25:47,022 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:25:47,073 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:25:47,160 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:25:49,165 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:25:53,244 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:25:53,296 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:25:53,370 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:25:55,374 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:25:59,480 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:25:59,538 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:25:59,618 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:26:01,624 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:26:01,624 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:26:01,624 - INFO -    Successful bypasses: 0
+2025-08-31 20:26:01,624 - INFO -    Success rate: 0.0%
+2025-08-31 20:26:01,624 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:26:01,625 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:26:01,625 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:26:01,625 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:26:01,632 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:26:01,633 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:26:01,633 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:26:01,637 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_202601.json
+2025-08-31 20:26:01,637 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:26:01,637 - INFO - ================================================================================
+2025-08-31 20:26:01,637 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:26:01,637 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:26:01,637 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:26:01,637 - INFO -    Total Tests: 5
+2025-08-31 20:26:01,637 - INFO -    Successful Bypasses: 0
+2025-08-31 20:26:01,637 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:26:01,637 - INFO - ⏱️ Total Execution Time: 32.41s
+2025-08-31 20:26:01,637 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:26:01,637 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:26:01,637 - INFO - ================================================================================
+2025-08-31 20:26:01,637 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:26:01,866 - INFO - 🧹 Cleanup completed
+2025-08-31 20:26:27,119 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:26:27,119 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:26:27,119 - INFO - ================================================================================
+2025-08-31 20:26:27,119 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:26:32,490 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:26:32,507 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:26:32,507 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:26:32,507 - INFO - ================================================================================
+2025-08-31 20:26:32,507 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:26:32,508 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:26:32,508 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:26:32,508 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:26:32,508 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:26:32,508 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:26:32,508 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:26:32,526 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:26:32,526 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:26:32,527 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:26:32,545 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:26:32,545 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:26:32,545 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:26:32,545 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:26:37,418 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:26:37,497 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:26:37,576 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:26:39,579 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:26:43,787 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:26:43,838 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:26:43,919 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:26:45,924 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:26:50,205 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:26:50,268 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:26:50,353 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:26:52,359 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:26:56,509 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:26:56,555 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:26:56,631 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:26:58,638 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:27:02,803 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:27:02,866 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:27:02,951 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:27:04,956 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:27:04,956 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:27:04,956 - INFO -    Successful bypasses: 0
+2025-08-31 20:27:04,956 - INFO -    Success rate: 0.0%
+2025-08-31 20:27:04,956 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:27:04,957 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:27:04,957 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:27:04,957 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:27:04,964 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:27:04,965 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:27:04,965 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:27:04,968 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_202704.json
+2025-08-31 20:27:04,969 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:27:04,969 - INFO - ================================================================================
+2025-08-31 20:27:04,969 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:27:04,969 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:27:04,969 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:27:04,969 - INFO -    Total Tests: 5
+2025-08-31 20:27:04,969 - INFO -    Successful Bypasses: 0
+2025-08-31 20:27:04,969 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:27:04,969 - INFO - ⏱️ Total Execution Time: 32.46s
+2025-08-31 20:27:04,969 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:27:04,969 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:27:04,969 - INFO - ================================================================================
+2025-08-31 20:27:04,969 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:27:05,165 - INFO - 🧹 Cleanup completed
+2025-08-31 20:27:37,334 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:27:37,334 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:27:37,334 - INFO - ================================================================================
+2025-08-31 20:27:37,334 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:27:42,139 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:27:42,145 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:27:42,145 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:27:42,146 - INFO - ================================================================================
+2025-08-31 20:27:42,146 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:27:42,146 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:27:42,164 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:27:42,164 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:27:42,164 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:27:42,164 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:27:42,165 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:27:42,182 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:27:42,182 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:27:42,182 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:27:42,200 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:27:42,201 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:27:42,217 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:27:42,217 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:27:46,923 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:27:47,042 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:27:47,150 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:27:49,156 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:27:53,445 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:27:53,519 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:27:53,621 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:27:55,624 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:27:59,769 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:27:59,845 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:27:59,940 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:28:01,941 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:28:06,381 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:28:06,425 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:28:06,495 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:28:08,500 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:28:12,656 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:28:12,712 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:28:12,789 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:28:14,793 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:28:14,793 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:28:14,794 - INFO -    Successful bypasses: 0
+2025-08-31 20:28:14,794 - INFO -    Success rate: 0.0%
+2025-08-31 20:28:14,794 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:28:14,794 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:28:14,794 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:28:14,794 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:28:14,800 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:28:14,800 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:28:14,800 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:28:14,804 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_202814.json
+2025-08-31 20:28:14,804 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:28:14,804 - INFO - ================================================================================
+2025-08-31 20:28:14,804 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:28:14,805 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:28:14,805 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:28:14,805 - INFO -    Total Tests: 5
+2025-08-31 20:28:14,805 - INFO -    Successful Bypasses: 0
+2025-08-31 20:28:14,805 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:28:14,805 - INFO - ⏱️ Total Execution Time: 32.66s
+2025-08-31 20:28:14,805 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:28:14,805 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:28:14,805 - INFO - ================================================================================
+2025-08-31 20:28:14,805 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:28:15,003 - INFO - 🧹 Cleanup completed
+2025-08-31 20:33:11,392 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:33:11,392 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:33:11,392 - INFO - ================================================================================
+2025-08-31 20:33:11,392 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:33:16,033 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:33:16,064 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:33:16,064 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:33:16,064 - INFO - ================================================================================
+2025-08-31 20:33:16,065 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:33:16,065 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:33:16,065 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:33:16,065 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:33:16,065 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:33:16,065 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:33:16,065 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:33:16,083 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:33:16,083 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:33:16,084 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:33:16,084 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:33:16,102 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:33:16,102 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:33:16,102 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:33:22,717 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:33:22,809 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:33:24,051 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:33:26,056 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:33:30,319 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:33:30,363 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:33:31,567 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:33:33,572 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:33:37,834 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:33:37,901 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:33:39,092 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:33:41,095 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:33:45,772 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:33:45,830 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:33:47,016 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:33:49,023 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:33:53,085 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:33:53,180 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:33:54,369 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:34:23,342 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:34:23,343 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:34:23,343 - INFO -    Successful bypasses: 0
+2025-08-31 20:34:23,344 - INFO -    Success rate: 0.0%
+2025-08-31 20:34:23,344 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:34:23,352 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:34:23,352 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:34:23,352 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:34:23,482 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:34:23,482 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:34:23,482 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:34:23,495 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_203423.json
+2025-08-31 20:34:23,495 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:34:23,496 - INFO - ================================================================================
+2025-08-31 20:34:23,496 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:34:23,496 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:34:23,496 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:34:23,496 - INFO -    Total Tests: 5
+2025-08-31 20:34:23,496 - INFO -    Successful Bypasses: 0
+2025-08-31 20:34:23,496 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:34:23,496 - INFO - ⏱️ Total Execution Time: 67.42s
+2025-08-31 20:34:23,496 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:34:23,496 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:34:23,496 - INFO - ================================================================================
+2025-08-31 20:34:23,496 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:34:23,871 - INFO - 🧹 Cleanup completed
+2025-08-31 20:35:13,468 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:35:13,468 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:35:13,468 - INFO - ================================================================================
+2025-08-31 20:35:13,468 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:35:17,757 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:35:17,767 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:35:17,768 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:35:17,801 - INFO - ================================================================================
+2025-08-31 20:35:17,801 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:35:17,802 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:35:17,802 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:35:17,802 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:35:17,819 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:35:17,827 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:35:17,844 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:35:17,859 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:35:17,874 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:35:17,878 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:35:17,893 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:35:17,893 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:35:17,894 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:35:17,894 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:35:23,674 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:35:23,761 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:35:39,644 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:35:41,649 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:35:45,895 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:35:45,999 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:35:46,586 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:35:48,591 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:35:52,724 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:35:52,788 - INFO - ✅ Found CAPTCHA iframe with 35 CAPTCHA elements
+2025-08-31 20:35:52,842 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:35:54,842 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:35:58,922 - WARNING - ⚠️ Error detecting CAPTCHA: Page.evaluate: Target page, context or browser has been closed
+2025-08-31 20:35:58,922 - INFO - ℹ️ No CAPTCHA detected
+2025-08-31 20:36:00,924 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:36:00,929 - ERROR - ❌ Error testing https://www.g2.com/compare/notion-vs-obsidian: Page.goto: Target page, context or browser has been closed
+2025-08-31 20:36:00,929 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:36:00,929 - INFO -    Total CAPTCHA tests: 3
+2025-08-31 20:36:00,929 - INFO -    Successful bypasses: 0
+2025-08-31 20:36:00,929 - INFO -    Success rate: 0.0%
+2025-08-31 20:36:00,929 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:36:00,930 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:36:00,930 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:36:00,930 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:36:00,932 - ERROR - ❌ Error in anti-detection testing: Page.evaluate: Target page, context or browser has been closed
+2025-08-31 20:36:00,933 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:36:00,933 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:36:00,934 - ERROR - ❌ Error in performance analysis: Page.evaluate: Target page, context or browser has been closed
+2025-08-31 20:36:00,935 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_203600.json
+2025-08-31 20:36:00,935 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:36:00,936 - INFO - ================================================================================
+2025-08-31 20:36:00,936 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:36:00,936 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:36:00,936 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:36:00,936 - INFO -    Total Tests: 3
+2025-08-31 20:36:00,936 - INFO -    Successful Bypasses: 0
+2025-08-31 20:36:00,936 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:36:00,936 - INFO - ⏱️ Total Execution Time: 43.13s
+2025-08-31 20:36:00,936 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:36:00,936 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:36:00,936 - INFO - ================================================================================
+2025-08-31 20:36:00,936 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:36:01,089 - INFO - 🧹 Cleanup completed
+2025-08-31 20:36:44,272 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:36:44,273 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:36:44,273 - INFO - ================================================================================
+2025-08-31 20:36:44,273 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:36:48,509 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:36:48,527 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:36:48,527 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:36:48,528 - INFO - ================================================================================
+2025-08-31 20:36:48,563 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:36:48,563 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:36:48,563 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:36:48,564 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:36:48,581 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:36:48,581 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:36:48,581 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:36:48,582 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:36:48,582 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:36:48,582 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:36:48,599 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:36:48,600 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:36:48,600 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:36:48,600 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:36:53,837 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:36:53,930 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:36:55,159 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:36:57,164 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:37:01,452 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:37:01,520 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:37:02,727 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:37:04,732 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:37:09,110 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:37:09,167 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:37:10,340 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:37:12,345 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:37:16,484 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:37:16,533 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:37:17,945 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:37:19,949 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:37:24,320 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:37:24,392 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:37:25,571 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:37:27,574 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:37:27,574 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:37:27,574 - INFO -    Successful bypasses: 0
+2025-08-31 20:37:27,575 - INFO -    Success rate: 0.0%
+2025-08-31 20:37:27,575 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:37:27,575 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:37:27,575 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:37:27,575 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:37:27,581 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:37:27,581 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:37:27,581 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:37:27,600 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_203727.json
+2025-08-31 20:37:27,600 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:37:27,600 - INFO - ================================================================================
+2025-08-31 20:37:27,600 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:37:27,601 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:37:27,601 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:37:27,601 - INFO -    Total Tests: 5
+2025-08-31 20:37:27,601 - INFO -    Successful Bypasses: 0
+2025-08-31 20:37:27,601 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:37:27,601 - INFO - ⏱️ Total Execution Time: 39.02s
+2025-08-31 20:37:27,601 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:37:27,601 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:37:27,601 - INFO - ================================================================================
+2025-08-31 20:37:27,601 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:37:27,836 - INFO - 🧹 Cleanup completed
+2025-08-31 20:46:09,853 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:46:09,853 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:46:09,853 - INFO - ================================================================================
+2025-08-31 20:46:09,853 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:46:14,579 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:46:14,586 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:46:14,586 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:46:14,586 - INFO - ================================================================================
+2025-08-31 20:46:14,586 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:46:14,586 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:46:14,586 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:46:14,586 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:46:14,587 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:46:14,587 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:46:14,587 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:46:21,204 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:46:21,295 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:46:25,605 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:46:27,611 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:46:31,814 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:46:31,887 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:46:36,109 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:46:38,112 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:46:42,504 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:46:42,561 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:46:46,719 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:46:48,726 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:46:53,040 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:46:53,107 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:46:57,590 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:46:59,594 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:47:03,804 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:47:03,854 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:47:07,865 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:47:09,870 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:47:09,870 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:47:09,870 - INFO -    Successful bypasses: 0
+2025-08-31 20:47:09,870 - INFO -    Success rate: 0.0%
+2025-08-31 20:47:09,870 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:47:09,870 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:47:09,871 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:47:09,871 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:47:09,880 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:47:09,880 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:47:09,880 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:47:09,885 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_204709.json
+2025-08-31 20:47:09,885 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:47:09,885 - INFO - ================================================================================
+2025-08-31 20:47:09,885 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:47:09,885 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:47:09,885 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:47:09,885 - INFO -    Total Tests: 5
+2025-08-31 20:47:09,885 - INFO -    Successful Bypasses: 0
+2025-08-31 20:47:09,885 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:47:09,885 - INFO - ⏱️ Total Execution Time: 55.30s
+2025-08-31 20:47:09,885 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:47:09,886 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:47:09,886 - INFO - ================================================================================
+2025-08-31 20:47:09,886 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:47:10,108 - INFO - 🧹 Cleanup completed
+2025-08-31 20:47:59,161 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 20:47:59,161 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:47:59,162 - INFO - ================================================================================
+2025-08-31 20:47:59,162 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 20:48:03,708 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 20:48:03,742 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 20:48:03,757 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 20:48:03,757 - INFO - ================================================================================
+2025-08-31 20:48:03,757 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 20:48:03,757 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 20:48:03,757 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 20:48:03,757 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 20:48:03,758 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 20:48:03,758 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 20:48:03,758 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 20:48:03,776 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 20:48:03,793 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 20:48:03,797 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 20:48:03,797 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 20:48:03,797 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 20:48:03,797 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 20:48:03,797 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 20:48:09,077 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:48:09,168 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:48:13,409 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:48:15,410 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 20:48:19,735 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:48:19,800 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:48:23,856 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:48:25,862 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 20:48:30,184 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:48:30,239 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:48:34,212 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:48:36,218 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 20:48:40,466 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:48:40,522 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:48:44,622 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:48:46,624 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 20:48:50,870 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 20:48:50,922 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 20:48:55,072 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 20:48:57,075 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 20:48:57,075 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 20:48:57,075 - INFO -    Successful bypasses: 0
+2025-08-31 20:48:57,075 - INFO -    Success rate: 0.0%
+2025-08-31 20:48:57,075 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 20:48:57,075 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 20:48:57,075 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 20:48:57,075 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 20:48:57,081 - INFO - ✅ No bot detection indicators found
+2025-08-31 20:48:57,081 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 20:48:57,081 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 20:48:57,086 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_204857.json
+2025-08-31 20:48:57,086 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 20:48:57,086 - INFO - ================================================================================
+2025-08-31 20:48:57,086 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 20:48:57,086 - INFO -    Implemented Strengths: 8/8
+2025-08-31 20:48:57,086 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 20:48:57,086 - INFO -    Total Tests: 5
+2025-08-31 20:48:57,086 - INFO -    Successful Bypasses: 0
+2025-08-31 20:48:57,086 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 20:48:57,086 - INFO - ⏱️ Total Execution Time: 53.33s
+2025-08-31 20:48:57,087 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 20:48:57,087 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 20:48:57,087 - INFO - ================================================================================
+2025-08-31 20:48:57,087 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 20:48:57,319 - INFO - 🧹 Cleanup completed
+2025-08-31 21:24:33,671 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 21:24:33,671 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:24:33,671 - INFO - ================================================================================
+2025-08-31 21:24:33,671 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 21:24:39,458 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 21:24:39,470 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 21:24:39,470 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:24:39,470 - INFO - ================================================================================
+2025-08-31 21:24:39,471 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 21:24:39,471 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 21:24:39,471 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 21:24:39,471 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 21:24:39,471 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 21:24:39,471 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 21:24:39,471 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 21:24:45,911 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:24:45,996 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:24:49,951 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:24:51,952 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 21:24:56,109 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:24:56,174 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:25:00,236 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:25:02,237 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 21:25:06,331 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:25:06,387 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:25:10,732 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:25:12,735 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 21:25:16,907 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:25:16,970 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:25:21,117 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:25:23,123 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 21:25:27,249 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:25:27,305 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:25:31,833 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:25:33,839 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 21:25:33,839 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 21:25:33,839 - INFO -    Successful bypasses: 0
+2025-08-31 21:25:33,840 - INFO -    Success rate: 0.0%
+2025-08-31 21:25:33,840 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 21:25:33,840 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 21:25:33,840 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 21:25:33,840 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 21:25:33,846 - INFO - ✅ No bot detection indicators found
+2025-08-31 21:25:33,846 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 21:25:33,846 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 21:25:33,850 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_212533.json
+2025-08-31 21:25:33,850 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 21:25:33,850 - INFO - ================================================================================
+2025-08-31 21:25:33,850 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 21:25:33,850 - INFO -    Implemented Strengths: 8/8
+2025-08-31 21:25:33,850 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 21:25:33,850 - INFO -    Total Tests: 5
+2025-08-31 21:25:33,850 - INFO -    Successful Bypasses: 0
+2025-08-31 21:25:33,850 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 21:25:33,850 - INFO - ⏱️ Total Execution Time: 54.38s
+2025-08-31 21:25:33,850 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 21:25:33,850 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 21:25:33,850 - INFO - ================================================================================
+2025-08-31 21:25:33,851 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 21:25:34,049 - INFO - 🧹 Cleanup completed
+2025-08-31 21:26:08,213 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 21:26:08,213 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:26:08,213 - INFO - ================================================================================
+2025-08-31 21:26:08,213 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 21:26:12,457 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 21:26:12,469 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 21:26:12,486 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:26:12,486 - INFO - ================================================================================
+2025-08-31 21:26:12,486 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 21:26:12,504 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 21:26:12,504 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 21:26:12,504 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 21:26:12,504 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 21:26:12,504 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 21:26:12,504 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 21:26:18,341 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:26:18,442 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:26:21,606 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:26:23,611 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 21:26:27,825 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:26:27,907 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:26:31,257 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:26:33,263 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 21:26:37,440 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:26:37,505 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:26:40,553 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:26:42,558 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 21:26:46,690 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:26:46,749 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:26:49,556 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:26:51,557 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 21:26:55,711 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:26:55,783 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:26:58,688 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:27:00,691 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 21:27:00,691 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 21:27:00,691 - INFO -    Successful bypasses: 0
+2025-08-31 21:27:00,691 - INFO -    Success rate: 0.0%
+2025-08-31 21:27:00,691 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 21:27:00,691 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 21:27:00,691 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 21:27:00,691 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 21:27:00,697 - INFO - ✅ No bot detection indicators found
+2025-08-31 21:27:00,697 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 21:27:00,697 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 21:27:00,702 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_212700.json
+2025-08-31 21:27:00,702 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 21:27:00,702 - INFO - ================================================================================
+2025-08-31 21:27:00,702 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 21:27:00,702 - INFO -    Implemented Strengths: 8/8
+2025-08-31 21:27:00,702 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 21:27:00,703 - INFO -    Total Tests: 5
+2025-08-31 21:27:00,703 - INFO -    Successful Bypasses: 0
+2025-08-31 21:27:00,703 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 21:27:00,703 - INFO - ⏱️ Total Execution Time: 48.21s
+2025-08-31 21:27:00,703 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 21:27:00,703 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 21:27:00,703 - INFO - ================================================================================
+2025-08-31 21:27:00,703 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 21:27:00,910 - INFO - 🧹 Cleanup completed
+2025-08-31 21:27:19,026 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 21:27:19,026 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:27:19,026 - INFO - ================================================================================
+2025-08-31 21:27:19,026 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 21:27:23,752 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 21:27:23,752 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 21:27:23,752 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:27:23,752 - INFO - ================================================================================
+2025-08-31 21:27:23,752 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 21:27:23,752 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 21:27:23,752 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 21:27:23,752 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 21:27:23,770 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 21:27:23,771 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 21:27:23,771 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 21:27:23,771 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 21:27:23,787 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 21:27:23,787 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 21:27:23,788 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 21:27:23,788 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 21:27:23,788 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 21:27:23,788 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 21:27:28,891 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:27:28,982 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:27:33,084 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:27:35,089 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 21:27:39,274 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:27:39,334 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:27:43,629 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:27:45,630 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 21:27:49,818 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:27:49,883 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:27:54,133 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:27:56,139 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 21:28:00,291 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:28:00,354 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:28:04,440 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:28:06,445 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 21:28:10,565 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:28:10,626 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:28:14,798 - WARNING - ⚠️ CAPTCHA bypass failed
+2025-08-31 21:28:16,804 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 21:28:16,804 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 21:28:16,804 - INFO -    Successful bypasses: 0
+2025-08-31 21:28:16,804 - INFO -    Success rate: 0.0%
+2025-08-31 21:28:16,804 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 21:28:16,804 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 21:28:16,804 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 21:28:16,804 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 21:28:16,810 - INFO - ✅ No bot detection indicators found
+2025-08-31 21:28:16,810 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 21:28:16,810 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 21:28:16,814 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_212816.json
+2025-08-31 21:28:16,814 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 21:28:16,814 - INFO - ================================================================================
+2025-08-31 21:28:16,814 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 21:28:16,814 - INFO -    Implemented Strengths: 8/8
+2025-08-31 21:28:16,814 - INFO - 🧩 CAPTCHA Bypass Success Rate: 0.0%
+2025-08-31 21:28:16,814 - INFO -    Total Tests: 5
+2025-08-31 21:28:16,814 - INFO -    Successful Bypasses: 0
+2025-08-31 21:28:16,814 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 21:28:16,814 - INFO - ⏱️ Total Execution Time: 53.06s
+2025-08-31 21:28:16,814 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 21:28:16,814 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 21:28:16,814 - INFO - ================================================================================
+2025-08-31 21:28:16,814 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 21:28:17,020 - INFO - 🧹 Cleanup completed
+2025-08-31 21:32:00,999 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 21:32:00,999 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:32:00,999 - INFO - ================================================================================
+2025-08-31 21:32:00,999 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 21:32:05,360 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 21:32:05,386 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 21:32:05,396 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:32:05,414 - INFO - ================================================================================
+2025-08-31 21:32:05,429 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 21:32:05,449 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 21:32:05,459 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 21:32:05,478 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 21:32:05,494 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 21:32:05,494 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 21:32:05,494 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 21:32:05,494 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 21:32:05,494 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 21:32:05,494 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 21:32:05,495 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 21:32:05,495 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 21:32:05,495 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 21:32:05,495 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 21:32:10,691 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:32:10,775 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:32:14,843 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:32:16,897 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 21:32:21,031 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:32:21,086 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:32:24,956 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:32:26,973 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 21:32:31,082 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:32:31,138 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:32:35,699 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:32:37,715 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 21:32:41,833 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:32:41,892 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:32:46,068 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:32:48,084 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 21:32:52,237 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:32:52,292 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:32:56,516 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:32:58,529 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 21:32:58,530 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 21:32:58,530 - INFO -    Successful bypasses: 5
+2025-08-31 21:32:58,530 - INFO -    Success rate: 100.0%
+2025-08-31 21:32:58,530 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 21:32:58,530 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 21:32:58,530 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 21:32:58,531 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 21:32:58,540 - INFO - ✅ No bot detection indicators found
+2025-08-31 21:32:58,540 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 21:32:58,540 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 21:32:58,544 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_213258.json
+2025-08-31 21:32:58,544 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 21:32:58,544 - INFO - ================================================================================
+2025-08-31 21:32:58,544 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 21:32:58,544 - INFO -    Implemented Strengths: 8/8
+2025-08-31 21:32:58,545 - INFO - 🧩 CAPTCHA Bypass Success Rate: 100.0%
+2025-08-31 21:32:58,545 - INFO -    Total Tests: 5
+2025-08-31 21:32:58,545 - INFO -    Successful Bypasses: 5
+2025-08-31 21:32:58,545 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 21:32:58,545 - INFO - ⏱️ Total Execution Time: 53.11s
+2025-08-31 21:32:58,545 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 21:32:58,545 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 21:32:58,545 - INFO - ================================================================================
+2025-08-31 21:32:58,545 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 21:32:58,765 - INFO - 🧹 Cleanup completed
+2025-08-31 21:46:08,843 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 21:46:08,843 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:46:08,843 - INFO - ================================================================================
+2025-08-31 21:46:08,843 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 21:46:11,197 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 21:46:11,199 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 21:46:11,199 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 21:46:11,217 - INFO - ================================================================================
+2025-08-31 21:46:11,217 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 21:46:11,218 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 21:46:11,234 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 21:46:11,234 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 21:46:11,235 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 21:46:11,235 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 21:46:11,252 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 21:46:11,252 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 21:46:11,252 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 21:46:11,252 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 21:46:11,253 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 21:46:11,253 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 21:46:11,270 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 21:46:11,270 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 21:46:16,641 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:46:16,707 - INFO - ✅ Found CAPTCHA iframe with 72 CAPTCHA elements
+2025-08-31 21:46:20,987 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:46:23,005 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 21:46:27,257 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:46:27,339 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:46:31,470 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:46:33,486 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 21:46:37,564 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:46:37,622 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:46:41,995 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:46:44,015 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 21:46:48,131 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:46:48,181 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:46:52,182 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:46:54,199 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 21:46:58,311 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 21:46:58,360 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 21:47:02,579 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 21:47:04,593 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 21:47:04,594 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 21:47:04,594 - INFO -    Successful bypasses: 5
+2025-08-31 21:47:04,594 - INFO -    Success rate: 100.0%
+2025-08-31 21:47:04,594 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 21:47:04,594 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 21:47:04,594 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 21:47:04,594 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 21:47:04,597 - INFO - ✅ No bot detection indicators found
+2025-08-31 21:47:04,597 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 21:47:04,597 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 21:47:04,602 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_214704.json
+2025-08-31 21:47:04,602 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 21:47:04,602 - INFO - ================================================================================
+2025-08-31 21:47:04,602 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 21:47:04,602 - INFO -    Implemented Strengths: 8/8
+2025-08-31 21:47:04,602 - INFO - 🧩 CAPTCHA Bypass Success Rate: 100.0%
+2025-08-31 21:47:04,603 - INFO -    Total Tests: 5
+2025-08-31 21:47:04,603 - INFO -    Successful Bypasses: 5
+2025-08-31 21:47:04,603 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 21:47:04,603 - INFO - ⏱️ Total Execution Time: 53.38s
+2025-08-31 21:47:04,603 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 21:47:04,603 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 21:47:04,603 - INFO - ================================================================================
+2025-08-31 21:47:04,603 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 21:47:04,793 - INFO - 🧹 Cleanup completed
+2025-08-31 22:03:52,132 - INFO - 🚀 CHIMERA-ULTIMATE COMPREHENSIVE TESTING
+2025-08-31 22:03:52,132 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 22:03:52,132 - INFO - ================================================================================
+2025-08-31 22:03:52,132 - INFO - 🚀 Initializing Chimera-Ultimate scraper for comprehensive testing...
+2025-08-31 22:03:54,969 - INFO - ✅ Chimera-Ultimate scraper initialized successfully
+2025-08-31 22:03:54,996 - INFO - 🧪 STARTING COMPREHENSIVE TEST SUITE
+2025-08-31 22:03:54,996 - INFO - 🎯 Based on COMPREHENSIVE_SCRAPER_STRATEGIC_ANALYSIS.md
+2025-08-31 22:03:54,996 - INFO - ================================================================================
+2025-08-31 22:03:54,997 - INFO - 📊 PHASE 1: Strategic Strength Validation
+2025-08-31 22:03:54,997 - INFO - 🔍 Validating strategic strengths...
+2025-08-31 22:03:55,017 - INFO - ✅ Fixed coordinate system: IMPLEMENTED
+2025-08-31 22:03:55,021 - INFO - ✅ Math.floor precision: IMPLEMENTED
+2025-08-31 22:03:55,021 - INFO - ✅ Exact JavaScript architecture: IMPLEMENTED
+2025-08-31 22:03:55,021 - INFO - ✅ Anti-bot rulebook compliance: IMPLEMENTED
+2025-08-31 22:03:55,021 - INFO - ✅ Browser stealth configuration: IMPLEMENTED
+2025-08-31 22:03:55,021 - INFO - ✅ Natural movement patterns: IMPLEMENTED
+2025-08-31 22:03:55,021 - INFO - ✅ Enhanced mathematical functions: IMPLEMENTED
+2025-08-31 22:03:55,039 - INFO - ✅ Comprehensive success validation: IMPLEMENTED
+2025-08-31 22:03:55,039 - INFO - 📊 Strategic Compliance Score: 100.0% (8/8)
+2025-08-31 22:03:55,039 - INFO - 🧩 PHASE 2: Real CAPTCHA Bypass Testing
+2025-08-31 22:03:55,040 - INFO - 🧩 Testing real CAPTCHA bypass capabilities...
+2025-08-31 22:03:55,040 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense
+2025-08-31 22:04:01,922 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 22:04:02,006 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 22:04:06,071 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 22:04:08,090 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/tableau-vs-microsoft-power-bi
+2025-08-31 22:04:12,351 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 22:04:12,414 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 22:04:16,708 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 22:04:18,721 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/salesforce-vs-hubspot
+2025-08-31 22:04:22,845 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 22:04:22,891 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 22:04:27,145 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 22:04:29,160 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/zoom-vs-microsoft-teams
+2025-08-31 22:04:33,449 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 22:04:33,500 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 22:04:37,571 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 22:04:39,589 - INFO - 🎯 Testing CAPTCHA bypass on: https://www.g2.com/compare/notion-vs-obsidian
+2025-08-31 22:04:43,702 - INFO - 🧩 CAPTCHA detected - attempting bypass...
+2025-08-31 22:04:43,749 - INFO - ✅ Found CAPTCHA iframe with 71 CAPTCHA elements
+2025-08-31 22:04:47,938 - INFO - ✅ CAPTCHA bypass successful!
+2025-08-31 22:04:49,955 - INFO - 📊 CAPTCHA Bypass Results:
+2025-08-31 22:04:49,955 - INFO -    Total CAPTCHA tests: 5
+2025-08-31 22:04:49,955 - INFO -    Successful bypasses: 5
+2025-08-31 22:04:49,955 - INFO -    Success rate: 100.0%
+2025-08-31 22:04:49,955 - INFO - 📈 PHASE 3: Data Extraction Validation
+2025-08-31 22:04:49,955 - INFO - 📈 Testing data extraction capabilities...
+2025-08-31 22:04:49,955 - INFO - 🛡️ PHASE 4: Anti-Detection Validation
+2025-08-31 22:04:49,955 - INFO - 🛡️ Testing anti-detection capabilities...
+2025-08-31 22:04:49,961 - INFO - ✅ No bot detection indicators found
+2025-08-31 22:04:49,961 - INFO - ⚡ PHASE 5: Performance Analysis
+2025-08-31 22:04:49,961 - INFO - ⚡ Analyzing performance metrics...
+2025-08-31 22:04:49,966 - INFO - 💾 Comprehensive test report saved to: comprehensive_test_results/comprehensive_test_report_20250831_220449.json
+2025-08-31 22:04:49,966 - INFO - 🎉 COMPREHENSIVE TEST SUITE RESULTS
+2025-08-31 22:04:49,966 - INFO - ================================================================================
+2025-08-31 22:04:49,966 - INFO - 📊 Strategic Compliance: 100.0%
+2025-08-31 22:04:49,966 - INFO -    Implemented Strengths: 8/8
+2025-08-31 22:04:49,966 - INFO - 🧩 CAPTCHA Bypass Success Rate: 100.0%
+2025-08-31 22:04:49,966 - INFO -    Total Tests: 5
+2025-08-31 22:04:49,966 - INFO -    Successful Bypasses: 5
+2025-08-31 22:04:49,966 - INFO - 🎯 Overall Success Rate: 95.0%
+2025-08-31 22:04:49,966 - INFO - ⏱️ Total Execution Time: 54.97s
+2025-08-31 22:04:49,966 - INFO - 📈 Strategic Compliance Level: HIGH
+2025-08-31 22:04:49,966 - INFO - 🎯 Strategic Goals Met: True
+2025-08-31 22:04:49,966 - INFO - ================================================================================
+2025-08-31 22:04:49,966 - INFO - 🎉 Comprehensive testing completed successfully!
+2025-08-31 22:04:50,159 - INFO - 🧹 Cleanup completed

@@ -1,0 +1,154 @@
+{
+  "timestamp": "2025-08-31T21:44:37.360156",
+  "tests": [
+    {
+      "test_name": "CAPTCHA Bypass Capabilities",
+      "success_rate": 0.0,
+      "results": [
+        {
+          "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+          "success": false,
+          "captcha_detected": false,
+          "bypass_success": false,
+          "execution_time": 0
+        },
+        {
+          "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+          "success": false,
+          "captcha_detected": false,
+          "bypass_success": false,
+          "execution_time": 0
+        },
+        {
+          "url": "https://www.g2.com/compare/zoom-vs-microsoft-teams",
+          "success": false,
+          "captcha_detected": false,
+          "bypass_success": false,
+          "execution_time": 0
+        }
+      ],
+      "status": "FAIL"
+    },
+    {
+      "test_name": "Head-to-Head Comparison Scraping",
+      "success_rate": 0.0,
+      "results": [
+        {
+          "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+          "success": false,
+          "data_extracted": {},
+          "ai_summary_found": false,
+          "data_quality_score": 0
+        },
+        {
+          "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+          "success": false,
+          "data_extracted": {},
+          "ai_summary_found": false,
+          "data_quality_score": 0
+        },
+        {
+          "url": "https://www.g2.com/compare/zoom-vs-microsoft-teams",
+          "success": false,
+          "data_extracted": {},
+          "ai_summary_found": false,
+          "data_quality_score": 0
+        }
+      ],
+      "status": "FAIL"
+    },
+    {
+      "test_name": "Four-Way Comparison Scraping",
+      "success_rate": 0.0,
+      "results": [
+        {
+          "url": "https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense-vs-tableau-vs-domo",
+          "success": false,
+          "products_found": 0,
+          "data_quality_score": 0,
+          "extraction_confidence": 0
+        },
+        {
+          "url": "https://www.g2.com/compare/salesforce-vs-hubspot-vs-pipedrive-vs-zoho-crm",
+          "success": false,
+          "products_found": 0,
+          "data_quality_score": 0,
+          "extraction_confidence": 0
+        }
+      ],
+      "status": "FAIL"
+    },
+    {
+      "test_name": "AI-Generated Summary Extraction",
+      "success_rate": 0.0,
+      "results": [
+        {
+          "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+          "success": false,
+          "summaries_found": 0,
+          "summary_quality_score": 0,
+          "competitive_insights": []
+        },
+        {
+          "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+          "success": false,
+          "summaries_found": 0,
+          "summary_quality_score": 0,
+          "competitive_insights": []
+        }
+      ],
+      "status": "FAIL"
+    },
+    {
+      "test_name": "Comprehensive Data Extraction",
+      "success_rate": 0.0,
+      "results": [
+        {
+          "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+          "success": false,
+          "data_sections_found": 0,
+          "total_data_points": 0,
+          "data_quality_score": 0
+        }
+      ],
+      "status": "FAIL"
+    },
+    {
+      "test_name": "Anti-Detection and Stealth",
+      "success_rate": 0.0,
+      "results": [
+        {
+          "test": "Anti-Detection Measures",
+          "success": false,
+          "detection_avoided": false,
+          "stealth_score": 0
+        }
+      ],
+      "status": "FAIL"
+    },
+    {
+      "test_name": "Export and Analysis",
+      "success_rate": 100.0,
+      "results": [
+        {
+          "test": "Export Capabilities",
+          "success": true,
+          "formats_supported": [
+            "JSON",
+            "CSV"
+          ],
+          "export_quality": 100
+        }
+      ],
+      "status": "PASS"
+    }
+  ],
+  "summary": {
+    "total_tests": 7,
+    "passed_tests": 1,
+    "failed_tests": 6,
+    "overall_success_rate": 14.285714285714285,
+    "average_success_rate": 14.285714285714286,
+    "test_status": "FAIL"
+  }
+}

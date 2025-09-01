@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Capterra sentiment scraping targets for BI competitive intelligence",
+    "last_updated": "2025-01-20",
+    "total_competitors": 8,
+    "scraping_categories": [
+      "product_reviews",
+      "product_alternatives",
+      "comparison_insights"
+    ],
+    "priority_focus": "high_volume_review_scraping_for_foundational_insights",
+    "platform": "capterra",
+    "url_structure": "https://www.capterra.com/p/{product_id}/{product_name}/",
+    "anti_detection_focus": "cloudflare_bypass_and_human_behavior_simulation"
+  },
+  "competitors": {
+    "sigma": {
+      "name": "Sigma",
+      "capterra_product_id": "188405",
+      "capterra_product_name": "Sigma",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/188405/Sigma/reviews/",
+        "product_profile": "https://www.capterra.com/p/188405/Sigma/",
+        "alternatives": "https://www.capterra.com/p/188405/Sigma/alternatives/"
+      },
+      "metadata": {
+        "category": "modern_analytics",
+        "market_position": "emerging",
+        "primary_competitors": ["tableau", "power_bi", "looker"]
+      }
+    },
+    "power_bi": {
+      "name": "Microsoft Power BI",
+      "capterra_product_id": "176586",
+      "capterra_product_name": "Power-BI",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/176586/Power-BI/reviews/",
+        "product_profile": "https://www.capterra.com/p/176586/Power-BI/",
+        "alternatives": "https://www.capterra.com/p/176586/Power-BI/alternatives/"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "leader",
+        "primary_competitors": ["tableau", "qlik_sense", "looker"]
+      }
+    },
+    "tableau": {
+      "name": "Tableau",
+      "capterra_product_id": "208764",
+      "capterra_product_name": "Tableau",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/208764/Tableau/reviews/",
+        "product_profile": "https://www.capterra.com/p/208764/Tableau/",
+        "alternatives": "https://www.capterra.com/p/208764/Tableau/alternatives/"
+      },
+      "metadata": {
+        "category": "data_visualization",
+        "market_position": "leader",
+        "primary_competitors": ["power_bi", "qlik_sense", "looker"]
+      }
+    },
+    "looker": {
+      "name": "Looker",
+      "capterra_product_id": "169053",
+      "capterra_product_name": "Looker",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/169053/Looker/reviews/",
+        "product_profile": "https://www.capterra.com/p/169053/Looker/",
+        "alternatives": "https://www.capterra.com/p/169053/Looker/alternatives/"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "power_bi", "qlik_sense"]
+      }
+    },
+    "qlik_sense": {
+      "name": "Qlik Sense",
+      "capterra_product_id": "208764",
+      "capterra_product_name": "Qlik-Sense",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/208764/Qlik-Sense/reviews/",
+        "product_profile": "https://www.capterra.com/p/208764/Qlik-Sense/",
+        "alternatives": "https://www.capterra.com/p/208764/Qlik-Sense/alternatives/"
+      },
+      "metadata": {
+        "category": "business_intelligence",
+        "market_position": "established",
+        "primary_competitors": ["tableau", "power_bi", "looker"]
+      }
+    },
+    "snowflake": {
+      "name": "Snowflake",
+      "capterra_product_id": "188405",
+      "capterra_product_name": "Snowflake",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/188405/Snowflake/reviews/",
+        "product_profile": "https://www.capterra.com/p/188405/Snowflake/",
+        "alternatives": "https://www.capterra.com/p/188405/Snowflake/alternatives/"
+      },
+      "metadata": {
+        "category": "cloud_data_warehouse",
+        "market_position": "leader",
+        "primary_competitors": ["databricks", "amazon_redshift", "google_bigquery"]
+      }
+    },
+    "databricks": {
+      "name": "Databricks",
+      "capterra_product_id": "188405",
+      "capterra_product_name": "Databricks",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/188405/Databricks/reviews/",
+        "product_profile": "https://www.capterra.com/p/188405/Databricks/",
+        "alternatives": "https://www.capterra.com/p/188405/Databricks/alternatives/"
+      },
+      "metadata": {
+        "category": "unified_data_platform",
+        "market_position": "leader",
+        "primary_competitors": ["snowflake", "tableau", "qlik_sense"]
+      }
+    },
+    "google_analytics": {
+      "name": "Google Analytics",
+      "capterra_product_id": "188405",
+      "capterra_product_name": "Google-Analytics",
+      "targets": {
+        "product_reviews": "https://www.capterra.com/p/188405/Google-Analytics/reviews/",
+        "product_profile": "https://www.capterra.com/p/188405/Google-Analytics/",
+        "alternatives": "https://www.capterra.com/p/188405/Google-Analytics/alternatives/"
+      },
+      "metadata": {
+        "category": "web_analytics",
+        "market_position": "leader",
+        "primary_competitors": ["power_bi", "tableau", "looker"]
+      }
+    }
+  },
+  "scraping_priorities": {
+    "high_priority": ["product_reviews"],
+    "medium_priority": ["product_profile", "alternatives"],
+    "low_priority": ["comparison_insights"]
+  },
+  "review_scraping_focus": {
+    "primary_target": "High volume review text extraction for foundational sentiment analysis",
+    "secondary_target": "Product profile insights and alternatives discovery",
+    "data_quality": "Raw review text, ratings, volumes, and structured product data"
+  },
+  "selector_strategy": {
+    "based_on_screenshots": true,
+    "primary_selectors": {
+      "product_cards": "div[data-testid='alternative-card']",
+      "product_names": "h3, h4, .product-name",
+      "overall_ratings": "span[data-testid='star-rating-count']",
+      "review_counts": "span:contains('(') and contains(')')",
+      "pricing": "text:contains('Starting from:')",
+      "rating_categories": "div[data-testid='review-summary-item']"
+    },
+    "fallback_selectors": {
+      "product_cards": ".sb.card.padding-medium",
+      "ratings": ".star-rating-label",
+      "pricing": "text:contains('Per Month')"
+    }
+  }
+}

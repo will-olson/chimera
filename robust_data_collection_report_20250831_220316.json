@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-08-31T22:03:09.746077",
+  "test_results": [
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "captcha_bypassed": false,
+      "data_quality_score": 0,
+      "total_data_points": 0,
+      "ai_summaries_found": 0,
+      "products_found": 0,
+      "ratings_found": 0
+    },
+    {
+      "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "captcha_bypassed": false,
+      "data_quality_score": 0,
+      "total_data_points": 0,
+      "ai_summaries_found": 0,
+      "products_found": 0,
+      "ratings_found": 0
+    }
+  ],
+  "summary": {
+    "total_tests": 2,
+    "successful_tests": 0,
+    "success_rate": 0.0,
+    "captcha_bypassed_tests": 0,
+    "captcha_bypass_rate": 0.0,
+    "total_data_points_collected": 0,
+    "total_ai_summaries": 0,
+    "total_products": 0,
+    "total_ratings": 0,
+    "average_data_quality": 0
+  }
+}

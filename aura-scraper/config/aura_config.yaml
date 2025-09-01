@@ -1,0 +1,30 @@
+aura_lite:
+  browser:
+    headless: false
+    viewport:
+      width: 1920
+      height: 1080
+    stealth_mode: true
+  
+  cloudflare:
+    max_wait_time: 45
+    detection_methods: 6
+    bypass_attempts: 5
+  
+  scraping:
+    max_competitors: 3
+    delay_between_competitors: 20
+    max_reviews_per_competitor: 25
+    max_alternatives_per_competitor: 10
+  
+  anti_detection:
+    human_behavior: true
+    random_delays: true
+    user_agent_rotation: true
+    mouse_movements: true
+    scrolling_simulation: true
+  
+  data_export:
+    formats: ["json", "csv"]
+    include_raw_data: true
+    quality_validation: true

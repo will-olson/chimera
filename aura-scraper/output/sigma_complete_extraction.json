@@ -1,0 +1,189 @@
+{
+  "company_name": "Sigma",
+  "url": "https://www.capterra.com/p/188405/Sigma/reviews/",
+  "company_data": {
+    "company_name": "Reviews of Sigma Computing",
+    "company_logo": "",
+    "overall_rating": "Human ResourcesProduct Management & ProductivityMarketing & SalesOperations and Resource ManagementService SoftwareIT & SecurityFinance & AccountingLegal & ComplianceCustomer Service & SupportHospitalityHealthcare",
+    "review_count": "",
+    "pricing": ""
+  },
+  "reviews": [],
+  "alternatives": [],
+  "extraction_stats": {
+    "elements_found": 2,
+    "elements_missing": 2,
+    "extraction_errors": 1
+  },
+  "selectors_used": {
+    "company_info": {
+      "name": "h1",
+      "name_text": "Reviews of Sigma Computing"
+    },
+    "rating_info": {},
+    "reviews": {
+      "container_count": 4,
+      "container_selector": "article, .review, [class*=\"review\"], [data-testid*=\"review\"]",
+      "first_review_html": "<img alt=\"Joseph B. avatar\" data-testid=\"reviewer-profile-pic\" loading=\"lazy\" width=\"80\" height=\"80\" decoding=\"async\" data-nimg=\"1\" srcset=\"/assets-bx-capterra/_next/image?url=https%3A%2F%2Fcdn0.capterra-static.com%2Fprofile-images%2Flinkedin%2F4bbcc817c229a8e2004dfdc7c732561a.jpeg&amp;w=96&amp;q=75 1x, /assets-bx-capterra/_next/image?url=https%3A%2F%2Fcdn0.capterra-static.com%2Fprofile-images%2Flinkedin%2F4bbcc817c229a8e2004dfdc7c732561a.jpeg&amp;w=256&amp;q=75 2x\" src=\"https://www.capterra.com"
+    },
+    "pricing": {},
+    "alternatives": {},
+    "page_structure": {
+      "total_elements": 4221,
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Reviews of Sigma Computing",
+          "classes": "e1xzmg0z d72np9t"
+        },
+        {
+          "tag": "H2",
+          "text": "Pros and Cons in Reviews",
+          "classes": "e1xzmg0z hpgn492"
+        },
+        {
+          "tag": "H2",
+          "text": "Showing most helpful reviews",
+          "classes": "e1xzmg0z hpgn492"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Great model for rapidly evolving analytics\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Sigma - Powerful cloud analytics with an easy spreadsheet interface\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Sigma Review\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Excel for your data warehouse\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Incredibly Useful Tool for data analysis and workflow\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"It's growing on me!\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Sigma\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Great tool our needs - fast and easy navigation of snowflake data, quick reporting, data validation",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Excellent alternative to pivot tables and spreadsheets\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Easy use for non-SQL experts\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Great team and a good product\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"A useful tool for specific problems\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"It works!\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Good software to organize your KPIs\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Sigma Daily Use\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Good platform with potential\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Solid BI Tool to use for Enterprise Analytics\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Sigma for Usage Reports\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Up and Coming Software\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Integration Pipeline\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Sigma Computing Review\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Basic Reporting Tool\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Very Convenient Software to Use but have found less use for it as we've matured as a company\"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Decent \"",
+          "classes": "typo-20 font-semibold"
+        },
+        {
+          "tag": "H3",
+          "text": "\"Ease of pull\"",
+          "classes": "typo-20 font-semibold"
+        }
+      ],
+      "common_classes": {
+        "e1xzmg0z": 1985,
+        "i6uwf7i": 637,
+        "flex": 625,
+        "w-full": 382,
+        "s8onb8d": 370,
+        "text-neutral-99": 352,
+        "icon-star-full": 319,
+        "i1091fzf": 244,
+        "justify-between": 221,
+        "items-center": 220
+      }
+    }
+  }
+}

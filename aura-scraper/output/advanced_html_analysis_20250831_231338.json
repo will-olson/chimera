@@ -1,0 +1,237 @@
+{
+  "analysis_timestamp": "2025-08-31T23:13:38.887215",
+  "html_file": "Looker Features, Alternatives & More 2025 _ Capterra.html",
+  "review_analysis": {
+    "total_containers": 32,
+    "analyzed_reviews": 5,
+    "detailed_reviews": [
+      {
+        "index": 0,
+        "title": "\"Powerful tool that empowers data ownership\"",
+        "reviewer_name": "",
+        "reviewer_role": "",
+        "reviewer_company": "",
+        "review_date": "",
+        "star_rating": "5.0",
+        "review_text": "",
+        "pros": "",
+        "cons": "",
+        "html_structure": {
+          "container_classes": [
+            "flex",
+            "md:flex-row",
+            "md:items-start",
+            "gap-3",
+            "mb-2"
+          ],
+          "container_tag": "div",
+          "child_elements": [
+            "h4",
+            "div",
+            "div",
+            "div",
+            "div",
+            "svg",
+            "path",
+            "svg",
+            "path",
+            "svg"
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "title": "\"Solid dashboard tool\"",
+        "reviewer_name": "",
+        "reviewer_role": "",
+        "reviewer_company": "",
+        "review_date": "",
+        "star_rating": "5.0",
+        "review_text": "",
+        "pros": "",
+        "cons": "",
+        "html_structure": {
+          "container_classes": [
+            "flex",
+            "md:flex-row",
+            "md:items-start",
+            "gap-3",
+            "mb-2"
+          ],
+          "container_tag": "div",
+          "child_elements": [
+            "h4",
+            "div",
+            "div",
+            "div",
+            "div",
+            "svg",
+            "path",
+            "svg",
+            "path",
+            "svg"
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "title": "\"A Rich Tool Sometimes Overlooked Compared to Competition\"",
+        "reviewer_name": "",
+        "reviewer_role": "",
+        "reviewer_company": "",
+        "review_date": "",
+        "star_rating": "5.0",
+        "review_text": "",
+        "pros": "",
+        "cons": "",
+        "html_structure": {
+          "container_classes": [
+            "flex",
+            "md:flex-row",
+            "md:items-start",
+            "gap-3",
+            "mb-2"
+          ],
+          "container_tag": "div",
+          "child_elements": [
+            "h4",
+            "div",
+            "div",
+            "div",
+            "div",
+            "svg",
+            "path",
+            "svg",
+            "path",
+            "svg"
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "title": "\"Versatile and one size solution for data analytics\"",
+        "reviewer_name": "",
+        "reviewer_role": "",
+        "reviewer_company": "",
+        "review_date": "",
+        "star_rating": "5.0",
+        "review_text": "",
+        "pros": "",
+        "cons": "",
+        "html_structure": {
+          "container_classes": [
+            "flex",
+            "md:flex-row",
+            "md:items-start",
+            "gap-3",
+            "mb-2"
+          ],
+          "container_tag": "div",
+          "child_elements": [
+            "h4",
+            "div",
+            "div",
+            "div",
+            "div",
+            "svg",
+            "path",
+            "svg",
+            "path",
+            "svg"
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "title": "\"My go-to for client reports\"",
+        "reviewer_name": "",
+        "reviewer_role": "",
+        "reviewer_company": "",
+        "review_date": "",
+        "star_rating": "5.0",
+        "review_text": "",
+        "pros": "",
+        "cons": "",
+        "html_structure": {
+          "container_classes": [
+            "flex",
+            "md:flex-row",
+            "md:items-start",
+            "gap-3",
+            "mb-2"
+          ],
+          "container_tag": "div",
+          "child_elements": [
+            "h4",
+            "div",
+            "div",
+            "div",
+            "div",
+            "svg",
+            "path",
+            "svg",
+            "path",
+            "svg"
+          ]
+        }
+      }
+    ],
+    "container_patterns": {
+      "common_classes": {
+        "flex": 19,
+        "md:flex-row": 10,
+        "md:items-start": 10,
+        "gap-3": 10,
+        "mb-2": 11,
+        "hover:no-underline": 1,
+        "focus:outline-none": 1,
+        "focus-visible:ring-2": 1,
+        "focus-visible:ring-primary-80": 1,
+        "rounded": 1,
+        "hover:cursor-pointer": 1,
+        "cursor-pointer": 7,
+        "block": 4,
+        "md:hidden": 3,
+        "hidden": 2,
+        "md:block": 2,
+        "justify-between": 5,
+        "items-center": 9,
+        "mb-4": 5,
+        "rounded-md": 5,
+        "py-1": 5,
+        "gap-2": 1,
+        "px-4": 1,
+        "py-3": 1
+      },
+      "common_structures": [],
+      "element_counts": {
+        "18": 13,
+        "5": 4,
+        "17": 2,
+        "14": 2,
+        "13": 2,
+        "6": 5,
+        "7": 1,
+        "15": 3
+      }
+    }
+  },
+  "improved_selectors": {
+    "review_container": "div.flex.md\\:flex-row.md\\:items-start.gap-3.mb-2",
+    "review_title": "h4.text-typo-20.font-semibold.text-neutral-99.flex-1",
+    "star_rating": "div.flex.items-center.gap-1.mr-1",
+    "reviewer_name": "span.text-typo-0.text-neutral-90",
+    "reviewer_role": "span.text-typo-0.text-neutral-90",
+    "reviewer_company": "span.text-typo-0.text-neutral-90",
+    "review_date": "span.text-typo-0.text-neutral-90",
+    "review_text": "p.text-typo-20.text-neutral-90",
+    "pros_section": "div.flex.items-center.gap-2.mb-2",
+    "cons_section": "div.flex.items-center.gap-2.mb-2"
+  },
+  "recommendations": [
+    "✅ Review containers found - extraction logic is working",
+    "🔧 Use improved selectors for better data extraction",
+    "📊 Implement fallback selectors for different page layouts",
+    "🎯 Focus on extracting reviewer details and full review text"
+  ]
+}

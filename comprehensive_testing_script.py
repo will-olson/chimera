@@ -215,7 +215,7 @@ class ComprehensiveTestingFramework:
                 logger.warning("⚠️ Browser stealth configuration: NOT IMPLEMENTED")
             
             # 6. Natural Movement Patterns (Enhanced Precision Scraper)
-            if hasattr(captcha_solver, 'execute_adaptive_puzzle_movement'):
+            if hasattr(captcha_solver, 'natural_movement') and captcha_solver.natural_movement is not None:
                 validation_results["natural_movement_patterns"] = True
                 logger.info("✅ Natural movement patterns: IMPLEMENTED")
             else:

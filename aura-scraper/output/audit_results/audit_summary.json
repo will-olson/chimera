@@ -1,0 +1,57 @@
+{
+  "execution_metadata": {
+    "start_time": "2025-08-31T23:44:10.857384",
+    "total_files_processed": 4,
+    "total_chunks_created": 0,
+    "total_reviews_extracted": 0,
+    "execution_duration": 16.861603260040283,
+    "end_time": "2025-08-31T23:44:27.719126"
+  },
+  "summary_statistics": {
+    "total_files_processed": 4,
+    "total_reviews_extracted": 100,
+    "total_chunks_created": 20098,
+    "total_processing_time": 16.708052158355713,
+    "total_file_size": 4323675,
+    "averages": {
+      "reviews_per_file": 25.0,
+      "chunks_per_file": 5024.5,
+      "processing_time_per_file": 4.177013039588928,
+      "file_size": 1080918.75
+    },
+    "best_extraction": {
+      "file": "Looker Reviews 2025. Verified Reviews, Pros & Cons _ Capterra.html",
+      "reviews_count": 49
+    },
+    "file_breakdown": [
+      {
+        "file": "Looker Features, Alternatives & More 2025 _ Capterra.html",
+        "size_mb": 0.5434112548828125,
+        "chunks": 5013,
+        "reviews": 47,
+        "processing_time": 4.796399831771851
+      },
+      {
+        "file": "Looker Reviews 2025. Verified Reviews, Pros & Cons _ Capterra.html",
+        "size_mb": 0.6111354827880859,
+        "chunks": 5015,
+        "reviews": 49,
+        "processing_time": 3.900421142578125
+      },
+      {
+        "file": "Looker vs Microsoft Power BI _ Which Software is Best For You in 2025_ _ Capterra.html",
+        "size_mb": 1.312448501586914,
+        "chunks": 5031,
+        "reviews": 2,
+        "processing_time": 4.171283006668091
+      },
+      {
+        "file": "Looker vs Microsoft Power BI vs Tableau 2025 _ Capterra.html",
+        "size_mb": 1.6563825607299805,
+        "chunks": 5039,
+        "reviews": 2,
+        "processing_time": 3.8399481773376465
+      }
+    ]
+  }
+}

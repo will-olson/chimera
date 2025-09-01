@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-08-31T21:46:04.923778",
+  "comprehensive_test_results": {
+    "summary": {
+      "overall_success_rate": 0
+    }
+  },
+  "scraping_test_results": [
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+      "success": false,
+      "error": "too many values to unpack (expected 2)"
+    },
+    {
+      "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+      "success": false,
+      "error": "too many values to unpack (expected 2)"
+    }
+  ],
+  "export_test_results": {
+    "success": true,
+    "formats_supported": [
+      "JSON",
+      "CSV"
+    ],
+    "export_quality": 100
+  },
+  "overall_assessment": {
+    "comprehensive_success": false,
+    "scraping_success": false,
+    "export_success": true,
+    "overall_success": false
+  }
+}

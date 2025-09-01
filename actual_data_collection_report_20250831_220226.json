@@ -1,0 +1,101 @@
+{
+  "timestamp": "2025-08-31T22:02:00.451103",
+  "head_to_head_comparisons": [
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "data_quality_score": 0,
+      "total_data_points": 0,
+      "ai_summaries_found": 0
+    },
+    {
+      "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "data_quality_score": 0,
+      "total_data_points": 0,
+      "ai_summaries_found": 0
+    },
+    {
+      "url": "https://www.g2.com/compare/zoom-vs-microsoft-teams",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "data_quality_score": 0,
+      "total_data_points": 0,
+      "ai_summaries_found": 0
+    }
+  ],
+  "four_way_comparisons": [
+    {
+      "url": "https://www.g2.com/compare/microsoft-microsoft-power-bi-vs-qlik-sense-vs-tableau-vs-domo",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "data_quality_score": 0,
+      "products_found": 0,
+      "ratings_extracted": 0
+    },
+    {
+      "url": "https://www.g2.com/compare/salesforce-vs-hubspot-vs-pipedrive-vs-zoho-crm",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "data_quality_score": 0,
+      "products_found": 0,
+      "ratings_extracted": 0
+    }
+  ],
+  "ai_summaries": [
+    {
+      "url": "https://www.g2.com/compare/tableau-vs-microsoft-power-bi",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "summaries_found": 0,
+      "summary_quality_score": 0,
+      "competitive_insights": []
+    },
+    {
+      "url": "https://www.g2.com/compare/salesforce-vs-hubspot",
+      "success": false,
+      "error": "too many values to unpack (expected 2)",
+      "summaries_found": 0,
+      "summary_quality_score": 0,
+      "competitive_insights": []
+    }
+  ],
+  "competitive_insights": {
+    "timestamp": "2025-08-31T22:02:26.139278",
+    "market_insights": [
+      {
+        "insight": "Analyzed 0 products across 0 comparisons",
+        "confidence": 85.0
+      }
+    ],
+    "product_comparisons": [],
+    "recommendations": [
+      {
+        "recommendation": "Focus on AI-generated summaries for competitive intelligence",
+        "rationale": "AI summaries provide synthesized insights from user reviews",
+        "priority": "high"
+      },
+      {
+        "recommendation": "Expand four-way comparison analysis",
+        "rationale": "Four-way comparisons provide comprehensive market positioning",
+        "priority": "medium"
+      }
+    ],
+    "data_quality_summary": {
+      "head_to_head_success_rate": 0.0,
+      "four_way_success_rate": 0.0,
+      "ai_summary_success_rate": 0.0
+    }
+  },
+  "summary": {
+    "head_to_head_success_rate": 0.0,
+    "four_way_success_rate": 0.0,
+    "ai_summary_success_rate": 0.0,
+    "total_data_points_collected": 0,
+    "average_data_quality": 0,
+    "total_comparisons_analyzed": 5,
+    "ai_summaries_extracted": 0
+  }
+}
